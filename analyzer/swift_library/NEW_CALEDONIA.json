@@ -1,0 +1,62 @@
+[
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "BANQUE CALEDONIENNE D'INVESTISSEMENT",
+    "city": "NOUMEA",
+    "branch": "",
+    "swift_code": "BCADNCNN",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/bcadncnn/"
+  },
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "BANQUE DE NOUVELLE CALEDONIE",
+    "city": "NOUMEA",
+    "branch": "",
+    "swift_code": "CEPANCNM",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/cepancnm/"
+  },
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "BNP PARIBAS NOUVELLE CALEDONIE S.A.",
+    "city": "KOUMAC",
+    "branch": "",
+    "swift_code": "BNPANCNXKOU",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/bnpancnxkou/"
+  },
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "BNP PARIBAS NOUVELLE CALEDONIE S.A.",
+    "city": "NOUMEA",
+    "branch": "",
+    "swift_code": "BNPANCNX",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/bnpancnx/"
+  },
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+    "city": "NOUMEA",
+    "branch": "",
+    "swift_code": "CDCGNCNN",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/cdcgncnn/"
+  },
+  {
+    "country": "NEW CALEDONIA",
+    "country_url": "https://www.theswiftcodes.com/new-caledonia/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",
+    "city": "NOUMEA",
+    "branch": "",
+    "swift_code": "SOGENCNN",
+    "row_url": "https://www.theswiftcodes.com/new-caledonia/sogencnn/"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "country": "SAMOA",
+    "country_url": "https://www.theswiftcodes.com/samoa/",
+    "page": 1,
+    "bank": "ANZ BANK (SAMOA) LTD",
+    "city": "APIA",
+    "branch": "",
+    "swift_code": "ANZBWSWW",
+    "row_url": "https://www.theswiftcodes.com/samoa/anzbwsww/"
+  },
+  {
+    "country": "SAMOA",
+    "country_url": "https://www.theswiftcodes.com/samoa/",
+    "page": 1,
+    "bank": "BANK SOUTH PACIFIC (SAMOA) LIMITED",
+    "city": "APIA",
+    "branch": "",
+    "swift_code": "BOSPWSWS",
+    "row_url": "https://www.theswiftcodes.com/samoa/bospwsws/"
+  },
+  {
+    "country": "SAMOA",
+    "country_url": "https://www.theswiftcodes.com/samoa/",
+    "page": 1,
+    "bank": "CENTRAL BANK OF SAMOA",
+    "city": "APIA",
+    "branch": "",
+    "swift_code": "CBSAWSWS",
+    "row_url": "https://www.theswiftcodes.com/samoa/cbsawsws/"
+  },
+  {
+    "country": "SAMOA",
+    "country_url": "https://www.theswiftcodes.com/samoa/",
+    "page": 1,
+    "bank": "NATIONAL BANK OF SAMOA LIMITED",
+    "city": "APIA",
+    "branch": "",
+    "swift_code": "NBSLWSWS",
+    "row_url": "https://www.theswiftcodes.com/samoa/nbslwsws/"
+  },
+  {
+    "country": "SAMOA",
+    "country_url": "https://www.theswiftcodes.com/samoa/",
+    "page": 1,
+    "bank": "SAMOA COMMERCIAL BANK LIMITED",
+    "city": "APIA",
+    "branch": "",
+    "swift_code": "SCOBWSWS",
+    "row_url": "https://www.theswiftcodes.com/samoa/scobwsws/"
+  }
+]

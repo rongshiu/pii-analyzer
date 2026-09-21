@@ -1,0 +1,742 @@
+[
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "365.BANK, A. S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "POBNSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/pobnskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY V SR",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "BFKKSKBB",
+    "row_url": "https://www.theswiftcodes.com/slovakia/bfkkskbb/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "CSDSSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/csdsskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "DEPOSITORY INFORMATION SYSTEM",
+    "swift_code": "CSDSSKBASYS",
+    "row_url": "https://www.theswiftcodes.com/slovakia/csdsskbasys/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "DEPOSITORY TECHNICAL ACCOUNT",
+    "swift_code": "CSDSSKBADTA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/csdsskbadta/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "SLOVAK REPUBLIC DIVISION",
+    "swift_code": "CEKOSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/cekoskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CESKOSLOVENSKA OBCHODNA BANKA, A.S. (FORMERLY CSOB STAVEBNA SPORITELNA, A.S.)",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "KBSPSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/kbspskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "CITISKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/citiskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "RESTRICTED USE CITIBANK BRATISLAVA TARGET 2",
+    "swift_code": "CITISKBASEC",
+    "row_url": "https://www.theswiftcodes.com/slovakia/citiskbasec/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "EXPORT-IMPORT BANK OF SLOVAK REPUBLIC",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "EXSKSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/exskskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "FIOZSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/fiozskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "ING BANK N.V., POBOCKA ZAHR, BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "INGBSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/ingbskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "J AND T BANKA, A.S.,POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "JTBPSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/jtbpskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "K-PAY A.S.",
+    "city": "BERNOLAKOVO",
+    "branch": "",
+    "swift_code": "KPAYSK22",
+    "row_url": "https://www.theswiftcodes.com/slovakia/kpaysk22/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "KODBSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/kodbskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "KOMBSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/kombskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "RESTRICTED TARGET USE",
+    "swift_code": "KOMBSKBATGT",
+    "row_url": "https://www.theswiftcodes.com/slovakia/kombskbatgt/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "MBANK S.A., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "BREXSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/brexskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "KRAFSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/krafskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
+    "city": "BRATISLAVA",
+    "branch": "CUSTOMER NAMING CONVENTION",
+    "swift_code": "KRAFSKBAPYL",
+    "row_url": "https://www.theswiftcodes.com/slovakia/krafskbapyl/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
+    "city": "BRATISLAVA",
+    "branch": "SHARED SERVICE CENTRE",
+    "swift_code": "KRAFSKBASSC",
+    "row_url": "https://www.theswiftcodes.com/slovakia/krafskbassc/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
+    "city": "BRATISLAVA",
+    "branch": "TREASURY",
+    "swift_code": "KRAFSKBATSY",
+    "row_url": "https://www.theswiftcodes.com/slovakia/krafskbatsy/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "NBSBSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "ACCOUNT FOR EBA CLEARING SETTLEMENT",
+    "swift_code": "NBSBSKBXEBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxeba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "ACCOUNT FOR FEES",
+    "swift_code": "NBSBSKBXFE1",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxfe1/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "ACCOUNT FOR INTERESTS",
+    "swift_code": "NBSBSKBXIN1",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxin1/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "AS",
+    "swift_code": "NBSBSKBXSIP",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxsip/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "AS - BILATERAL SETTLEMENT",
+    "swift_code": "NBSBSKBXBIL",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxbil/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "CCB ACCOUNT",
+    "swift_code": "NBSBSKBXCCB",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxccb/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "ECB ACCOUNT",
+    "swift_code": "NBSBSKBXEUX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxeux/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "TARGET2 CUSTOMER PAYMENTS",
+    "swift_code": "NBSBSKBXTGT",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxtgt/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "TECHNICAL USER - ECMS",
+    "swift_code": "NBSBSKBXECM",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbxecm/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "TEST ACCOUNT",
+    "swift_code": "NBSBSKBX100",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbx100/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+    "city": "BRATISLAVA",
+    "branch": "TEST ACCOUNT",
+    "swift_code": "NBSBSKBX200",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nbsbskbx200/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NN DOCHODKOVA SPRAVCOVSKA SPOLOCNOST, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "DSSOSKBB",
+    "row_url": "https://www.theswiftcodes.com/slovakia/dssoskbb/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "NN TATRY - SYMPATIA, D.D.S., A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "NNTSSKB2",
+    "row_url": "https://www.theswiftcodes.com/slovakia/nntsskb2/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "OBERBANK AG",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "OBKLSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/obklskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PARTNERS ASSET MANAGEMENT, SPRAV. SPOL., A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "PAMVSKB2",
+    "row_url": "https://www.theswiftcodes.com/slovakia/pamvskb2/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PARTNERS INVESTMENTS, O.C.P, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "PAVOSKB2",
+    "row_url": "https://www.theswiftcodes.com/slovakia/pavoskb2/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PKO BP S.A., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "BPKOSKBB",
+    "row_url": "https://www.theswiftcodes.com/slovakia/bpkoskbb/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PKO BP S.A., POBOCKA ZAHRANICNEJ BANKY",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "BPKOSKB2",
+    "row_url": "https://www.theswiftcodes.com/slovakia/bpkoskb2/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "BANSKA BYSTRICA",
+    "branch": "BANSKA BYSTRICA BRANCH",
+    "swift_code": "KOMASK2XBBY",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xbby/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "BANSKA STIAVNICA",
+    "branch": "BANSKA STIAVNICA BRANCH",
+    "swift_code": "KOMASK2XBST",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xbst/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "BRATISLAVA BRANCH",
+    "swift_code": "KOMASK2XBRA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xbra/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "BREZNO",
+    "branch": "BREZNO BRANCH",
+    "swift_code": "KOMASK2XBRE",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xbre/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "KOSICE",
+    "branch": "KOSICE BRANCH",
+    "swift_code": "KOMASK2XKOS",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xkos/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "LIPTOVSKY HRADOK",
+    "branch": "LIPTOVSKY HRADOK BRANCH",
+    "swift_code": "KOMASK2XLHR",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xlhr/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "LUCENEC",
+    "branch": "LUCENEC BRANCH",
+    "swift_code": "KOMASK2XLCN",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xlcn/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "MALACKY",
+    "branch": "MALACKY BRANCH",
+    "swift_code": "KOMASK2XMAL",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xmal/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 1,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "MICHALOVCE",
+    "branch": "MICHALOVCE BRANCH",
+    "swift_code": "KOMASK2XMCH",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xmch/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "NITRA",
+    "branch": "NITRA BRANCH",
+    "swift_code": "KOMASK2XNIT",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xnit/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "POVAZSKA BYSTRICA",
+    "branch": "POVAZSKA BYSTRICA BRANCH",
+    "swift_code": "KOMASK2XPBY",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xpby/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "SPISSKA NOVA VES",
+    "branch": "SPISSKA NOVA VES BRANCH",
+    "swift_code": "KOMASK2XSNV",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xsnv/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "TRENCIN",
+    "branch": "TRENCIN BRANCH",
+    "swift_code": "KOMASK2XTRE",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xtre/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "TRNAVA",
+    "branch": "TRNAVA BRANCH",
+    "swift_code": "KOMASK2XTNA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xtna/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "ZILINA",
+    "branch": "",
+    "swift_code": "LUBASKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/lubaskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "ZILINA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "KOMASK2X",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2x/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIMA BANKA SLOVENSKO, A.S.",
+    "city": "ZILINA",
+    "branch": "ZILINA BRANCH",
+    "swift_code": "KOMASK2XZIL",
+    "row_url": "https://www.theswiftcodes.com/slovakia/komask2xzil/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRIVATBANKA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "BSLOSK22",
+    "row_url": "https://www.theswiftcodes.com/slovakia/bslosk22/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "PRVA STAVEBNA SPORITELNA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "PRVASKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/prvaskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "SIA CENTRAL EUROPE, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "FDXXSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/fdxxskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "SLOVENSKA SPORITELNA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "GIBASKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/gibaskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "SLOVENSKA ZARUCNA A ROZVOJOVA BANKA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "SLZBSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/slzbskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "STATNA POKLADNICA",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "SPSRSKBAARD",
+    "row_url": "https://www.theswiftcodes.com/slovakia/spsrskbaard/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "STATNA POKLADNICA",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "SPSRSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/spsrskba/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "TATRA BANKA A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "TATRSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/tatrskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "TRUST PAY, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "TPAYSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/tpayskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "U. S. STEEL KOSICE, S.R.O.",
+    "city": "KOSICE",
+    "branch": "",
+    "swift_code": "SKSOSK2X",
+    "row_url": "https://www.theswiftcodes.com/slovakia/sksosk2x/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "UNCRSKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/uncrskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
+    "city": "BRATISLAVA",
+    "branch": "INTERNAL FILE ACT ROUTING",
+    "swift_code": "UNCRSKBXFAR",
+    "row_url": "https://www.theswiftcodes.com/slovakia/uncrskbxfar/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
+    "city": "BRATISLAVA",
+    "branch": "SECURITIES SETTLEMENT",
+    "swift_code": "UNCRSKBXOWN",
+    "row_url": "https://www.theswiftcodes.com/slovakia/uncrskbxown/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "UNIFIEDPOST PAYMENTS, ORGANIZACNA ZLOZKA",
+    "city": "IVANKA PRI DUNAJI",
+    "branch": "",
+    "swift_code": "PANXSK22",
+    "row_url": "https://www.theswiftcodes.com/slovakia/panxsk22/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "VSEOBECNA UVEROVA BANKA A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "SUBASKBX",
+    "row_url": "https://www.theswiftcodes.com/slovakia/subaskbx/"
+  },
+  {
+    "country": "SLOVAKIA",
+    "country_url": "https://www.theswiftcodes.com/slovakia/",
+    "page": 2,
+    "bank": "WUSTENROT STAVEBNA SPORITELNA, A.S.",
+    "city": "BRATISLAVA",
+    "branch": "",
+    "swift_code": "WUSTSKBA",
+    "row_url": "https://www.theswiftcodes.com/slovakia/wustskba/"
+  }
+]

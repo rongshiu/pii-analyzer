@@ -1,0 +1,290 @@
+services:
+  clf-api:
+    build: 
+      context: ./clf-api
+      dockerfile: Dockerfile
+      secrets:
+        - github_token
+    container_name: clf-api
+    volumes:
+      - ./clf-api/app:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - spark-job
+    environment:
+      - SPARK_API_URL=http://spark-job:8080/v1/trigger-job
+      - POSTGRES_HOST=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - REDIS_DETECTION_URL=redis://redis-detection-cache:6379/0
+    networks:
+      - internal
+
+  spark-job:
+    build: 
+      context: ./spark-job
+      dockerfile: Dockerfile
+      secrets:
+        - github_token
+    container_name: spark-job
+    depends_on:
+      - redis
+      - analyzer
+      - minio
+      - postgres
+    volumes:
+      - ./spark-job/app:/app
+    ports:
+      - "8080:8080"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:-minioadmin}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:-minioadmin}
+      - MINIO_BUCKET=${MINIO_BUCKET:-pii-scanner}
+      - ANALYZER_URL=http://analyzer:3000/v1
+      - ANALYZER_API_KEY=${ANALYZER_API_KEY}
+      - POSTGRES_URL=jdbc:postgresql://postgres:5432/postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - COMPLETION_API_URL=${COMPLETION_API_URL}
+      - API_KEY=${API_KEY}
+      - BEARER_TOKEN=${BEARER_TOKEN}
+      - SPARK_MASTER_URL=local[*]    
+    networks: 
+      - internal
+
+  # spark-master:
+  #   build: 
+  #     context: ./spark-job
+  #     dockerfile: Dockerfile
+  #     secrets:
+  #       - github_token
+  #   container_name: spark-master
+  #   environment:
+  #     - SPARK_MODE=master
+  #     - SPARK_HOME=/opt/spark
+  #   ports:
+  #     - "7077:7077"  # Spark master port
+  #     - "8081:8081"  # Spark master web UI
+  #   command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master", "--host", "spark-master"]
+  #   volumes:
+  #     - ./spark-job/app:/app
+  #   networks:
+  #     - internal
+
+  # spark-worker:
+  #   build: 
+  #     context: ./spark-job
+  #     dockerfile: Dockerfile
+  #     secrets:
+  #       - github_token
+  #   container_name: spark-worker
+  #   depends_on:
+  #     - spark-master
+  #   environment:
+  #     - SPARK_MODE=worker
+  #     - SPARK_MASTER_URL=spark://spark-master:7077
+  #   command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.worker.Worker", "spark://spark-master:7077"]
+  #   volumes:
+  #     - ./spark-job/app:/app
+  #   networks:
+  #     - internal
+  
+    # Celery Worker
+  queue-worker:
+    build: 
+      context: ./spark-job
+      dockerfile: Dockerfile
+      secrets:
+        - github_token
+    container_name: queue-worker
+    depends_on:
+      - redis
+      - spark-job
+    command: sh -c "celery -A celery_worker.celery_app worker --loglevel=info --concurrency=2 --queues=$$CELERY_SPARK_QUEUE"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:-minioadmin}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:-minioadmin}
+      - MINIO_BUCKET=${MINIO_BUCKET:-pii-scanner}
+      - ANALYZER_URL=http://analyzer:3000/v1
+      - ANALYZER_API_KEY=${ANALYZER_API_KEY}
+      - POSTGRES_URL=jdbc:postgresql://postgres:5432/postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - COMPLETION_API_URL=${COMPLETION_API_URL}
+      - API_KEY=${API_KEY}
+      - BEARER_TOKEN=${BEARER_TOKEN}
+      - SPARK_MASTER_URL=local[*]
+      - CELERY_SPARK_QUEUE=spark
+    volumes:
+      - ./spark-job/app:/app
+    networks:
+      - internal
+
+  retry-worker:
+    build: 
+      context: ./spark-job
+      dockerfile: Dockerfile
+      secrets:
+        - github_token
+    container_name: retry-worker
+    depends_on:
+      - redis
+      - spark-job
+    command: sh -c "celery -A celery_worker.celery_app worker --loglevel=info --concurrency=2 --queues=$$CELERY_RETRY_QUEUE"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:-minioadmin}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:-minioadmin}
+      - MINIO_BUCKET=${MINIO_BUCKET:-pii-scanner}
+      - ANALYZER_URL=http://analyzer:3000/v1
+      - ANALYZER_API_KEY=${ANALYZER_API_KEY}
+      - POSTGRES_URL=jdbc:postgresql://postgres:5432/postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - COMPLETION_API_URL=${COMPLETION_API_URL}
+      - API_KEY=${API_KEY}
+      - BEARER_TOKEN=${BEARER_TOKEN}
+      - SPARK_MASTER_URL=local[*]
+      - CELERY_RETRY_QUEUE=retry
+    volumes:
+      - ./spark-job/app:/app
+    networks:
+      - internal
+
+  watchdog-worker:
+    build: 
+      context: ./spark-job
+      dockerfile: Dockerfile
+      secrets:
+        - github_token
+    container_name: watchdog-worker
+    depends_on:
+      - redis
+      - spark-job
+    command: sh -c "celery -A celery_worker.celery_app worker --loglevel=info --concurrency=10 --queues=$$CELERY_WATCHDOG_QUEUE"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:-minioadmin}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:-minioadmin}
+      - MINIO_BUCKET=${MINIO_BUCKET:-pii-scanner}
+      - ANALYZER_URL=http://analyzer:3000/v1
+      - ANALYZER_API_KEY=${ANALYZER_API_KEY}
+      - POSTGRES_URL=jdbc:postgresql://postgres:5432/postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - COMPLETION_API_URL=${COMPLETION_API_URL}
+      - API_KEY=${API_KEY}
+      - BEARER_TOKEN=${BEARER_TOKEN}
+      - SPARK_MASTER_URL=local[*]
+      - CELERY_WATCHDOG_QUEUE=watchdog
+    volumes:
+      - ./spark-job/app:/app
+    networks:
+      - internal
+
+  # Redis for Celery broker
+  redis:
+    image: redis:7
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - internal
+    pull_policy: if_not_present
+  
+  redis-detection-cache:
+    image: redis:7
+    container_name: redis-detection-cache
+    ports:
+      - "6378:6379"
+    networks:
+      - internal
+    pull_policy: if_not_present
+  
+  analyzer:
+    build: 
+      context: ./analyzer
+      dockerfile: Dockerfile.local
+      secrets:
+        - github_token
+        - hugging_face_hub_token
+      args:
+        VERSION: dev
+        COMMIT: unknown
+        BUILD_TIME: unknown
+    container_name: analyzer
+    environment:
+      - TRANSFORMERS_OFFLINE=1
+      - HF_ADDRESS_DETECTOR_MODEL=${HF_ADDRESS_DETECTOR_MODEL}
+      - POSTGRES_HOST=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+      - POSTGRES_DB=postgres
+      - REDIS_DETECTION_URL=redis://redis-detection-cache:6379/0
+    ports:
+      - "3000:3000"
+    networks:
+      - internal
+
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9000:9000"  # API
+      - "9001:9001"  # Web UI
+    volumes:
+      - minio_data:/data
+    environment:
+      - MINIO_ROOT_USER=${MINIO_ACCESS_KEY:-minioadmin}
+      - MINIO_ROOT_PASSWORD=${MINIO_SECRET_KEY:-minioadmin}
+    command: server /data --console-address ":9001"
+    networks:
+      - internal
+
+  postgres:
+    image: postgres:13
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - internal
+
+  alembic:
+    build: ./alembic
+    depends_on:
+      - postgres
+    environment:
+      - DB_URL=postgresql+psycopg2://postgres:${POSTGRES_PASSWORD:-postgres}@postgres:5432/postgres
+    command: alembic upgrade head
+    networks:
+      - internal
+
+secrets:
+  github_token:
+    file: ${GITHUB_TOKEN_FILE:-./github_token.txt}
+  hugging_face_hub_token:
+    file: ${HF_TOKEN_FILE:-./hf_token.txt}
+
+volumes:
+  minio_data:
+  pg_data:
+
+networks:
+  internal:

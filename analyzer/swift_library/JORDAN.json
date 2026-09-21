@@ -1,0 +1,842 @@
+[
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "AL ALAMI EXCHANGE COMPANY",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "ALEYJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/aleyjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "AL RAJHI BANK , JORDAN BRANCH",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "RJHIJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/rjhijoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ALAWNEH EXCHANGE L.L.C",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "ALELJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/aleljoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "ABDALI BRANCH",
+    "swift_code": "ARABJOAX119",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax119/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "ABDOUN BRANCH",
+    "swift_code": "ARABJOAX133",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax133/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "ABU ALANDA",
+    "swift_code": "ARABJOAX131",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax131/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "AL-JUBEIHA BRANCH",
+    "swift_code": "ARABJOAX126",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax126/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "CENTRAL OPERATIONS UNIT-TRADE FINANCE SERVICES",
+    "swift_code": "ARABJOAX501",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax501/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "CENTRALIZED INWARD TRANSFERS DEPT.",
+    "swift_code": "ARABJOAXCUT",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxcut/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "CENTRALIZED OUTWARD TRANSFERS DEPT.",
+    "swift_code": "ARABJOAXTRF",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxtrf/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "CENTRALIZED SALARIES UNIT",
+    "swift_code": "ARABJOAXSLR",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxslr/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "DEALING ROOM",
+    "swift_code": "ARABJOAXDLR",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxdlr/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "FIFTH CIRCLE BRANCH",
+    "swift_code": "ARABJOAX134",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax134/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "GARDENS BRANCH",
+    "swift_code": "ARABJOAX128",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax128/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "GENERAL SECRETARIAT DEPARTMENT",
+    "swift_code": "ARABJOAXSEC",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxsec/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "HEAD OFFICE",
+    "swift_code": "ARABJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "INTERNATIONAL BANKING DIVISION",
+    "swift_code": "ARABJOAXINT",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxint/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "JABAL AMMAN BRANCH",
+    "swift_code": "ARABJOAX115",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax115/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "JABAL HUSSEIN BRANCH",
+    "swift_code": "ARABJOAX116",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax116/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "JABAL LUWEIBDEH BRANCH",
+    "swift_code": "ARABJOAX113",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax113/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "JORDAN BRANCHES CENTRE",
+    "swift_code": "ARABJOAX100",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax100/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "KING FAISAL STREET",
+    "swift_code": "ARABJOAX111",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax111/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "MAHATIA STREET BRANCH",
+    "swift_code": "ARABJOAX112",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax112/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "MARQA BRANCH",
+    "swift_code": "ARABJOAX117",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax117/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "MECCA STREET BRANCH",
+    "swift_code": "ARABJOAX139",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax139/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "OPERATIONS DIVISION",
+    "swift_code": "ARABJOAXOPS",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxops/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "PRIVATE BANKING DEPARTMENT 6",
+    "swift_code": "ARABJOAXPBD",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxpbd/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "QURAYSH STREET BRANCH",
+    "swift_code": "ARABJOAX108",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax108/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "RABIA BRANCH",
+    "swift_code": "ARABJOAX138",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax138/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "SHMEISANI BRANCH",
+    "swift_code": "ARABJOAX118",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax118/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "SUWAIFEYYA BRANCH",
+    "swift_code": "ARABJOAX130",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax130/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "SUWEILEH BRANCH",
+    "swift_code": "ARABJOAX110",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax110/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "TEST KEY DEPARTMENT",
+    "swift_code": "ARABJOAXTKD",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoaxtkd/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "UNIVERSITY STREET",
+    "swift_code": "ARABJOAX125",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax125/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "WADI SEER BRANCH",
+    "swift_code": "ARABJOAX162",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax162/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AMMAN",
+    "branch": "WAHDAT BRANCH",
+    "swift_code": "ARABJOAX114",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax114/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "AQABA",
+    "branch": "AQABA BRANCH",
+    "swift_code": "ARABJOAX122",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax122/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "IRBID",
+    "branch": "IRBID BRANCH",
+    "swift_code": "ARABJOAX120",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax120/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "JERASH",
+    "branch": "JERASH BRANCH",
+    "swift_code": "ARABJOAX107",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax107/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "KARAK",
+    "branch": "KARAK BRANCH",
+    "swift_code": "ARABJOAX102",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax102/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "MAFRAQ",
+    "branch": "MAFRAQ BRANCH",
+    "swift_code": "ARABJOAX104",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax104/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "RUSSEIFA",
+    "branch": "RUSSEIFA BRANCH",
+    "swift_code": "ARABJOAX105",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax105/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "SAHAB",
+    "branch": "SAHAB INDUSTRIAL CITY",
+    "swift_code": "ARABJOAX161",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax161/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "ZARQA",
+    "branch": "ZERQA BRANCH",
+    "swift_code": "ARABJOAX121",
+    "row_url": "https://www.theswiftcodes.com/jordan/arabjoax121/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB BANKING CORPORATION (JORDAN)",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "ABCJJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/abcjjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB JORDAN INVESTMENT BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "AJIBJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/ajibjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "ARAB JORDAN INVESTMENT BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "AJIBJOAX600",
+    "row_url": "https://www.theswiftcodes.com/jordan/ajibjoax600/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "BANK ALETIHAD",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "UBSIJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/ubsijoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "BANK OF JORDAN PLC",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "BJORJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/bjorjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 1,
+    "bank": "BANK OF JORDAN PLC",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "BJORJOAXCNC",
+    "row_url": "https://www.theswiftcodes.com/jordan/bjorjoaxcnc/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "BANK OF JORDAN PLC",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "BJORJOAXBHM",
+    "row_url": "https://www.theswiftcodes.com/jordan/bjorjoaxbhm/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "BLOM BANK S.A.L.",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "BLOMJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/blomjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CAIRO AMMAN BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "CAABJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/caabjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CAPITAL BANK OF JORDAN",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "EFBKJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/efbkjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CENTRAL BANK OF JORDAN",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "CBJOJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/cbjojoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CENTRAL BANK OF JORDAN",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "CBJOJOA3",
+    "row_url": "https://www.theswiftcodes.com/jordan/cbjojoa3/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CENTRAL BANK OF JORDAN",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "CBJOJOA2",
+    "row_url": "https://www.theswiftcodes.com/jordan/cbjojoa2/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CENTRAL BANK OF JORDAN",
+    "city": "AQABA",
+    "branch": "AQABA BRANCH",
+    "swift_code": "CBJOJOAX02A",
+    "row_url": "https://www.theswiftcodes.com/jordan/cbjojoax02a/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CENTRAL BANK OF JORDAN",
+    "city": "IRBID",
+    "branch": "IRBID BRANCH",
+    "swift_code": "CBJOJOAX021",
+    "row_url": "https://www.theswiftcodes.com/jordan/cbjojoax021/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "CITIBANK N.A.",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "CITIJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/citijoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "EGYPTIAN ARAB LAND BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "ARLBJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/arlbjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "HOUSING BANK FOR TRADE AND FINANCE, THE",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "HBHOJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/hbhojoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "INVESTBANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "JIFBJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/jifbjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "IIBAJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/iibajoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+    "city": "AMMAN",
+    "branch": "CENTRAL OPERATIONS DEPARTMENT/ BACK OFFICE",
+    "swift_code": "IIBAJOAMJBC",
+    "row_url": "https://www.theswiftcodes.com/jordan/iibajoamjbc/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+    "city": "AMMAN",
+    "branch": "CENTRAL OPERATIONS DEPARTMENT/ LCS",
+    "swift_code": "IIBAJOAM100",
+    "row_url": "https://www.theswiftcodes.com/jordan/iibajoam100/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+    "city": "AMMAN",
+    "branch": "CENTRAL OPERATIONS DEPARTMENT/ LGS AND BCS",
+    "swift_code": "IIBAJOAM300",
+    "row_url": "https://www.theswiftcodes.com/jordan/iibajoam300/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "ISLAMIC INTERNATIONAL ARAB BANK",
+    "city": "AMMAN",
+    "branch": "CENTRAL OPERATIONS DEPARTMENT/ TRANSFERS",
+    "swift_code": "IIBAJOAM200",
+    "row_url": "https://www.theswiftcodes.com/jordan/iibajoam200/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN AHLI BANK PLC",
+    "city": "AMMAN",
+    "branch": "JORDAN BRANCHES MANAGEMENT",
+    "swift_code": "JONBJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/jonbjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN COMMERCIAL BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "JGBAJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/jgbajoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "JIBAJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "AL-HUSSEIN BRANCH",
+    "swift_code": "JIBAJOAM111",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam111/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "AL-YARMOUK STREET BRANCH",
+    "swift_code": "JIBAJOAM113",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam113/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "AMMAN BRANCH",
+    "swift_code": "JIBAJOAM110",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam110/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "H.O.",
+    "swift_code": "JIBAJOAM115",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam115/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "SAQF EL-SAIL BRANCH",
+    "swift_code": "JIBAJOAM112",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam112/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "WASFI-AL-TEL STREET BRANCH",
+    "swift_code": "JIBAJOAM114",
+    "row_url": "https://www.theswiftcodes.com/jordan/jibajoam114/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "JORDAN KUWAIT BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "JKBAJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/jkbajoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "KAMAL EXCHANGE CO L.L.C",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "MAKSJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/maksjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "MUSHARBASH EXCHANGE L.L.C",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "MUEOJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/mueojoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "RAFIDAIN BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "RAFBJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/rafbjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "SAFWA ISLAMIC BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "JDIBJOAM",
+    "row_url": "https://www.theswiftcodes.com/jordan/jdibjoam/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "SECURITIES DEPOSITORY CENTER",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "SEDCJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/sedcjoax/"
+  },
+  {
+    "country": "JORDAN",
+    "country_url": "https://www.theswiftcodes.com/jordan/",
+    "page": 2,
+    "bank": "STANDARD CHARTERED BANK",
+    "city": "AMMAN",
+    "branch": "",
+    "swift_code": "SCBLJOAX",
+    "row_url": "https://www.theswiftcodes.com/jordan/scbljoax/"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "country": "ANGUILLA",
+    "country_url": "https://www.theswiftcodes.com/anguilla/",
+    "page": 1,
+    "bank": "NATIONAL COMMERCIAL BANK OF ANGUILLA LTD",
+    "city": "THE VALLEY",
+    "branch": "",
+    "swift_code": "ANGUAIAI",
+    "row_url": "https://www.theswiftcodes.com/anguilla/anguaiai/"
+  },
+  {
+    "country": "ANGUILLA",
+    "country_url": "https://www.theswiftcodes.com/anguilla/",
+    "page": 1,
+    "bank": "REPUBLIC BANK (ANGUILLA) LIMITED",
+    "city": "THE VALLEY",
+    "branch": "",
+    "swift_code": "RBNKAIAI",
+    "row_url": "https://www.theswiftcodes.com/anguilla/rbnkaiai/"
+  },
+  {
+    "country": "ANGUILLA",
+    "country_url": "https://www.theswiftcodes.com/anguilla/",
+    "page": 1,
+    "bank": "REPUBLIC BANK (ANGUILLA) LIMITED",
+    "city": "THE VALLEY",
+    "branch": "SETTLEMENTS",
+    "swift_code": "RBNKAIAIAIA",
+    "row_url": "https://www.theswiftcodes.com/anguilla/rbnkaiaiaia/"
+  }
+]

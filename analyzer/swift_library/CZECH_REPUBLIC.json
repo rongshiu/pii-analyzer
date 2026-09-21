@@ -1,0 +1,782 @@
+[
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "AIR BANK A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "AIRACZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/airaczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "AKCENTA CZ A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "AKCNCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/akcnczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "ALTERNATIVE PAYMENT SOLUTIONS, S.R.O",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "APORCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/aporczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "ARTESA, SPORITELNI DRUZSTVO",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "ARTTCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/arttczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BANK OF CHINA (CEE) LTD. PRAGUE BRANCH",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BKCHCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bkchczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BANK OF COMMUNICATIONS CO., LTD. PRAGUE BRANCH ODSTEPNY ZAVOD",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "COMMCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/commczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BANKA CREDITAS",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CTASCZ22",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/ctascz22/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BEEKASH PAYMENT SOLUTION SRO",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BPORCZ22",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bporcz22/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BESTPAY S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BEORCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/beorczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "BNP PARIBAS S.A., POBOCKA CESKA REPUBLIKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "GEBACZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/gebaczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CE INDUSTRIES A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "IDUSCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/idusczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CENTRALNI DEPOZITAR CENNYCH PAPIRU, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "UNIYCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/uniyczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CENTRALNI DEPOZITAR CENNYCH PAPIRU, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "UNIYCZPA",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/uniyczpa/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CESKA NARODNI BANKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CNBACZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cnbaczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CESKA NARODNI BANKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CNBACZPB",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cnbaczpb/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CESKA SPORITELNA A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "GIBACZPX",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/gibaczpx/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
+    "city": "PRAGUE",
+    "branch": "HEAD OFFICE",
+    "swift_code": "CEKOCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cekoczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CEZ, A. S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CEZCCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cezcczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CITFIN, SPORITELNI DRUZSTVO",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CITFCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/citfczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CITICZPX",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/citiczpx/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "CITI CDCP AO",
+    "swift_code": "CITICZPXAOC",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/citiczpxaoc/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "CITI CDCP GCM",
+    "swift_code": "CITICZPXGCM",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/citiczpxgcm/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "TRADE SERVICES DEPT.",
+    "swift_code": "CITICZPXTRD",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/citiczpxtrd/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CME SERVICES S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CMEHCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cmehczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "COMMERZBANK AG",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "COBACZPX",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/cobaczpx/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CREA PAY S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "SMTLCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/smtlczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CSGM A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "SGGMCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/sggmczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "CZECH EXPORT BANK",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "CZEECZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/czeeczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE PRAG, ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "DEUTCZPX",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/deutczpx/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "E-STEPS S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "ESROCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/esroczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "EUROPEAN SECUREPAY CENTER S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "KOLOCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/koloczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "EUROPEAN SECUREPAY CENTER S.R.O.",
+    "city": "PRAGUE",
+    "branch": "DOC PROCESSING",
+    "swift_code": "KOLOCZP2999",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/koloczp2999/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "FIO BANKA, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "FIOBCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/fiobczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "GENERALI INVESTMENTS CEE, INV.SPOL,A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "GNRLCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/gnrlczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "HSBC CONTINENTAL EUROPE, CZECH REPUBLIC",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "MIDLCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/midlczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "HSBC CONTINENTAL EUROPE, CZECH REPUBLIC",
+    "city": "PRAGUE",
+    "branch": "SEPA DIRECT DEBITS",
+    "swift_code": "MIDLCZPPSDD",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/midlczppsdd/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, PRAGUE BRANCH, ODSTEPNY ZAVOD",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "ICBKCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/icbkczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "ING BANK N.V.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "INGBCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/ingbczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "J AND T BANKA A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "JTBPCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/jtbpczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "KIWI.COM S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "KSOOCZ22",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/ksoocz22/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "KOMERCNI BANKA A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "KOMBCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/kombczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "MAX BANKA A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "EXPNCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/expnczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "MBANK S.A., ORGANIZACNI SLOZKA",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BREXCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/brexczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "MONETA MONEY BANK, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "AGBACZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/agbaczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "MONEYPOLO EUROPE S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "MOUSCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/mousczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "MORTONS S.R.O.",
+    "city": "FRYDEK-MISTEK",
+    "branch": "",
+    "swift_code": "MRSOCZ22",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/mrsocz22/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "NARODNI ROZVOJOVA BANKA, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "NROZCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/nrozczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "OBERBANK AG",
+    "city": "CESKE BUDEJOVICE",
+    "branch": "",
+    "swift_code": "OBKLCZ2X",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/obklcz2x/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "PAYMASTER A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PYYMCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/pyymczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 1,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPCOR",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppcor/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPGLB",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppglb/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPINT",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppint/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPMON",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppmon/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPPAY",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczpppay/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPVAL",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppval/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPFIN",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppfin/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPGEN",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppgen/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PAYMENT EXECUTION S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAERCZPPPRG",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/paerczppprg/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PKO BP S.A., CZECH BRANCH",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BPKOCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bpkoczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PP MONEY TRANSFER S.R.O.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PAPOCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/papoczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "PPF BANKA A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PMBPCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/pmbpczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "RAIFFEISENBANK A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "RZBCCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/rzbcczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "ROKLEN360 A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "ROKECZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/rokeczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "SAB FINANCE A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "SBFNCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/sbfnczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "SBERBANK CZ, A.S. V LIKVIDACI",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "VBOECZ2X",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/vboecz2x/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "SKODA TRANSPORTATION A.S.",
+    "city": "PLZEN",
+    "branch": "",
+    "swift_code": "SKTACZ22",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/sktacz22/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "TRINITY BANK A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "MPUBCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/mpubczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "BACXCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bacxczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "city": "PRAGUE",
+    "branch": "INTERNAL FILE ACT ROUTING",
+    "swift_code": "BACXCZPPFAR",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bacxczppfar/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "city": "PRAGUE",
+    "branch": "SECURITIES SERVICES",
+    "swift_code": "BACXCZPPCBL",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bacxczppcbl/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
+    "city": "PRAGUE",
+    "branch": "SECURITIES SETTLEMENT",
+    "swift_code": "BACXCZPPRET",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/bacxczppret/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNIFIEDPOST PAYMENTS S.A., ODSTEPNY ZAVOD",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "PANXCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/panxczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "UNIQA INVESTICNI SPOLECNOST, A. S.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "AXILCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/axilczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "VIVA PAYMENT SERVICES S.A. ODSTEPNY ZAVOD",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "VPAYCZP2",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/vpayczp2/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "VSEOBECNA UVEROVA BANKA A.S., PRAGUE BRANCH",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "SUBACZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/subaczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "WOOD AND COMPANY",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "WOODCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/woodczpp/"
+  },
+  {
+    "country": "CZECH REPUBLIC",
+    "country_url": "https://www.theswiftcodes.com/czech-republic/",
+    "page": 2,
+    "bank": "ZENTIVA GROUP S.A.",
+    "city": "PRAGUE",
+    "branch": "",
+    "swift_code": "ZENGCZPP",
+    "row_url": "https://www.theswiftcodes.com/czech-republic/zengczpp/"
+  }
+]

@@ -1,0 +1,2652 @@
+[
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "AION S.A. SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BMPBPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/bmpbplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ALBPPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/albpplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "ALIOR BANK SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ALBPPLPWCUS",
+    "row_url": "https://www.theswiftcodes.com/poland/albpplpwcus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "AMER SPORTS FINANCIAL SHARED SERVICE SP.",
+    "city": "KRAKOW",
+    "branch": "",
+    "swift_code": "ASFHPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/asfhplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "AS INBANK SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ISAOPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/isaoplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK BPH SA",
+    "city": "GDANSK",
+    "branch": "",
+    "swift_code": "BPHKPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/bphkplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK BPH SA",
+    "city": "GDANSK",
+    "branch": "CUSTODY DEPARTMENT",
+    "swift_code": "BPHKPLPKCUS",
+    "row_url": "https://www.theswiftcodes.com/poland/bphkplpkcus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK GOSPODARSTWA KRAJOWEGO",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "GOSKPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/goskplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK HANDLOWY W WARSZAWIE SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "CITIPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/citiplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK HANDLOWY W WARSZAWIE SA",
+    "city": "WARSZAWA",
+    "branch": "BANK HANDLOWY W WARSZAWIE SA BROKERAGE ACTIVITY",
+    "swift_code": "CITIPLPXBRO",
+    "row_url": "https://www.theswiftcodes.com/poland/citiplpxbro/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK HANDLOWY W WARSZAWIE SA",
+    "city": "WARSZAWA",
+    "branch": "WARSAW COMMODITY CLEARING HOUSE MESSAGES EXCHANGE ONLY",
+    "swift_code": "CITIPLPXCCH",
+    "row_url": "https://www.theswiftcodes.com/poland/citiplpxcch/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK MILLENNIUM S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BIGBPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/bigbplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK MILLENNIUM S.A.",
+    "city": "WARSZAWA",
+    "branch": "CUSTODY DEPARTMENT",
+    "swift_code": "BIGBPLPWCUS",
+    "row_url": "https://www.theswiftcodes.com/poland/bigbplpwcus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK NOWY SPOLKA AKCYJNA",
+    "city": "POZNAN",
+    "branch": "",
+    "swift_code": "NOSJPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/nosjplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "BIALYSTOK",
+    "branch": "",
+    "swift_code": "EBOSPLPW216",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw216/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "BIELSKO BIALA",
+    "branch": "",
+    "swift_code": "EBOSPLPW261",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw261/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "BYDGOSZCZ",
+    "branch": "",
+    "swift_code": "EBOSPLPW018",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw018/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "CHELM",
+    "branch": "",
+    "swift_code": "EBOSPLPWCHA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwcha/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "CZESTOCHOWA",
+    "branch": "",
+    "swift_code": "EBOSPLPW005",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw005/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "ELBLAG",
+    "branch": "",
+    "swift_code": "EBOSPLPW274",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw274/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "GDANSK",
+    "branch": "",
+    "swift_code": "EBOSPLPW089",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw089/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "JELENIA GORA",
+    "branch": "JELENIA GORA",
+    "swift_code": "EBOSPLPW199",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw199/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "KATOWICE",
+    "branch": "",
+    "swift_code": "EBOSPLPW119",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw119/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "KIELCE",
+    "branch": "",
+    "swift_code": "EBOSPLPWKIA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwkia/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "KONIN",
+    "branch": "",
+    "swift_code": "EBOSPLPW232",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw232/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "KOSZALIN",
+    "branch": "",
+    "swift_code": "EBOSPLPW034",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw034/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "KRAKOW",
+    "branch": "",
+    "swift_code": "EBOSPLPW106",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw106/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "LEGNICA",
+    "branch": "",
+    "swift_code": "EBOSPLPW258",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw258/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "LODZ",
+    "branch": "",
+    "swift_code": "EBOSPLPW245",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw245/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "LOMZA",
+    "branch": "",
+    "swift_code": "EBOSPLPWLOA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwloa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "LUBLIN",
+    "branch": "",
+    "swift_code": "EBOSPLPW135",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw135/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "OBORNIKI",
+    "branch": "",
+    "swift_code": "EBOSPLPW210",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw210/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "OLSZTYN",
+    "branch": "",
+    "swift_code": "EBOSPLPW063",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw063/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "OPOLE",
+    "branch": "",
+    "swift_code": "EBOSPLPW229",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw229/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "OSTROW WIELKOPOLSKI",
+    "branch": "",
+    "swift_code": "EBOSPLPW223",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw223/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "PILA",
+    "branch": "",
+    "swift_code": "EBOSPLPWPIA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwpia/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "PLOCK",
+    "branch": "",
+    "swift_code": "EBOSPLPW290",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw290/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "POZNAN",
+    "branch": "",
+    "swift_code": "EBOSPLPW047",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw047/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "RZESZOW",
+    "branch": "",
+    "swift_code": "EBOSPLPW122",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw122/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "SUWALKI",
+    "branch": "",
+    "swift_code": "EBOSPLPWSUA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwsua/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "SZCZECIN",
+    "branch": "",
+    "swift_code": "EBOSPLPW076",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw076/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "TARNOW",
+    "branch": "",
+    "swift_code": "EBOSPLPW252",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw252/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "TORUN",
+    "branch": "",
+    "swift_code": "EBOSPLPW304",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw304/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "EBOSPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "CORPORATE CLIENTS UNIT",
+    "swift_code": "EBOSPLPW017",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw017/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "I/O WARSZAWA",
+    "swift_code": "EBOSPLPW102",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw102/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "II/O WARSZAWA",
+    "swift_code": "EBOSPLPW157",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw157/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "III/O WARSZAWA",
+    "swift_code": "EBOSPLPW287",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw287/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WLOCLAWEK",
+    "branch": "",
+    "swift_code": "EBOSPLPW050",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw050/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 1,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "WROCLAW",
+    "branch": "",
+    "swift_code": "EBOSPLPW021",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpw021/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK OCHRONY SRODOWISKA S.A.",
+    "city": "ZAMOSC",
+    "branch": "",
+    "swift_code": "EBOSPLPWZAA",
+    "row_url": "https://www.theswiftcodes.com/poland/ebosplpwzaa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK OF CHINA (EUROPE) S.A. POLAND BRANCH",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BKCHPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/bkchplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
+    "city": "KRAKOW",
+    "branch": "KRAKOW REGIONAL OFFICE",
+    "swift_code": "PKOPPLPWKRA",
+    "row_url": "https://www.theswiftcodes.com/poland/pkopplpwkra/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
+    "city": "WARSZAWA",
+    "branch": "BIURO MAKLERSKIE PEKAO",
+    "swift_code": "PKOPPLPWSMK",
+    "row_url": "https://www.theswiftcodes.com/poland/pkopplpwsmk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
+    "city": "WARSZAWA",
+    "branch": "CUSTODY",
+    "swift_code": "PKOPPLPWCUS",
+    "row_url": "https://www.theswiftcodes.com/poland/pkopplpwcus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "PKOPPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/pkopplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK POLSKIEJ SPOLDZIELCZOSCI SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "POLUPLPR",
+    "row_url": "https://www.theswiftcodes.com/poland/poluplpr/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE",
+    "city": "KRAKOW",
+    "branch": "",
+    "swift_code": "SRZKPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/srzkplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK SPOLDZIELCZY W BRODNICY",
+    "city": "BRODNICA",
+    "branch": "",
+    "swift_code": "SPBOPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/spboplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BANK SPOLDZIELCZY W BYDGOSZCZY",
+    "city": "BYDGOSZCZ",
+    "branch": "",
+    "swift_code": "SPBCPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/spbcplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BNP PARIBAS BANK POLSKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PPABPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/ppabplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BNP PARIBAS S.A. BRANCH IN POLAND",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BNPAPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/bnpaplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BNP PARIBAS SECURITIES POLAND",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PARBPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/parbplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "BONDSPOT S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BONPPLP9",
+    "row_url": "https://www.theswiftcodes.com/poland/bonpplp9/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CA AUTO BANK SPA SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "FBPLPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/fbplplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CAIXABANK, S.A. (SPOLKA AKCYJNA) ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "CAIXPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/caixplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CHINA CONSTRUCTION BANK(EUROPE)WARSAW BRANCH",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PCBCPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/pcbcplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CINKCIARZ.PL SP. Z O.O.",
+    "city": "ZIELONA GORA",
+    "branch": "",
+    "swift_code": "CINKPLPZ",
+    "row_url": "https://www.theswiftcodes.com/poland/cinkplpz/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CONOTOXIA SP. Z O.O.",
+    "city": "ZIELONA GORA",
+    "branch": "",
+    "swift_code": "CONPPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/conpplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "CREDIT AGRICOLE BANK POLSKA S.A.",
+    "city": "WROCLAW",
+    "branch": "",
+    "swift_code": "AGRIPLPR",
+    "row_url": "https://www.theswiftcodes.com/poland/agriplpr/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "DANSKE BANK A/S S.A. ODZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "DABAPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/dabaplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "DEUTSCHE BANK POLSKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "DEUTPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/deutplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "DNB BANK POLSKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "MHBFPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/mhbfplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "FENIGE SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "FESKPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/feskplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "FINTECOM SP. Z O.O.",
+    "city": "KOSZALIN",
+    "branch": "",
+    "swift_code": "FNTMPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/fntmplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "GUAVAPAY POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "city": "WROCLAW",
+    "branch": "",
+    "swift_code": "GUAVPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/guavplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "HAITONG BANK S.A., SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ESSIPLPX",
+    "row_url": "https://www.theswiftcodes.com/poland/essiplpx/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "HSBC CONTINENTAL EUROPE (SA) ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "HSBCPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/hsbcplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "HSBC CONTINENTAL EUROPE (SA) ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "HSBCPLPS",
+    "row_url": "https://www.theswiftcodes.com/poland/hsbcplps/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "ICBC POLAND BRANCH",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ICBKPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/icbkplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "IGORIA TRADE S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "IGTRPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/igtrplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "ING BANK HIPOTECZNY S.A.",
+    "city": "KATOWICE",
+    "branch": "",
+    "swift_code": "INGBPLPH",
+    "row_url": "https://www.theswiftcodes.com/poland/ingbplph/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "ING BANK SLASKI SA",
+    "city": "KATOWICE",
+    "branch": "",
+    "swift_code": "INGBPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/ingbplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "INTESA SANPAOLO SPA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BCITPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/bcitplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "IPAGOO LLP, SPOLKA PARTNERSKA ODDZIAL",
+    "city": "LODZ",
+    "branch": "",
+    "swift_code": "IPAGPLPL",
+    "row_url": "https://www.theswiftcodes.com/poland/ipagplpl/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KDPW CCP",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "KCCPPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/kccpplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KDPW CCP",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "KCCPPLPWOTC",
+    "row_url": "https://www.theswiftcodes.com/poland/kccpplpwotc/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KDPW CCP",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "KCCPPLPWASI",
+    "row_url": "https://www.theswiftcodes.com/poland/kccpplpwasi/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KDPW S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "KDPWPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/kdpwplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "EKIRPLPD",
+    "row_url": "https://www.theswiftcodes.com/poland/ekirplpd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "EKIRPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/ekirplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO-KREDYTOWA",
+    "city": "SOPOT",
+    "branch": "",
+    "swift_code": "SKOKPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/skokplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KRAKOWSKI BANK SPOLDZIELCZY",
+    "city": "KRAKOW",
+    "branch": "",
+    "swift_code": "KRSPPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/krspplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "KRAKOWSKI BANK SPOLDZIELCZY",
+    "city": "KRAKOW",
+    "branch": "",
+    "swift_code": "KRSPPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/krspplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK HIPOTECZNY SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "RHBHPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/rhbhplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "BIALYSTOK",
+    "branch": "BIALYSTOK BRANCH",
+    "swift_code": "BREXPLPWBIA",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwbia/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "BIELSKO BIALA",
+    "branch": "BIELSKO BIALA BRANCH",
+    "swift_code": "BREXPLPWBIB",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwbib/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "BYDGOSZCZ",
+    "branch": "BYDGOSZCZ BRANCH",
+    "swift_code": "BREXPLPWBYD",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwbyd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "CZESTOCHOWA",
+    "branch": "CZESTOCHOWA BRANCH",
+    "swift_code": "BREXPLPWCZE",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwcze/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 2,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "GDANSK",
+    "branch": "",
+    "swift_code": "BREXPLPWGDA",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwgda/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "GDYNIA",
+    "branch": "GDYNIA BRANCH",
+    "swift_code": "BREXPLPWGDY",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwgdy/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "GORZOW WIELKOPOLSKI",
+    "branch": "GORZOW WIELKOPOLSKI BRANCH",
+    "swift_code": "BREXPLPWGOR",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwgor/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KALISZ",
+    "branch": "KALISZ BRANCH",
+    "swift_code": "BREXPLPWKAL",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwkal/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KATOWICE",
+    "branch": "KATOWICE BRANCH",
+    "swift_code": "BREXPLPWKAT",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwkat/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KATOWICE",
+    "branch": "REGIONAL OPERATION CENTER",
+    "swift_code": "BREXPLPWRCO",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwrco/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KIELCE",
+    "branch": "KIELCE BRANCH",
+    "swift_code": "BREXPLPWKIE",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwkie/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KOSZALIN",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWKOS",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwkos/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "KRAKOW",
+    "branch": "KRAKOW BRANCH",
+    "swift_code": "BREXPLPWKRA",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwkra/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "LODZ",
+    "branch": "LODZ BRANCH",
+    "swift_code": "BREXPLPWLOD",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwlod/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "LODZ",
+    "branch": "MOBILE BANKING",
+    "swift_code": "BREXPLPWOMB",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwomb/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "LODZ",
+    "branch": "RETAIL BANKING",
+    "swift_code": "BREXPLPWMBK",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwmbk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "LODZ",
+    "branch": "RETAIL BANKING",
+    "swift_code": "BREXPLPWMUL",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwmul/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "LUBLIN",
+    "branch": "LUBLIN BRANCH",
+    "swift_code": "BREXPLPWLUB",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwlub/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "NOWY SACZ",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWNWS",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwnws/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "OLSZTYN",
+    "branch": "OLSZTYN BRANCH",
+    "swift_code": "BREXPLPWOLS",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwols/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "OPOLE",
+    "branch": "OPOLE BRANCH",
+    "swift_code": "BREXPLPWOPO",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwopo/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "POZNAN",
+    "branch": "POZNAN BRANCH",
+    "swift_code": "BREXPLPWPOZ",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwpoz/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "RYBNIK",
+    "branch": "RYBNIK BRANCH",
+    "swift_code": "BREXPLPWRYB",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwryb/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "RZESZOW",
+    "branch": "RZESZOW BRANCH",
+    "swift_code": "BREXPLPWRZE",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwrze/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "SZCZECIN",
+    "branch": "SZCZECIN BRANCH",
+    "swift_code": "BREXPLPWSZC",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwszc/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "TORUN",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWTOR",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwtor/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WALBRZYCH",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWWAL",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwal/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "BRANCH",
+    "swift_code": "BREXPLPWWA1",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwa1/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWWA4",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwa4/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "CORPORATE BRANCH",
+    "swift_code": "BREXPLPWWA5",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwa5/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "CUSTODY DEPARTMENT",
+    "swift_code": "BREXPLPWCUS",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwcus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "DOM MAKLERSKI MBANKU S.A.",
+    "swift_code": "BREXPLPWMDM",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwmdm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "BREXPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "STRATEGIC CLIENTS DEPARTMENT",
+    "swift_code": "BREXPLPWDKS",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwdks/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "WARSZAWA II BRANCH",
+    "swift_code": "BREXPLPWWA2",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwa2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "WARSZAWA III BRANCH",
+    "swift_code": "BREXPLPWWA3",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwa3/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "WROCLAW",
+    "branch": "",
+    "swift_code": "BREXPLPWWRO",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwwro/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
+    "city": "ZIELONA GORA",
+    "branch": "ZIELONA GORA BRANCH",
+    "swift_code": "BREXPLPWZIE",
+    "row_url": "https://www.theswiftcodes.com/poland/brexplpwzie/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MERCEDES-BENZ BANK POLSKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "MBBPPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/mbbpplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MICHAEL STROM DOM MAKLERSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "MSDMPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/msdmplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MONEZIUM SP.Z.O.O",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "MOPZPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/mopzplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "MONSAS SP. Z O.O.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "MNAAPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/mnaaplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NBPLPLPWBAN",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpwban/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NBPLPLPA",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NBPLPLPD",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "NBPLPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "INTERNAL ROUTING",
+    "swift_code": "NBPLPLPWKIR",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpwkir/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "PLN - RTGS ONLY",
+    "swift_code": "NBPLPLPDDSP",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpddsp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "T2S AUTO-COLLAT.",
+    "swift_code": "NBPLPLPWSEA",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpwsea/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "T2S AUTO-COLLAT.",
+    "swift_code": "NBPLPLPWSEB",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpwseb/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NARODOWY BANK POLSKI",
+    "city": "WARSZAWA",
+    "branch": "T2S OPERATIONS",
+    "swift_code": "NBPLPLPWCRD",
+    "row_url": "https://www.theswiftcodes.com/poland/nbplplpwcrd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "KDPWPLPA",
+    "row_url": "https://www.theswiftcodes.com/poland/kdpwplpa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NEST BANK S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NESBPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/nesbplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NEST BANK S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NESBPLPWFMB",
+    "row_url": "https://www.theswiftcodes.com/poland/nesbplpwfmb/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 3,
+    "bank": "NWAI DOM MAKLERSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "NWDMPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/nwdmplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PEKAO BANK HIPOTECZNY SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "HYVEPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/hyveplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PEKAO TFI S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "TPEOPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/tpeoplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK HIPOTECZNY SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BPKHPLPG",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkhplpg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "BIALYSTOK",
+    "branch": "PKO O.REGIONALNY W BIALYMSTOKU",
+    "swift_code": "BPKOPLPWBIA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwbia/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "BYDGOSZCZ",
+    "branch": "ODDZIAL BYDGOSZCZ",
+    "swift_code": "BPKOPLPWTOB",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwtob/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "GDYNIA",
+    "branch": "I/O GDYNIA",
+    "swift_code": "BPKOPLPWGDG",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwgdg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "GORZOW WIELKOPOLSKI",
+    "branch": "I/O GORZOW WIELKOPOLSKI",
+    "swift_code": "BPKOPLPWGOA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwgoa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "KATOWICE",
+    "branch": "ODDZIAL KATOWICE",
+    "swift_code": "BPKOPLPWKAB",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwkab/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "KRAKOW",
+    "branch": "ODDZIAL KRAKOW",
+    "swift_code": "BPKOPLPWKRD",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwkrd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "LODZ",
+    "branch": "ODDZIAL LODZ",
+    "swift_code": "BPKOPLPWLDA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwlda/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "LUBLIN",
+    "branch": "ODDZIAL LUBLIN",
+    "swift_code": "BPKOPLPWLUA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwlua/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "OLSZTYN",
+    "branch": "ODDZIAL OLSZTYN",
+    "swift_code": "BPKOPLPWOLS",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwols/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "POZNAN",
+    "branch": "ODDZIAL POZNAN",
+    "swift_code": "BPKOPLPWPOA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwpoa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BPKOPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "CUSTODY SERVICES DIVISION",
+    "swift_code": "BPKOPLPWCSD",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwcsd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE - TREASURY DEPARTMENT",
+    "swift_code": "BPKOPLPWTDH",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwtdh/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "ODDZIAL WARSZAWA",
+    "swift_code": "BPKOPLPWWAA",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwwaa/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WARSZAWA",
+    "branch": "PKO BP SECURITIES",
+    "swift_code": "BPKOPLPWSEC",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwsec/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO BANK POLSKI S.A.",
+    "city": "WROCLAW",
+    "branch": "ODDZIAL WROCLAW",
+    "swift_code": "BPKOPLPWWRD",
+    "row_url": "https://www.theswiftcodes.com/poland/bpkoplpwwrd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWAKG",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwakg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWAKT",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwakt/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWALF",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwalf/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWALS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwals/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWDEL",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwdel/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWGAM",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwgam/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWNED",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwned/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWOGL",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwogl/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWOKP",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwokp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWPAK",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwpak/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWPAS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwpas/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWPOB",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwpob/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PTFIPLPWPPI",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwppi/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "GAMMA PARASOL BIZNES - SFIO SUBFUNDUSZ GAMMA",
+    "swift_code": "PTFIPLPWAMM",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwamm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "GAMMA PARASOL BIZNES - SFIO SUBFUNDUSZ SIGMA OBLIGACJI PLUS",
+    "swift_code": "PTFIPLPWSGM",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwsgm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "MERKURY FIZAN",
+    "swift_code": "PTFIPLPWMER",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwmer/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO ABSOLUTNEJ STOPY ZWROTU EUROPA WSCHOD-ZACHOD FIZ",
+    "swift_code": "PTFIPLPWASZ",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwasz/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO BEZPIECZNA LOKATA I FIZ",
+    "swift_code": "PTFIPLPWFBL",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfbl/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2025",
+    "swift_code": "PTFIPLPWP25",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp25/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2030",
+    "swift_code": "PTFIPLPWP30",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp30/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2035",
+    "swift_code": "PTFIPLPWP35",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp35/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2040",
+    "swift_code": "PTFIPLPWP40",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp40/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2045",
+    "swift_code": "PTFIPLPWP45",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp45/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2050",
+    "swift_code": "PTFIPLPWP50",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp50/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2055",
+    "swift_code": "PTFIPLPWP55",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp55/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2060",
+    "swift_code": "PTFIPLPWP60",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp60/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EMERYTURA SFIO SUBFUNDUSZ PKO EMERYTURA 2065",
+    "swift_code": "PTFIPLPWP65",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwp65/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO ENERGII ODNAWIALNEJ FIZAN",
+    "swift_code": "PTFIPLPWFEO",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfeo/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO EUROPA WSCHOD-ZACHOD FIZ",
+    "swift_code": "PTFIPLPWEWZ",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwewz/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 4,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO GLOBALNEGO DOCHODU FIZ",
+    "swift_code": "PTFIPLPWFGD",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfgd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO GLOBALNEJ MAKROEKONOMII FIZ",
+    "swift_code": "PTFIPLPWFGM",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfgm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO GLOBALNEJ STRATEGII FIZ",
+    "swift_code": "PTFIPLPWFGS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfgs/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO MULTI STRATEGIA FIZ",
+    "swift_code": "PTFIPLPWFMS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfms/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO NIERUCHOMOSCI KOMERCYJNYCH FIZAN",
+    "swift_code": "PTFIPLPWFNK",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfnk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO OBLIGACJI WYSOKODOCHODOWYCH GLOBALNY",
+    "swift_code": "PTFIPLPWFOW",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfow/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI DYWIDENDOWYCH GLOBALNY",
+    "swift_code": "PTFIPLPWADG",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwadg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI MALYCH I SREDNICH SPOLEK",
+    "swift_code": "PTFIPLPWAMS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwams/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI PLUS",
+    "swift_code": "PTFIPLPWFAP",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfap/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKOW WSCHODZACYCH",
+    "swift_code": "PTFIPLPWARW",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwarw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU AMERYKANSKIEGO",
+    "swift_code": "PTFIPLPWARA",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwara/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU AZJI I PACYFIKU",
+    "swift_code": "PTFIPLPWAAP",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwaap/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU EUROPEJSKIEGO",
+    "swift_code": "PTFIPLPWARE",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpware/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU JAPONSKIEGO",
+    "swift_code": "PTFIPLPWARJ",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwarj/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO AKCJI RYNKU ZLOTA",
+    "swift_code": "PTFIPLPWARZ",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwarz/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO DOBR LUKSUSOWYCH GLOBALNY",
+    "swift_code": "PTFIPLPWFDL",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfdl/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO EKOLOGII I ODPOWIEDZIALNOSCI SPL",
+    "swift_code": "PTFIPLPWEOS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpweos/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO GAMMA PLUS",
+    "swift_code": "PTFIPLPWGPL",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwgpl/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO INFRASTRUKTURY BUDOWNICTWA GLOBAL",
+    "swift_code": "PTFIPLPWFIB",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfib/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO MEDYCYNY I DEMOGRAFII GLOBALNY",
+    "swift_code": "PTFIPLPWMDG",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwmdg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO OBLIGACJI DLUGOTERMINOWYCH",
+    "swift_code": "PTFIPLPWFOD",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfod/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO OBLIGACJI GLOBALNY",
+    "swift_code": "PTFIPLPWOBG",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwobg/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO OBLIGACJI RYNKU POLSKIEGO",
+    "swift_code": "PTFIPLPWORP",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpworp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO OBLIGACJI SAMORZADOWYCH",
+    "swift_code": "PTFIPLPWFOS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfos/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO PAPIEROW DLUZNYCH USD",
+    "swift_code": "PTFIPLPWDUS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwdus/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO SKARBOWY",
+    "swift_code": "PTFIPLPWFSK",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfsk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO STABILNEGO WZROSTU",
+    "swift_code": "PTFIPLPWFSW",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfsw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO SUROWCOW GLOBALNY",
+    "swift_code": "PTFIPLPWSUR",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwsur/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PARASOLOWY FIO SUBFUNDUSZ PKO TECHNOLOGII I INNOWACJI GLOBALNY",
+    "swift_code": "PTFIPLPWECH",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwech/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PORTFELE INWESTYCYJNE - SFIO SUBFUNDUSZ PKO DIAMENTOWY",
+    "swift_code": "PTFIPLPWDIA",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwdia/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PORTFELE INWESTYCYJNE - SFIO SUBFUNDUSZ PKO RUBINOWY",
+    "swift_code": "PTFIPLPWRUB",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwrub/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PORTFELE INWESTYCYJNE - SFIO SUBFUNDUSZ PKO SZAFIROWY",
+    "swift_code": "PTFIPLPWSZA",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwsza/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO PORTFELE INWESTYCYJNE - SFIO SUBFUNDUSZ PKO SZMARAGDOWY",
+    "swift_code": "PTFIPLPWSZM",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwszm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO SPOLEK INNOWACYJNYCH GLOBALNY FIZ",
+    "swift_code": "PTFIPLPWSIG",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwsig/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO STRATEGII DLUZNYCH FIZ",
+    "swift_code": "PTFIPLPWFSD",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfsd/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO STRATEGII OBLIGACYJNYCH FIZ",
+    "swift_code": "PTFIPLPWFSO",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfso/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO VC FIZAN  SUBFUNDUSZ FINANSOWY",
+    "swift_code": "PTFIPLPWFSF",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfsf/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PKO VC FIZAN  SUBFUNDUSZ STRATEGICZNY",
+    "swift_code": "PTFIPLPWFSS",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwfss/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "PORTFELE INWESTYCYJNE - SFIO SUBFUNDUSZ PKO BURSZTYNOWY",
+    "swift_code": "PTFIPLPWBUR",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwbur/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "SUBFUNDUSZ PKO ZABEZPIECZENIA EMERYTALNEGO 2070",
+    "swift_code": "PTFIPLPWE70",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe70/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME",
+    "swift_code": "PTFIPLPWE20",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe20/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME",
+    "swift_code": "PTFIPLPWE30",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe30/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME",
+    "swift_code": "PTFIPLPWE40",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe40/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME",
+    "swift_code": "PTFIPLPWE50",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe50/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
+    "city": "WARSZAWA",
+    "branch": "ZEBEZPIECZENIA EMERYTALNEGO FIO SUBFUNDUSZ PKO ZABEZPIECZENIA EME",
+    "swift_code": "PTFIPLPWE60",
+    "row_url": "https://www.theswiftcodes.com/poland/ptfiplpwe60/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PLUS BANK S.A.",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "IVSEPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/ivseplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "POCZTOWY BANK SA",
+    "city": "BYDGOSZCZ",
+    "branch": "",
+    "swift_code": "POCZPLP4",
+    "row_url": "https://www.theswiftcodes.com/poland/poczplp4/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "POLSKI STANDARD PLATNOSCI SP. Z O.O.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "BLIKPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/blikplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "POWSZECHNY ZAKLAD UBEZPIECZEN NA ZYCIE SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PZUZPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/pzuzplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "POWSZECHNY ZAKLAD UBEZPIECZEN SPOLKA AKCYJNA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PZUSPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/pzusplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 5,
+    "bank": "PROSERVICE FINTECO SP Z O.O.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PSATPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/psatplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SANTANDER BANK POLSKA S.A. (FORMERLY BANK ZACHODNI WBK S.A.)",
+    "city": "POZNAN",
+    "branch": "BZWBK BROKERAGE HOUSE",
+    "swift_code": "WBKPPLPPCBM",
+    "row_url": "https://www.theswiftcodes.com/poland/wbkpplppcbm/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SANTANDER BANK POLSKA S.A. (FORMERLY BANK ZACHODNI WBK S.A.)",
+    "city": "WARSZAWA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "WBKPPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/wbkpplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SANTANDER CONSUMER BANK SA",
+    "city": "WROCLAW",
+    "branch": "",
+    "swift_code": "SCFBPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/scfbplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SGB-BANK S.A. (FORMERLY GOSPODARCZY BANK WIELKOPOLSKI S.A.)",
+    "city": "POZNAN",
+    "branch": "",
+    "swift_code": "GBWCPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/gbwcplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SKANDINAVISKA ENSKILDA BANKEN AB, SPOLKA AKCYJNA, ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "ESSEPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/esseplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SOCIETE GENERALE SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "SOGEPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/sogeplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "SVENSKA HANDELSBANKEN AB SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "HANDPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/handplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH PZU SA",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "TOFNPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/tofnplpp/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "TOYOTA BANK POLSKA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "TOBAPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/tobaplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "TUIR WARTA S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "WARTPLPW",
+    "row_url": "https://www.theswiftcodes.com/poland/wartplpw/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "UNIFIEDPOST PAYMENTS JOINT STOCK COMPANY, BRANCH IN POLAND",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "PANXPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/panxplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "VELOBANK S.A.",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "GBGCPLPK",
+    "row_url": "https://www.theswiftcodes.com/poland/gbgcplpk/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "VIVA PAYMENT SERVICES SPOLKA AKCYJNA ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "VPAYPLP2",
+    "row_url": "https://www.theswiftcodes.com/poland/vpayplp2/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "VOLKSWAGEN BANK GMBH SP.Z O.O. ODDZIAL W POLSCE",
+    "city": "WARSZAWA",
+    "branch": "",
+    "swift_code": "VOWAPLP9",
+    "row_url": "https://www.theswiftcodes.com/poland/vowaplp9/"
+  },
+  {
+    "country": "POLAND",
+    "country_url": "https://www.theswiftcodes.com/poland/",
+    "page": 6,
+    "bank": "WARMINSKO-MAZURSKI BANK SPOLDZIELCZY (WARMIA MASURIA COOPERATIVE BANK)",
+    "city": "PISZ",
+    "branch": "",
+    "swift_code": "WSPDPLPP",
+    "row_url": "https://www.theswiftcodes.com/poland/wspdplpp/"
+  }
+]

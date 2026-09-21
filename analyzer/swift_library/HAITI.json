@@ -1,0 +1,62 @@
+[
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "BANQUE DE L'UNION HAITIENNE",
+    "city": "PORT AU PRINCE",
+    "branch": "",
+    "swift_code": "BUHEHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/buhehtpp/"
+  },
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "BANQUE DE LA REPUBLIQUE D'HAITI",
+    "city": "PORT AU PRINCE",
+    "branch": "",
+    "swift_code": "BRHAHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/brhahtpp/"
+  },
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+    "city": "PORT AU PRINCE",
+    "branch": "",
+    "swift_code": "BNCHHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/bnchhtpp/"
+  },
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "CAPITAL BANK S.A.",
+    "city": "PORT AU PRINCE",
+    "branch": "",
+    "swift_code": "CPPLHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/cpplhtpp/"
+  },
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
+    "city": "PORT AU PRINCE",
+    "branch": "",
+    "swift_code": "SOGHHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/soghhtpp/"
+  },
+  {
+    "country": "HAITI",
+    "country_url": "https://www.theswiftcodes.com/haiti/",
+    "page": 1,
+    "bank": "UNIBANK S.A.",
+    "city": "PETION-VILLE",
+    "branch": "",
+    "swift_code": "UBNKHTPP",
+    "row_url": "https://www.theswiftcodes.com/haiti/ubnkhtpp/"
+  }
+]

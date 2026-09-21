@@ -1,0 +1,62 @@
+[
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "AFRILAND FIRST BANK STP",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "AFFSSTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/affsstst/"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE SAO TOME E PRINCIPE",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "CSTPSTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/cstpstst/"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "BANCO INTERNACIONAL DE SAO TOME E PRINCIPE",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "INOISTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/inoistst/"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "BGFIBANK SAO TOME ET PRINCIPE",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "BGFISTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/bgfistst/"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "ECOBANK SAO TOME",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "ECOCSTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/ecocstst/"
+  },
+  {
+    "country": "SAO TOME AND PRINCIPE",
+    "country_url": "https://www.theswiftcodes.com/sao-tome-and-principe/",
+    "page": 1,
+    "bank": "ENERGYBANK SAO TOME E PRINCIPE S.A",
+    "city": "SAO TOME",
+    "branch": "",
+    "swift_code": "ESTPSTST",
+    "row_url": "https://www.theswiftcodes.com/sao-tome-and-principe/estpstst/"
+  }
+]

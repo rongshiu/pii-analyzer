@@ -1,0 +1,432 @@
+[
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "ABC BANKING CORPORATION LTD",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "ABCKMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/abckmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "ABSA BANK (MAURITIUS) LIMITED",
+    "city": "EBENE",
+    "branch": "CUSTODY SERVICES",
+    "swift_code": "BARCMUMUCSU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barcmumucsu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "ABSA BANK (MAURITIUS) LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "M.A.F.E.X BRANCH",
+    "swift_code": "BARCMUMUMAF",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barcmumumaf/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "ABSA BANK (MAURITIUS) LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "MAURITIUS OFFSHORE BANKING UNIT",
+    "swift_code": "BARCMUMUOBU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barcmumuobu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "ABSA BANK (MAURITIUS) LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "BARCMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barcmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "AFRASIA BANK LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "AFBLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/afblmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "AFRASIA BANK LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "EBENE BRANCH",
+    "swift_code": "AFBLMUMU101",
+    "row_url": "https://www.theswiftcodes.com/mauritius/afblmumu101/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK OF BARODA",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "BARBMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barbmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK OF BARODA",
+    "city": "PORT LOUIS",
+    "branch": "OFFSHORE BANKING UNIT",
+    "swift_code": "BARBMUMUOBU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/barbmumuobu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK OF CHINA (MAURITIUS) LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "BKCHMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/bkchmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK OF MAURITIUS",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "BOMMMUPL",
+    "row_url": "https://www.theswiftcodes.com/mauritius/bommmupl/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK OF MAURITIUS",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "COCUMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/cocumumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANK ONE LTD",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "BKONMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/bkonmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BANQUE PATRONUS LIMITEE",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "BPLLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/bpllmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "BCP BANK (MAURITIUS) LTD (FORMERLY BANQUE DES MASCAREIGNES LTEE)",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "BAIMMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/baimmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "CHOICE INTERNATIONAL (MAURITIUS) LTD",
+    "city": "EBENE",
+    "branch": "",
+    "swift_code": "CIMUMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/cimumumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "DEUTSCHE SECURITIES MAURITIUS LTD",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "DEUTMUML",
+    "row_url": "https://www.theswiftcodes.com/mauritius/deutmuml/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "DUNEARN INVESTMENTS (MAURITIUS) PTE LTD",
+    "city": "PORT LOUIS",
+    "branch": "C/O INT'L MANAGEMENT MAURITIUS LTD",
+    "swift_code": "DEIMMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/deimmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "HABIB BANK LTD MAURITIUS",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "HABBMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/habbmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "HSBCMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/hsbcmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
+    "city": "Quatre Bornes",
+    "branch": "HBMU BRANCH",
+    "swift_code": "HSBCMUMUOBU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/hsbcmumuobu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "IHS MAURITIUS CAMEROON",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "IHSAMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/ihsamumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "INVESTEC BANK (MAURITIUS) LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "IVESMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/ivesmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "KASADA SERVICES LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "KASVMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/kasvmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "MAUBANK LTD",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "MPCBMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/mpcbmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "OMNICANE MANAGEMENT AND CONSULTANCY LIMITED",
+    "city": "PLAINE MAGNIEN",
+    "branch": "",
+    "swift_code": "OMMCMUMM",
+    "row_url": "https://www.theswiftcodes.com/mauritius/ommcmumm/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "PROVIDENCE LIFE LIMITED, PCC",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "PLLPMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/pllpmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "QC FINANCE",
+    "city": "EBENE",
+    "branch": "",
+    "swift_code": "QCFNMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/qcfnmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "RMB INTERNATIONAL (MAURITIUS) LTD",
+    "city": "GRAND-BAIE",
+    "branch": "",
+    "swift_code": "FIRNMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/firnmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SBI (MAURITIUS) LTD",
+    "city": "PORT LOUIS",
+    "branch": "WILLIAM NEWTON STREET",
+    "swift_code": "INILMUMU101",
+    "row_url": "https://www.theswiftcodes.com/mauritius/inilmumu101/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SBI (MAURITIUS) LTD",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "INILMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/inilmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SBM BANK(MAURITIUS)LTD",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "STCBMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/stcbmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SBM BANK(MAURITIUS)LTD",
+    "city": "PORT LOUIS",
+    "branch": "CUSTODY",
+    "swift_code": "STCBMUMU575",
+    "row_url": "https://www.theswiftcodes.com/mauritius/stcbmumu575/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SILVER BANK LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "BTBLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/btblmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "SKI CARBON BLACK (MAURITIUS) LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "SKCBMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/skcbmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "STANDARD BANK (MAURITIUS) LIMITED",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "SBICMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/sbicmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+    "city": "PORT LOUIS",
+    "branch": "FM ASSET SERVICING",
+    "swift_code": "SCBLMUMUZOP",
+    "row_url": "https://www.theswiftcodes.com/mauritius/scblmumuzop/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+    "city": "Quatre Bornes",
+    "branch": "",
+    "swift_code": "SCBLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/scblmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+    "city": "Quatre Bornes",
+    "branch": "SECURITIES SERVICES UNIT",
+    "swift_code": "SCBLMUMUSSU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/scblmumussu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "TERRA PAYMENT SERVICES (MAURITIUS)",
+    "city": "EBENE",
+    "branch": "",
+    "swift_code": "TPSVMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/tpsvmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "THE MAURITIUS COMMERCIAL BANK LIMITED",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "MCBLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/mcblmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "VALOR FINANCIAL MAURITIUS LTD",
+    "city": "PORT LOUIS",
+    "branch": "",
+    "swift_code": "VFIMMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/vfimmumu/"
+  },
+  {
+    "country": "MAURITIUS",
+    "country_url": "https://www.theswiftcodes.com/mauritius/",
+    "page": 1,
+    "bank": "WARWYCK PRIVATE BANK LTD",
+    "city": "VACOAS-PHOENIX",
+    "branch": "",
+    "swift_code": "WPBLMUMU",
+    "row_url": "https://www.theswiftcodes.com/mauritius/wpblmumu/"
+  }
+]

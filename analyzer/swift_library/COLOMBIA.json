@@ -1,0 +1,1302 @@
+[
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIA PROTECCION S.A.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "AFESCOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/afescobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALIANZA FIDUCIARIA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "AFIUCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/afiucobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALLIANCE ENTERPRISE S.A.S.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "HUBCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/hubccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALLIANCE ENTERPRISE S.A.S.",
+    "city": "BOGOTA",
+    "branch": "LOWE SSP-3 SA",
+    "swift_code": "HUBCCOBBLWE",
+    "row_url": "https://www.theswiftcodes.com/colombia/hubccobblwe/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALLIANZ SEGUROS DE VIDA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FPVCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fpvccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALLIANZ SEGUROS DE VIDA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "COZVCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/cozvcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALLIANZ SEGUROS S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "COZSCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/cozscobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALMACENES EXITO S.A. (GRUPO EXITO)",
+    "city": "ENVIGADO",
+    "branch": "",
+    "swift_code": "GEXICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/gexicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "ALPINA PRODUCTOS ALIMENTICIOS SA BIC",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "AIPACOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/aipacobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL Y MINERO)",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CCAICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/ccaicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "GEROCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/gerocobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "HEADQUARTERS",
+    "swift_code": "GEROCOBBBO1",
+    "row_url": "https://www.theswiftcodes.com/colombia/gerocobbbo1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO BTG PACTUAL COLOMBIA S.A.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "BPABCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpabcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO CAJA SOCIAL",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CASOCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/casocobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO COMERCIAL AV VILLAS S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BAVICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bavicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "CAFECOBBBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/cafecobbbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CAFECOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/cafecobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "CAFECOBBCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/cafecobbcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "CAFECOBBMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/cafecobbmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "BBOGCOBBBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BBOGCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "BOGOTA",
+    "branch": "HEADQUARTERS OFFICES",
+    "swift_code": "BBOGCOBBBO1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbbo1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "BUCARAMANGA",
+    "branch": "",
+    "swift_code": "BBOGCOBBBGA",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbbga/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "BBOGCOBBCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "CARTAGENA",
+    "branch": "",
+    "swift_code": "BBOGCOBBCTG",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbctg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "CUCUTA",
+    "branch": "",
+    "swift_code": "BBOGCOBBCUC",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbcuc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "MANIZALES",
+    "branch": "",
+    "swift_code": "BBOGCOBBMZ1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbmz1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "BBOGCOBBMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "PEREIRA",
+    "branch": "",
+    "swift_code": "BBOGCOBBPEI",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbpei/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE BOGOTA",
+    "city": "SAN ANDRES",
+    "branch": "",
+    "swift_code": "BBOGCOBBADZ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bbogcobbadz/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE COMERCIO EXTERIOR DE COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BCEXCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bcexcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE LA REPUBLICA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BREPCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/brepcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "OCCICOBCBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "OCCICOBCBO2",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcbo2/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "BUCARAMANGA",
+    "branch": "",
+    "swift_code": "OCCICOBCBGA",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcbga/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "CALI",
+    "branch": "BRANCH",
+    "swift_code": "OCCICOBCCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobccl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "CALI",
+    "branch": "HEADQUARTERS",
+    "swift_code": "OCCICOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "CARTAGENA",
+    "branch": "",
+    "swift_code": "OCCICOBCCTG",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcctg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "OCCICOBCMD4",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcmd4/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO DE OCCIDENTE",
+    "city": "SAN ANDRES",
+    "branch": "",
+    "swift_code": "OCCICOBCADZ",
+    "row_url": "https://www.theswiftcodes.com/colombia/occicobcadz/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO FALABELLA SA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FALACOBT",
+    "row_url": "https://www.theswiftcodes.com/colombia/falacobt/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "BSUDCOBBBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BSUDCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "BUCARAMANGA",
+    "branch": "",
+    "swift_code": "BSUDCOBBBGA",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbbga/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "BSUDCOBBCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "CARTAGENA",
+    "branch": "",
+    "swift_code": "BSUDCOBBCTG",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbctg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "MANIZALES",
+    "branch": "",
+    "swift_code": "BSUDCOBBMZ1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbmz1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO GNB SUDAMERIS",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "BSUDCOBBMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bsudcobbmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO J.P. MORGAN COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CHASCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/chascobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 1,
+    "bank": "BANCO J.P. MORGAN COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "JP MORGAN COLOMBIA LIMITADA",
+    "swift_code": "CHASCOBBLIM",
+    "row_url": "https://www.theswiftcodes.com/colombia/chascobblim/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO J.P. MORGAN COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "JP MORGAN OVERSEAS CAPITAL LLC - COLOMBIA",
+    "swift_code": "CHASCOBBFIA",
+    "row_url": "https://www.theswiftcodes.com/colombia/chascobbfia/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO J.P. MORGAN COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "JPM COLOMBIA BRANCH FOR WHOLESALE PAYMENTS",
+    "swift_code": "CHASCOBBWSP",
+    "row_url": "https://www.theswiftcodes.com/colombia/chascobbwsp/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO J.P. MORGAN COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "PATRIMONIO AUTONOMO MACONDO",
+    "swift_code": "CHASCOBBMAC",
+    "row_url": "https://www.theswiftcodes.com/colombia/chascobbmac/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "PICHCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/pichcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "ARMENIA",
+    "branch": "",
+    "swift_code": "BPOPCOBBAXM",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbaxm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BARRANQUILLA",
+    "branch": "ZONA NORTE",
+    "swift_code": "BPOPCOBBBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BOGOTA",
+    "branch": "HEADQUARTERS",
+    "swift_code": "BPOPCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BOGOTA",
+    "branch": "ZONA 1",
+    "swift_code": "BPOPCOBBBO1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbbo1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BOGOTA",
+    "branch": "ZONA 2",
+    "swift_code": "BPOPCOBBBO2",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbbo2/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BOGOTA",
+    "branch": "ZONA 3",
+    "swift_code": "BPOPCOBBBO3",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbbo3/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "BUCARAMANGA",
+    "branch": "ZONA ORIENTAL",
+    "swift_code": "BPOPCOBBBGA",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbbga/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "CALI",
+    "branch": "ZONA SUR",
+    "swift_code": "BPOPCOBBCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "CARTAGENA",
+    "branch": "",
+    "swift_code": "BPOPCOBBCTG",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbctg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "IBAGUE",
+    "branch": "ZONA CENTRAL",
+    "swift_code": "BPOPCOBBIBE",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbibe/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "MANIZALES",
+    "branch": "",
+    "swift_code": "BPOPCOBBMZ1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbmz1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "MEDELLIN",
+    "branch": "ZONA NOROCCIDENTAL",
+    "swift_code": "BPOPCOBBMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "PEREIRA",
+    "branch": "",
+    "swift_code": "BPOPCOBBPEI",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbpei/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO POPULAR SA - COLOMBIA",
+    "city": "SAN ANDRES",
+    "branch": "",
+    "swift_code": "BPOPCOBBADZ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bpopcobbadz/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO SANTANDER DE NEGOCIOS COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "SANTCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/santcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO SERFINANZA S.A.",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "SERZCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/serzcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCO UNION S.A. (FORMERLY GIROS Y FINANZAS)",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "GYDVCOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/gydvcobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "COLOCOBMBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "BUCARAMANGA",
+    "branch": "",
+    "swift_code": "COLOCOBMBGA",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmbga/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "COLOCOBMCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "CARTAGENA",
+    "branch": "",
+    "swift_code": "COLOCOBMCTG",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmctg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "COLOCOBMMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "COLOCOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BANCOLOMBIA S.A.",
+    "city": "PEREIRA",
+    "branch": "",
+    "swift_code": "COLOCOBMPEI",
+    "row_url": "https://www.theswiftcodes.com/colombia/colocobmpei/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BBVA ASSET MANAGEMENT S.A., SOCIEDAD FIDUCIARIA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FBBVCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fbbvcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BNPACOBBPEN",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobbpen/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BNPACOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BNPACOBBMXN",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobbmxn/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "BNP PARIBAS SECURITIES SERVICES CHILE",
+    "swift_code": "BNPACOBBCHL",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobbchl/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "BP2S CHILE",
+    "swift_code": "BNPACOBBCLP",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobbclp/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+    "city": "BOGOTA",
+    "branch": "SECURITIES SERVICES",
+    "swift_code": "BNPACOBBB2S",
+    "row_url": "https://www.theswiftcodes.com/colombia/bnpacobbb2s/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CCSFCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/ccsfcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CAJA DE COMPENSACION FAMILIAR DE ANTIOQUIA COMFAMA",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "CCFOCOBN",
+    "row_url": "https://www.theswiftcodes.com/colombia/ccfocobn/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CAMARA DE RIESGO CENTRAL DE CONTRAPARTE DE COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CCDCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/ccdccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CARTONES AMERICA S.A. CAME",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "CTAECOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/ctaecobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CARVAJAL SERVICIOS S.AS.",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "CTYSCOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/ctyscobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CASA DE BOLSA S.A. SOCIEDAD COMISIONISTA DE BOLSA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CBLACOB2",
+    "row_url": "https://www.theswiftcodes.com/colombia/cblacob2/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CITIBANK COLOMBIA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CITICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/citicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "COLTEFINANCIERA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "CLTECOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/cltecobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "COMPANIA DE MEDICINA PREPAGADA COLSANITAS SA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CDPOCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/cdpocobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "BARRANQUILLA",
+    "branch": "BARRANQUILLA AGENCY",
+    "swift_code": "CFVACOBCBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobcbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "BOGOTA",
+    "branch": "BOGOTA AGENCY",
+    "swift_code": "CFVACOBCBO1",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobcbo1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "CFVACOBCFXO",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobcfxo/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "CALI",
+    "branch": "HEADQUARTERS",
+    "swift_code": "CFVACOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "CALI",
+    "branch": "INTERNATIONAL BRANCH",
+    "swift_code": "CFVACOBCCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobccl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 2,
+    "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+    "city": "MEDELLIN",
+    "branch": "MEDELLIN AGENCY",
+    "swift_code": "CFVACOBCMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/cfvacobcmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "CORREDORES DAVIVIENDA S.A.COMISIONISTA DE BOLSA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CRRDCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/crrdcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "CREDICORP CAPITAL COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CRVLCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/crvlcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "CREDICORP CAPITAL COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "CORFIOPERATION",
+    "swift_code": "CRVLCOBBCOF",
+    "row_url": "https://www.theswiftcodes.com/colombia/crvlcobbcof/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "CREDICORP CAPITAL COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "NEGOCIOS FIDUCIARIOS",
+    "swift_code": "CRVLCOBBFID",
+    "row_url": "https://www.theswiftcodes.com/colombia/crvlcobbfid/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ECOPETROL S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "ECOPCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/ecopcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "EMPRESA DE TELECOMUNICACIONES DE BOGOTA S.A E.SP.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "ETBCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/etbccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ENEL COLOMBIA S.A. E.S.P",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "CDEACOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/cdeacobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FIDUCIARIA BANCOLOMBIA",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "FDBCCOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/fdbccobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FIDUCIARIA BOGOTA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FBOGCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fbogcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FIDUCIARIA CORFICOLOMBIANA S.A.",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "FCOICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fcoicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FIDUCIARIA DAVIVIENDA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FIDVCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fidvcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FIDUCIARIA DE OCCIDENTE",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FDOCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fdoccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FINANCIERA DE DESARROLLO NACIONAL S.A. FORMALLY FINANCIERA ENERGETICA NACIONAL S.A.-FEN",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FENSCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fenscobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FOGICOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/fogicobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FONDO LATINOAMERICANO DE RESERVAS",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FLARCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/flarcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "FONDO LATINOAMERICANO DE RESERVAS",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "FLARCOBG",
+    "row_url": "https://www.theswiftcodes.com/colombia/flarcobg/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "HOCOL S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "HCOLCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/hcolcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ISAGEN S.A. E.S.P.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "ISGNCOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/isgncobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ITAU COLOMBIA S.A.",
+    "city": "BARRANQUILLA",
+    "branch": "",
+    "swift_code": "BCTOCOBBBAQ",
+    "row_url": "https://www.theswiftcodes.com/colombia/bctocobbbaq/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ITAU COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BCTOCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bctocobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ITAU COLOMBIA S.A.",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "BCTOCOBBCL1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bctocobbcl1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "ITAU COLOMBIA S.A.",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "BCTOCOBBMD1",
+    "row_url": "https://www.theswiftcodes.com/colombia/bctocobbmd1/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "MAPFCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/mapfcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "MUNICIPIO SANTIAGO DE CALI",
+    "city": "CALI",
+    "branch": "",
+    "swift_code": "MSCLCOBC",
+    "row_url": "https://www.theswiftcodes.com/colombia/msclcobc/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "OLEODUCTO CENTRAL S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "OCENCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/ocencobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "PORVENIR S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "PORVCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/porvcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "SANTANDER CACEIS COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "BSSCCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/bssccobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "SCOTIABANK COLPATRIA S.A.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "COLPCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/colpcobb/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "VALORES BANCOLOMBIA S.A. COMISIONISTA DE BOLSA",
+    "city": "MEDELLIN",
+    "branch": "",
+    "swift_code": "VABCCOBM",
+    "row_url": "https://www.theswiftcodes.com/colombia/vabccobm/"
+  },
+  {
+    "country": "COLOMBIA",
+    "country_url": "https://www.theswiftcodes.com/colombia/",
+    "page": 3,
+    "bank": "VANTI S.A., E.S.P.",
+    "city": "BOGOTA",
+    "branch": "",
+    "swift_code": "GASNCOBB",
+    "row_url": "https://www.theswiftcodes.com/colombia/gasncobb/"
+  }
+]

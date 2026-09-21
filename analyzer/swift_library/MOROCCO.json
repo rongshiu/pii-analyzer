@@ -1,0 +1,932 @@
+[
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "AL BARID BANK",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "ABBMMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/abbmmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC",
+    "city": "MARRAKESH",
+    "branch": "MARRAKECH BRANCH",
+    "swift_code": "ARABMAMC250",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc250/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "AGADIR",
+    "branch": "",
+    "swift_code": "ARABMAMC260",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc260/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "ARABMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "CASABLANCA",
+    "branch": "MAIN BRANCH",
+    "swift_code": "ARABMAMC210",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc210/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "FES",
+    "branch": "",
+    "swift_code": "ARABMAMC240",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc240/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "ARABMAMC220",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc220/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "RABAT",
+    "branch": "AGDAL BRANCH",
+    "swift_code": "ARABMAMC221",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc221/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ARAB BANK PLC.",
+    "city": "TANGER",
+    "branch": "",
+    "swift_code": "ARABMAMC230",
+    "row_url": "https://www.theswiftcodes.com/morocco/arabmamc230/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ATTIJARI INTERNATIONAL BANK S.A. - BANQUE OFF SHORE",
+    "city": "TANGER",
+    "branch": "",
+    "swift_code": "AIBSMAMT",
+    "row_url": "https://www.theswiftcodes.com/morocco/aibsmamt/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BCMAMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcmamamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+    "city": "CASABLANCA",
+    "branch": "ATTIJARI INTERMEDIATION",
+    "swift_code": "BCMAMAMCATI",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcmamamcati/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+    "city": "CASABLANCA",
+    "branch": "BCMAMAMCBAS",
+    "swift_code": "BCMAMAMCBAS",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcmamamcbas/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+    "city": "CASABLANCA",
+    "branch": "BRANCH CTN DEVISE",
+    "swift_code": "BCMAMAMCDEV",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcmamamcdev/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANCO DE SABADELL, S.A.",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BSABMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bsabmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK AL-MAGHRIB",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "BKAMMAMR",
+    "row_url": "https://www.theswiftcodes.com/morocco/bkammamr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK ASSAFA",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "ASSFMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/assfmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BMCEMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BMCEMAMCBTI",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamcbti/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "AGENCE CORPORATE",
+    "swift_code": "BMCEMAMCCOR",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamccor/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "BMCE CAPITAL",
+    "swift_code": "BMCEMAMCBCB",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamcbcb/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "COMPTE SPECIAL MRE",
+    "swift_code": "BMCEMAMCMRE",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamcmre/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "CASABLANCA",
+    "branch": "SALLE DES MARCHES, CASABLANCA",
+    "swift_code": "BMCEMAMCSDM",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamcsdm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "TANGER",
+    "branch": "OFFSHORE BRANCH TRADING ROOM, TANGIER",
+    "swift_code": "BMCEMAMCTCM",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamctcm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANK OF AFRICA",
+    "city": "TANGER",
+    "branch": "OFFSHORE BRANCH, TANGIER",
+    "swift_code": "BMCEMAMCTZF",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcemamctzf/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BCPOMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "DEPT. BACK OFFICE",
+    "swift_code": "BCPOMAMCBKO",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcbko/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "DEPT. MONETIQUES",
+    "swift_code": "BCPOMAMCMON",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcmon/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "DEPT. RECONCILIATION",
+    "swift_code": "BCPOMAMCREC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcrec/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "SCE. DOCUMENTAIRE",
+    "swift_code": "BCPOMAMCDOC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcdoc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "SCE. FINANCIER",
+    "swift_code": "BCPOMAMCFIN",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcfin/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "TRANFERTS DES MAROCAINS RESIDANTS A L'ETRANGER",
+    "swift_code": "BCPOMAMCMRE",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcmre/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "CASABLANCA",
+    "branch": "YSR",
+    "swift_code": "BCPOMAMCYSR",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcysr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE POPULAIRE",
+    "city": "TANGER",
+    "branch": "OFFSHORE BRANCH, TANGIER",
+    "swift_code": "BCPOMAMCCIB",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamccib/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BMCIMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcimamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "city": "CASABLANCA",
+    "branch": "BMCI FINANCE PARTICIPATIVE",
+    "swift_code": "BMCIMAMCNFP",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcimamcnfp/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+    "city": "TANGER",
+    "branch": "OFFSHORE BRANCH",
+    "swift_code": "BMCIMAMCTOF",
+    "row_url": "https://www.theswiftcodes.com/morocco/bmcimamctof/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE AGADIR",
+    "city": "AGADIR",
+    "branch": "",
+    "swift_code": "BCPOMAMCCES",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcces/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE AL HOCEIMA",
+    "city": "AL HOCEIMA",
+    "branch": "",
+    "swift_code": "BCPOMAMCALH",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcalh/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE BENI MELLAL",
+    "city": "BENI MELLAL",
+    "branch": "",
+    "swift_code": "BCPOMAMCBNM",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcbnm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE BERKANE",
+    "city": "BERKANE",
+    "branch": "",
+    "swift_code": "BCPOMAMCBRK",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcbrk/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE CASA-ANFA",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BCPOMAMCCAS",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamccas/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE EL JADIDA",
+    "city": "EL JADIDA",
+    "branch": "",
+    "swift_code": "BCPOMAMCELJ",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcelj/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE FES",
+    "city": "FES",
+    "branch": "",
+    "swift_code": "BCPOMAMCFES",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcfes/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE GHARB",
+    "city": "KENITRA",
+    "branch": "",
+    "swift_code": "BCPOMAMCGHA",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcgha/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE LAAYOUNE",
+    "city": "LAAYOUNE",
+    "branch": "",
+    "swift_code": "BCPOMAMCLAY",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamclay/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE MARRAKECH",
+    "city": "MARRAKESH",
+    "branch": "",
+    "swift_code": "BCPOMAMCMKH",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcmkh/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE MEKNES",
+    "city": "MEKNES",
+    "branch": "",
+    "swift_code": "BCPOMAMCMEK",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcmek/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE NADOR",
+    "city": "NADOR",
+    "branch": "",
+    "swift_code": "BCPOMAMCNAD",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcnad/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 1,
+    "bank": "BANQUE POPULAIRE OUJDA",
+    "city": "OUJDA",
+    "branch": "",
+    "swift_code": "BCPOMAMCOUJ",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcouj/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "BANQUE POPULAIRE RABAT",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "BCPOMAMCRAB",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcrab/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "BANQUE POPULAIRE SAFI",
+    "city": "SAFI",
+    "branch": "",
+    "swift_code": "BCPOMAMCSAF",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamcsaf/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "BANQUE POPULAIRE TANGER",
+    "city": "TANGER",
+    "branch": "",
+    "swift_code": "BCPOMAMCTAT",
+    "row_url": "https://www.theswiftcodes.com/morocco/bcpomamctat/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "BCP SECURITIES SERVICES",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "MEDCMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/medcmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CAISSE DE DEPOT ET DE GESTION",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "CADGMAMR",
+    "row_url": "https://www.theswiftcodes.com/morocco/cadgmamr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CAIXMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/caixmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CDG CAPITAL",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "RDGCMAMR",
+    "row_url": "https://www.theswiftcodes.com/morocco/rdgcmamr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CFG BANK",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CAFGMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/cafgmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CFG BANK",
+    "city": "CASABLANCA",
+    "branch": "CFG MARCHE",
+    "swift_code": "CAFGMAMCCFM",
+    "row_url": "https://www.theswiftcodes.com/morocco/cafgmamccfm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CITIBANK MAGHREB",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CITIMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/citimamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CITIBANK MAGHREB",
+    "city": "CASABLANCA",
+    "branch": "TRADE SERVICES DEPARTMENT",
+    "swift_code": "CITIMAMCTRD",
+    "row_url": "https://www.theswiftcodes.com/morocco/citimamctrd/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "COMPAGNIE NATIONALE ROYAL AIR MAROC",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "RAMSMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/ramsmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "CNCAMAMR",
+    "row_url": "https://www.theswiftcodes.com/morocco/cncamamr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT AGRICOLE DU MAROC",
+    "city": "RABAT",
+    "branch": "AL AKHDAR BRANCH",
+    "swift_code": "CNCAMAMRAAB",
+    "row_url": "https://www.theswiftcodes.com/morocco/cncamamraab/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "AGADIR",
+    "branch": "TRADE CENTER TALBORJT",
+    "swift_code": "CDMAMAMC706",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc706/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CDMAMAMC701",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc701/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CDMAMAMC702",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc702/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "ACTIVITES ET OPERATIONS PARTICIPATIVES",
+    "swift_code": "CDMAMAMCPAR",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamcpar/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "ALL MOROCCO BRANCHES",
+    "swift_code": "CDMAMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "OFFSHORE SERVICES",
+    "swift_code": "CDMAMAMCCOS",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamccos/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "TRADE CENTER CENTRE-VILLE",
+    "swift_code": "CDMAMAMC703",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc703/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "CASABLANCA",
+    "branch": "TRADE CENTER EXPANSION",
+    "swift_code": "CDMAMAMC700",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc700/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "FES",
+    "branch": "TRADE CENTER QUARAOUYINE",
+    "swift_code": "CDMAMAMC707",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc707/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "MARRAKESH",
+    "branch": "TRADE CENTER MENARA",
+    "swift_code": "CDMAMAMC704",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc704/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "OUJDA",
+    "branch": "TRADE CENTER AL MOUSTAGBAL",
+    "swift_code": "CDMAMAMC708",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc708/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "RABAT",
+    "branch": "TRADE CENTER CHELLAH",
+    "swift_code": "CDMAMAMC709",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc709/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT DU MAROC",
+    "city": "TANGER",
+    "branch": "TRADE CENTER BOUGHAZ",
+    "swift_code": "CDMAMAMC705",
+    "row_url": "https://www.theswiftcodes.com/morocco/cdmamamc705/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "CIHMMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/cihmmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "city": "CASABLANCA",
+    "branch": "DEPARTEMENT ETRANGER",
+    "swift_code": "CIHMMAMCDEP",
+    "row_url": "https://www.theswiftcodes.com/morocco/cihmmamcdep/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "city": "CASABLANCA",
+    "branch": "SALLE DES MARCHES",
+    "swift_code": "CIHMMAMCSDM",
+    "row_url": "https://www.theswiftcodes.com/morocco/cihmmamcsdm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "CREDIT IMMOBILIER ET HOTELIER",
+    "city": "CASABLANCA",
+    "branch": "UMNIA BANK",
+    "swift_code": "CIHMMAMCUBP",
+    "row_url": "https://www.theswiftcodes.com/morocco/cihmmamcubp/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "GROUPE OCP",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "GOCPMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/gocpmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "OFFICE DES CHANGES",
+    "city": "RABAT",
+    "branch": "",
+    "swift_code": "OFCHMAMR",
+    "row_url": "https://www.theswiftcodes.com/morocco/ofchmamr/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "SGMBMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "SGMBMAMCPA1",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamcpa1/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "CASH MANAGEMENT INTERNATIONAL",
+    "swift_code": "SGMBMAMCCMI",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamccmi/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "FLUX CASH MANAGEMENT",
+    "swift_code": "SGMBMAMCFCM",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamcfcm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "SECURITIES AND FUNDS SERVICES",
+    "swift_code": "SGMBMAMCSFS",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamcsfs/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "SECURITIES SERVICES DEPARTMENT",
+    "swift_code": "SGMBMAMCTIT",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgmbmamctit/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "SOCIETE GENERALE OFFSHORE",
+    "city": "TANGER",
+    "branch": "",
+    "swift_code": "SGTGMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/sgtgmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "UMNIA BANK",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "UMNIMAMM",
+    "row_url": "https://www.theswiftcodes.com/morocco/umnimamm/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "UNION MAROCAINE DE BANQUES",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "UMABMAMC",
+    "row_url": "https://www.theswiftcodes.com/morocco/umabmamc/"
+  },
+  {
+    "country": "MOROCCO",
+    "country_url": "https://www.theswiftcodes.com/morocco/",
+    "page": 2,
+    "bank": "WANA CORPORATE",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "WACOMAMM",
+    "row_url": "https://www.theswiftcodes.com/morocco/wacomamm/"
+  }
+]

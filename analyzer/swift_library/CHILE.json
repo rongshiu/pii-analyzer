@@ -1,0 +1,612 @@
+[
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "ADMINISTRADORA DE FONDOS DE PENSIONES CAPITAL S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "AFNTCLRS",
+    "row_url": "https://www.theswiftcodes.com/chile/afntclrs/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "AFPPCLR2",
+    "row_url": "https://www.theswiftcodes.com/chile/afppclr2/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "ADMINISTRADORA GENERAL DE FONDOS SURA S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "AGDSCLRS",
+    "row_url": "https://www.theswiftcodes.com/chile/agdsclrs/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "AFEX AGENTES DE VALORES LIMITADA",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "AAVLCLR9",
+    "row_url": "https://www.theswiftcodes.com/chile/aavlclr9/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "AFP CUPRUM, S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "AFPCCLRS",
+    "row_url": "https://www.theswiftcodes.com/chile/afpcclrs/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO BICE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BICECLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/biceclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO BTG PACTUAL CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BPABCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bpabclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCECCLRF",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrf/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCECCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCECCLRD",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrd/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCECCLR2",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclr2/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCECCLRR",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrr/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "BANCO CENTRAL DE CHILE CASH (BCCH)",
+    "swift_code": "BCECCLRMCSH",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrmcsh/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "FISCO DE LA REPUBLICA DE CHILE FCE",
+    "swift_code": "BCECCLRMFCE",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrmfce/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "FISCO DE LA REPUBLICA DE CHILE FEES",
+    "swift_code": "BCECCLRMFES",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrmfes/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "FISCO DE LA REPUBLICA DE CHILE FRP",
+    "swift_code": "BCECCLRMFRP",
+    "row_url": "https://www.theswiftcodes.com/chile/bcecclrmfrp/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO CONSORCIO",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "MNEXCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/mnexclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BCHICLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bchiclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "CUSTODY",
+    "swift_code": "BCHICLRMCUS",
+    "row_url": "https://www.theswiftcodes.com/chile/bchiclrmcus/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "EXPORT",
+    "swift_code": "BCHICLRMEXP",
+    "row_url": "https://www.theswiftcodes.com/chile/bchiclrmexp/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "IMPORT HEAD OFFICE",
+    "swift_code": "BCHICLRMIMP",
+    "row_url": "https://www.theswiftcodes.com/chile/bchiclrmimp/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "IMPORT OTHER SANTIAGO BRANCHES",
+    "swift_code": "BCHICLRMIOB",
+    "row_url": "https://www.theswiftcodes.com/chile/bchiclrmiob/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DE CREDITO E INVERSIONES",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CREDCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/credclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO DEL ESTADO DE CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BECHCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bechclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO FALABELLA",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "FALACLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/falaclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO INTERNACIONAL",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BICHCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bichclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO ITAU CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CONBCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/conbclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO ITAU CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "ITAUCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/itauclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO ITAU CHILE",
+    "city": "SANTIAGO",
+    "branch": "SECURITY SERVICES",
+    "swift_code": "ITAUCLRMSSO",
+    "row_url": "https://www.theswiftcodes.com/chile/itauclrmsso/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO RIPLEY",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "RPLYCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/rplyclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO SANTANDER CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BSCHCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bschclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO SANTANDER CHILE",
+    "city": "SANTIAGO",
+    "branch": "GLOBAL CUSTODY DEPARTMENT",
+    "swift_code": "BSCHCLRMGST",
+    "row_url": "https://www.theswiftcodes.com/chile/bschclrmgst/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANCO SECURITY",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BSCLCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bsclclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BANK OF CHINA, AGENCIA EN CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BKCHCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bkchclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BAT CHILE S.A",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BATSCLR3",
+    "row_url": "https://www.theswiftcodes.com/chile/batsclr3/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "BRITISH AMERICAN TOBACCO CHILE OPERACIONES S.A.",
+    "city": "CASABLANCA",
+    "branch": "",
+    "swift_code": "BATSCLR2",
+    "row_url": "https://www.theswiftcodes.com/chile/batsclr2/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "CCLV, CONTRAPARTE CENTRAL S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "ECCVCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/eccvclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "CCLV, CONTRAPARTE CENTRAL S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "ECCVCLRS",
+    "row_url": "https://www.theswiftcodes.com/chile/eccvclrs/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "CENTRO DE COMPENSACION AUTOMATIZADO S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CCTUCLRR",
+    "row_url": "https://www.theswiftcodes.com/chile/cctuclrr/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "PCBCCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/pcbcclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE",
+    "city": "SANTIAGO",
+    "branch": "COMMERCIAL CLIENT",
+    "swift_code": "PCBCCLRMCLR",
+    "row_url": "https://www.theswiftcodes.com/chile/pcbcclrmclr/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "COMBANC S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "PCCACLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/pccaclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "COMBANC S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "PCCACLRZ",
+    "row_url": "https://www.theswiftcodes.com/chile/pccaclrz/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "COMBANC S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "PCCACLR2",
+    "row_url": "https://www.theswiftcodes.com/chile/pccaclr2/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "COMDER CONTRAPARTE CENTRAL S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CDERCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/cderclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "COMDER CONTRAPARTE CENTRAL S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CDERCLRG",
+    "row_url": "https://www.theswiftcodes.com/chile/cderclrg/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "DEPOSITO CENTRAL DE VALORES S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "DCVVCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/dcvvclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "ENEL CHILE S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "ENLCCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/enlcclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "FINANZAS Y NEGOCIOS S.A. CORREDORES DE BOLSA",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "FNOBCLR2",
+    "row_url": "https://www.theswiftcodes.com/chile/fnobclr2/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 1,
+    "bank": "HSBC BANK (CHILE)",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BLICCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/blicclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "CHASCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/chasclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
+    "city": "SANTIAGO",
+    "branch": "INVERSIONES JP MORGAN LIMITADA",
+    "swift_code": "CHASCLRMICM",
+    "row_url": "https://www.theswiftcodes.com/chile/chasclrmicm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
+    "city": "SANTIAGO",
+    "branch": "JP MORGAN ASSET MANAGEMENT INVESTMENT CH",
+    "swift_code": "CHASCLRMAMM",
+    "row_url": "https://www.theswiftcodes.com/chile/chasclrmamm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
+    "city": "SANTIAGO",
+    "branch": "JPMORGAN CORREDORES DE BOLSA SPA",
+    "swift_code": "CHASCLRMCDB",
+    "row_url": "https://www.theswiftcodes.com/chile/chasclrmcdb/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "MONEDA S.A. ADMINISTRADORA GENERAL DE FONDOS",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "MAGDCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/magdclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "SCOTIABANK CHILE",
+    "city": "ARICA",
+    "branch": "",
+    "swift_code": "BKSACLRM064",
+    "row_url": "https://www.theswiftcodes.com/chile/bksaclrm064/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "SCOTIABANK CHILE",
+    "city": "CONCEPCION",
+    "branch": "",
+    "swift_code": "BKSACLRM068",
+    "row_url": "https://www.theswiftcodes.com/chile/bksaclrm068/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "SCOTIABANK CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BKSACLRM055",
+    "row_url": "https://www.theswiftcodes.com/chile/bksaclrm055/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "SCOTIABANK CHILE",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "BKSACLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/bksaclrm/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "SCOTIABANK CHILE",
+    "city": "VALPARAISO",
+    "branch": "",
+    "swift_code": "BKSACLRM061",
+    "row_url": "https://www.theswiftcodes.com/chile/bksaclrm061/"
+  },
+  {
+    "country": "CHILE",
+    "country_url": "https://www.theswiftcodes.com/chile/",
+    "page": 2,
+    "bank": "TANNER SERVICIOS FINANCIEROS S.A.",
+    "city": "SANTIAGO",
+    "branch": "",
+    "swift_code": "FTLNCLRM",
+    "row_url": "https://www.theswiftcodes.com/chile/ftlnclrm/"
+  }
+]

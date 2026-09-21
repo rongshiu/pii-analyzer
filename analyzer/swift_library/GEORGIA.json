@@ -1,0 +1,422 @@
+[
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "BASISBANK, JSC",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "CBASGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/cbasge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "HALYK BANK GEORGIA JSC",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "HABGGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/habgge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "HASH BANK JSC",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "HAJSGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/hajsge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'CARTU BANK'",
+    "city": "BATUMI",
+    "branch": "BATUMI BRANCH",
+    "swift_code": "CRTUGE22092",
+    "row_url": "https://www.theswiftcodes.com/georgia/crtuge22092/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'CARTU BANK'",
+    "city": "KUTAISI",
+    "branch": "KUTAISI BRANCH",
+    "swift_code": "CRTUGE22087",
+    "row_url": "https://www.theswiftcodes.com/georgia/crtuge22087/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'CARTU BANK'",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "CRTUGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/crtuge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'CARTU BANK'",
+    "city": "TBILISI",
+    "branch": "MTATSMINDA BRANCH",
+    "swift_code": "CRTUGE22086",
+    "row_url": "https://www.theswiftcodes.com/georgia/crtuge22086/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'LIBERTY BANK'",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "LBRTGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/lbrtge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "AKHALTSIKHE",
+    "branch": "AKHALTSIKHE BRANCH",
+    "swift_code": "UGEBGE22617",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22617/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "BATUMI",
+    "branch": "BATUMI BRANCH",
+    "swift_code": "UGEBGE22655",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22655/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "GARDABANI",
+    "branch": "GARDABANI BRANCH",
+    "swift_code": "UGEBGE22622",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22622/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "GORI",
+    "branch": "GORI BRANCH",
+    "swift_code": "UGEBGE22602",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22602/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "GURJAANI",
+    "branch": "GURJAANI BRANCH",
+    "swift_code": "UGEBGE22624",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22624/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "KUTAISI",
+    "branch": "KUTAISI BRANCH",
+    "swift_code": "UGEBGE22605",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22605/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "MARNEULI",
+    "branch": "MARNEULI BRANCH",
+    "swift_code": "UGEBGE22639",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22639/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "OZURGETI",
+    "branch": "OZURGETI BRANCH",
+    "swift_code": "UGEBGE22643",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22643/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "POTI",
+    "branch": "POTI BRANCH",
+    "swift_code": "UGEBGE22606",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22606/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "RUSTAVI",
+    "branch": "RUSTAVI BRANCH",
+    "swift_code": "UGEBGE22607",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22607/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "ABKHAZETI BRANCH",
+    "swift_code": "UGEBGE22687",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22687/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "CENTRAL BRANCH",
+    "swift_code": "UGEBGE22615",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22615/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "DIDUBE BRANCH",
+    "swift_code": "UGEBGE22665",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22665/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "HEAD OFFICE",
+    "swift_code": "UGEBGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "KRZANINI BRANCH",
+    "swift_code": "UGEBGE22668",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22668/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "MTATSMINDA BRANCH",
+    "swift_code": "UGEBGE22666",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22666/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "RUSTAVELI BRANCH",
+    "swift_code": "UGEBGE22604",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22604/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TBILISI",
+    "branch": "SABURTALO BRANCH",
+    "swift_code": "UGEBGE22670",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22670/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "TELAVI",
+    "branch": "TELAVI BRANCH",
+    "swift_code": "UGEBGE22629",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22629/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC 'VTB BANK GEORGIA'",
+    "city": "ZUGDIDI",
+    "branch": "ZUGDIDI BRANCH",
+    "swift_code": "UGEBGE22603",
+    "row_url": "https://www.theswiftcodes.com/georgia/ugebge22603/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC BANK OF GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "BAGAGE22GTS",
+    "row_url": "https://www.theswiftcodes.com/georgia/bagage22gts/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC BANK OF GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "BAGAGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/bagage22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC BANK OF GEORGIA",
+    "city": "TBILISI",
+    "branch": "CUSTODY SERVICES",
+    "swift_code": "BAGAGE22CUS",
+    "row_url": "https://www.theswiftcodes.com/georgia/bagage22cus/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC CREDO BANK",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "JSCRGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/jscrge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC ISBANK GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "ISBKGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/isbkge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC PASHA BANK GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "PAHAGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/pahage22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC TERABANK",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "TEBAGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/tebage22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "JSC ZIRAAT BANK GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "TCZBGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/tczbge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "NATIONAL BANK OF GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "BNLNGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/bnlnge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "PAYSERA BANK GEORGIA JSC",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "PSRAGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/psrage22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "PROCREDIT BANK, GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "MIBGGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/mibgge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "SILK BANK JSC (FORMERLY SILK ROAD BANK JSC)",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "DISNGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/disnge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "TBC BANK",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "TBCBGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/tbcbge22/"
+  },
+  {
+    "country": "GEORGIA",
+    "country_url": "https://www.theswiftcodes.com/georgia/",
+    "page": 1,
+    "bank": "TREASURY SERVICE MINISTRY OF FINANCE OF GEORGIA",
+    "city": "TBILISI",
+    "branch": "",
+    "swift_code": "TSMFGE22",
+    "row_url": "https://www.theswiftcodes.com/georgia/tsmfge22/"
+  }
+]

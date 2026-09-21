@@ -1,0 +1,32 @@
+[
+  {
+    "country": "MARTINIQUE",
+    "country_url": "https://www.theswiftcodes.com/martinique/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE",
+    "city": "FORT-DE-FRANCE",
+    "branch": "",
+    "swift_code": "BNPAMQMX",
+    "row_url": "https://www.theswiftcodes.com/martinique/bnpamqmx/"
+  },
+  {
+    "country": "MARTINIQUE",
+    "country_url": "https://www.theswiftcodes.com/martinique/",
+    "page": 1,
+    "bank": "CREDIT AGRICOLE",
+    "city": "FORT-DE-FRANCE",
+    "branch": "",
+    "swift_code": "AGRIMQMX",
+    "row_url": "https://www.theswiftcodes.com/martinique/agrimqmx/"
+  },
+  {
+    "country": "MARTINIQUE",
+    "country_url": "https://www.theswiftcodes.com/martinique/",
+    "page": 1,
+    "bank": "GBH",
+    "city": "LE LAMENTIN",
+    "branch": "",
+    "swift_code": "GBHAMQMM",
+    "row_url": "https://www.theswiftcodes.com/martinique/gbhamqmm/"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "country": "TONGA",
+    "country_url": "https://www.theswiftcodes.com/tonga/",
+    "page": 1,
+    "bank": "ANZ BANKING GROUP LIMITED",
+    "city": "NUKU'ALOFA",
+    "branch": "",
+    "swift_code": "ANZBTONN",
+    "row_url": "https://www.theswiftcodes.com/tonga/anzbtonn/"
+  },
+  {
+    "country": "TONGA",
+    "country_url": "https://www.theswiftcodes.com/tonga/",
+    "page": 1,
+    "bank": "BANK OF SOUTH PACIFIC TONGA LIMITED",
+    "city": "NUKU'ALOFA",
+    "branch": "",
+    "swift_code": "BOSPTONU",
+    "row_url": "https://www.theswiftcodes.com/tonga/bosptonu/"
+  },
+  {
+    "country": "TONGA",
+    "country_url": "https://www.theswiftcodes.com/tonga/",
+    "page": 1,
+    "bank": "MBF BANK LIMITED",
+    "city": "NUKU'ALOFA",
+    "branch": "",
+    "swift_code": "MBFMTONU",
+    "row_url": "https://www.theswiftcodes.com/tonga/mbfmtonu/"
+  },
+  {
+    "country": "TONGA",
+    "country_url": "https://www.theswiftcodes.com/tonga/",
+    "page": 1,
+    "bank": "NATIONAL RESERVE BANK OF TONGA",
+    "city": "NUKU'ALOFA",
+    "branch": "",
+    "swift_code": "NRBTTONU",
+    "row_url": "https://www.theswiftcodes.com/tonga/nrbttonu/"
+  },
+  {
+    "country": "TONGA",
+    "country_url": "https://www.theswiftcodes.com/tonga/",
+    "page": 1,
+    "bank": "TONGA DEVELOPMENT BANK",
+    "city": "NUKU'ALOFA",
+    "branch": "",
+    "swift_code": "TODETONU",
+    "row_url": "https://www.theswiftcodes.com/tonga/todetonu/"
+  }
+]

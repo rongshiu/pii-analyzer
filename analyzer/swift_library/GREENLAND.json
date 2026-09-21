@@ -1,0 +1,32 @@
+[
+  {
+    "country": "GREENLAND",
+    "country_url": "https://www.theswiftcodes.com/greenland/",
+    "page": 1,
+    "bank": "GRONLANDSBANKEN A/S",
+    "city": "NUUK",
+    "branch": "",
+    "swift_code": "GRENGLGX",
+    "row_url": "https://www.theswiftcodes.com/greenland/grenglgx/"
+  },
+  {
+    "country": "GREENLAND",
+    "country_url": "https://www.theswiftcodes.com/greenland/",
+    "page": 1,
+    "bank": "GRONLANDSBANKEN A/S",
+    "city": "NUUK",
+    "branch": "KONTANTDEPOTBANK",
+    "swift_code": "GRENGLGXKON",
+    "row_url": "https://www.theswiftcodes.com/greenland/grenglgxkon/"
+  },
+  {
+    "country": "GREENLAND",
+    "country_url": "https://www.theswiftcodes.com/greenland/",
+    "page": 1,
+    "bank": "P/F BANKNORDIK",
+    "city": "NUUK",
+    "branch": "",
+    "swift_code": "BANOGLG2",
+    "row_url": "https://www.theswiftcodes.com/greenland/banoglg2/"
+  }
+]

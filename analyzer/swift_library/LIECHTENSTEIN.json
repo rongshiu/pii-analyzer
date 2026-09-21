@@ -1,0 +1,352 @@
+[
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "AMNIS EUROPE AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "AMNSLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/amnsli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "BANK FRICK AND CO AKTIENGESELLSCHAFT",
+    "city": "BALZERS",
+    "branch": "",
+    "swift_code": "BFRILI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/bfrili22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "SFBALI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/sfbali22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "BENDURA BANK AG",
+    "city": "GAMPRIN-BENDERN",
+    "branch": "",
+    "swift_code": "HYIBLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/hyibli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "EFG BANK VON ERNST AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "EFGBLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/efgbli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "FDS FINANCIAL DATA SERVICES AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "FDSFLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/fdsfli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "FDS FINANCIAL DATA SERVICES AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "FDSFLI22ASM",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/fdsfli22asm/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "FDS FINANCIAL DATA SERVICES AG",
+    "city": "VADUZ",
+    "branch": "LV1871",
+    "swift_code": "FDSFLI22LV1",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/fdsfli22lv1/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "HILTI CORPORATION",
+    "city": "SCHAAN",
+    "branch": "",
+    "swift_code": "HILTLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/hiltli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "KAISER PARTNER PRIVATBANK AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "SERBLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/serbli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "BLFLLI2X",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "AGX FUNDS",
+    "swift_code": "BLFLLI2XAGX",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2xagx/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "CONV SHAREKLASSE GBP",
+    "swift_code": "BLFLLI2X224",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x224/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "EQ NAM SHAREKLASSE EUR",
+    "swift_code": "BLFLLI2X225",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x225/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "EX CUSTODY",
+    "swift_code": "BLFLLI2XEXC",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2xexc/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE CHF C",
+    "swift_code": "BLFLLI2X275",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x275/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE CHF I1",
+    "swift_code": "BLFLLI2X276",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x276/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE EUR C",
+    "swift_code": "BLFLLI2X279",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x279/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE EUR I1",
+    "swift_code": "BLFLLI2X281",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x281/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE GBP C",
+    "swift_code": "BLFLLI2X283",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x283/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT CONVERTIBLE GBP I1",
+    "swift_code": "BLFLLI2X314",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x314/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SELECT EQUITY JAPAN USD C",
+    "swift_code": "BLFLLI2X315",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x315/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SLC EQ JP USD B",
+    "swift_code": "BLFLLI2X252",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x252/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "LGT SLC EQ JP USD I1",
+    "swift_code": "BLFLLI2X253",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x253/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "M-M CONV. SHAREKLASSE CHF",
+    "swift_code": "BLFLLI2X496",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x496/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LGT BANK AG",
+    "city": "VADUZ",
+    "branch": "M-M CONV. SHAREKLASSE EUR",
+    "swift_code": "BLFLLI2X495",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/blflli2x495/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "LILALI2X",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/lilali2x/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "NEUE BANK AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "NBANLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/nbanli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "OLAYAN INVESTMENTS COMPANY ESTABLISHMENT",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "OICELI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/oiceli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "SIGMA BANK AG",
+    "city": "SCHAAN",
+    "branch": "VOLKSBANK AG",
+    "swift_code": "VOAGLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/voagli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "SORA BANK AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "BALPLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/balpli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "SWISS LIFE (LIECHTENSTEIN) AG",
+    "city": "RUGGELL",
+    "branch": "",
+    "swift_code": "SWLCLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/swlcli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "TANTUM AG",
+    "city": "TRIESEN",
+    "branch": "",
+    "swift_code": "TANTLI22",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/tantli22/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "VP BANK AG",
+    "city": "VADUZ",
+    "branch": "",
+    "swift_code": "VPBVLI2X",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/vpbvli2x/"
+  },
+  {
+    "country": "LIECHTENSTEIN",
+    "country_url": "https://www.theswiftcodes.com/liechtenstein/",
+    "page": 1,
+    "bank": "VP BANK AG",
+    "city": "VADUZ",
+    "branch": "BUSINESS UNIT LIECHTENSTEIN",
+    "swift_code": "VPBVLI2XLIC",
+    "row_url": "https://www.theswiftcodes.com/liechtenstein/vpbvli2xlic/"
+  }
+]

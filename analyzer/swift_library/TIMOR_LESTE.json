@@ -1,0 +1,62 @@
+[
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "ANZBTLDI",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/anzbtldi/"
+  },
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE TIMOR-LESTE",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "BCTLTLDI",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/bctltldi/"
+  },
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A.",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "BNCTTLDD",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/bncttldd/"
+  },
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "BCTLTLDA",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/bctltlda/"
+  },
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL           TIMOR LESTE",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "CGDITLDI",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/cgditldi/"
+  },
+  {
+    "country": "TIMOR LESTE",
+    "country_url": "https://www.theswiftcodes.com/timor-leste/",
+    "page": 1,
+    "bank": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK, R.P.",
+    "city": "DILI",
+    "branch": "",
+    "swift_code": "BRINTLDD",
+    "row_url": "https://www.theswiftcodes.com/timor-leste/brintldd/"
+  }
+]

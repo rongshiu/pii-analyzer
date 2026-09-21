@@ -1,0 +1,52 @@
+[
+  {
+    "country": "FRENCH POLYNESIA",
+    "country_url": "https://www.theswiftcodes.com/french-polynesia/",
+    "page": 1,
+    "bank": "BANQUE DE POLYNESIE",
+    "city": "PAPEETE",
+    "branch": "",
+    "swift_code": "BPOLPFTP",
+    "row_url": "https://www.theswiftcodes.com/french-polynesia/bpolpftp/"
+  },
+  {
+    "country": "FRENCH POLYNESIA",
+    "country_url": "https://www.theswiftcodes.com/french-polynesia/",
+    "page": 1,
+    "bank": "BANQUE DE TAHITI S.A.",
+    "city": "PAPEETE",
+    "branch": "",
+    "swift_code": "CEPAPFTP",
+    "row_url": "https://www.theswiftcodes.com/french-polynesia/cepapftp/"
+  },
+  {
+    "country": "FRENCH POLYNESIA",
+    "country_url": "https://www.theswiftcodes.com/french-polynesia/",
+    "page": 1,
+    "bank": "BANQUE SOCREDO",
+    "city": "PAPEETE",
+    "branch": "",
+    "swift_code": "SOCBPFTX",
+    "row_url": "https://www.theswiftcodes.com/french-polynesia/socbpftx/"
+  },
+  {
+    "country": "FRENCH POLYNESIA",
+    "country_url": "https://www.theswiftcodes.com/french-polynesia/",
+    "page": 1,
+    "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+    "city": "PAPEETE",
+    "branch": "",
+    "swift_code": "CDCGPFTP",
+    "row_url": "https://www.theswiftcodes.com/french-polynesia/cdcgpftp/"
+  },
+  {
+    "country": "FRENCH POLYNESIA",
+    "country_url": "https://www.theswiftcodes.com/french-polynesia/",
+    "page": 1,
+    "bank": "NIUPAY",
+    "city": "PAPEETE",
+    "branch": "",
+    "swift_code": "EGPOPFT2",
+    "row_url": "https://www.theswiftcodes.com/french-polynesia/egpopft2/"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ADDIKO BANK D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "HAABHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/haabhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ADDIKO BANK D.D.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY BUSINESS",
+    "swift_code": "HAABHR22CUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/haabhr22cus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "AGRAM BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "KREZHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/krezhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "AGRAM BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "KREZHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/krezhr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "AGRAM BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "TREASURY",
+    "swift_code": "KREZHR2XTRE",
+    "row_url": "https://www.theswiftcodes.com/croatia/krezhr2xtre/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "BANKA KOVANICA D.D.",
+    "city": "VARAZDIN",
+    "branch": "",
+    "swift_code": "SKOVHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/skovhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA",
+    "city": "RIJEKA",
+    "branch": "",
+    "swift_code": "BFKKHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/bfkkhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "CORVUS PAY D.O.O.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "COYDHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/coydhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "CROATIA BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "CROAHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/croahr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "CROATIA BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "CROAHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/croahr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "CROATIA BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "TREASURY",
+    "swift_code": "CROAHR2XTRE",
+    "row_url": "https://www.theswiftcodes.com/croatia/croahr2xtre/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "CROATIAN BANK FOR RECONSTRUCTION AND DEVELOPMENT/HBOR/",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "HKBOHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/hkbohr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+    "city": "RIJEKA",
+    "branch": "",
+    "swift_code": "ESBCHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/esbchr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+    "city": "RIJEKA",
+    "branch": "BROKERAGE",
+    "swift_code": "ESBCHR22BRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/esbchr22bro/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+    "city": "RIJEKA",
+    "branch": "CUSTODY",
+    "swift_code": "ESBCHR22CUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/esbchr22cus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
+    "city": "RIJEKA",
+    "branch": "TREASURY",
+    "swift_code": "ESBCHR22TRE",
+    "row_url": "https://www.theswiftcodes.com/croatia/esbchr22tre/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "FINANCIJSKA AGENCIJA",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "FNAGHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/fnaghr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "FINANCIJSKA AGENCIJA",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "FNAGHR22FN1",
+    "row_url": "https://www.theswiftcodes.com/croatia/fnaghr22fn1/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2XEUX",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2xeux/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2XBAC",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2xbac/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2XECM",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2xecm/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2XCCB",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2xccb/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "NBHRHR2XRMS",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2xrms/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
+    "city": "ZAGREB",
+    "branch": "DOMESTIC PAYMENT SYSTEM",
+    "swift_code": "NBHRHR2D",
+    "row_url": "https://www.theswiftcodes.com/croatia/nbhrhr2d/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA POSTANSKA BANKA D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "HPBZHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/hpbzhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "HRVATSKA POSTANSKA BANKA D.D. (FORMERLY NOVA HRVATSKA BANKA D.D.)",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "VBCRHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/vbcrhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "IMEX BANKA LTD.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "IMXXHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/imxxhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "INA-INDUSTRIJA NAFTE, D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "INAHHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/inahhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "INTERCAPITAL SECURITIES LTD.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "INUIHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/inuihr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "INTERCAPITAL SECURITIES LTD.",
+    "city": "ZAGREB",
+    "branch": "BROKERAGE",
+    "swift_code": "INUIHR22BRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/inuihr22bro/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "INTERCAPITAL SECURITIES LTD.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "INUIHR22CUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/inuihr22cus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "ISTARSKA KREDITNA BANKA JOINT STOCK COMPANY",
+    "city": "UMAG",
+    "branch": "",
+    "swift_code": "ISKBHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/iskbhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "J AND T BANKA D.D.",
+    "city": "VARAZDIN",
+    "branch": "",
+    "swift_code": "VBVZHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/vbvzhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "KARLOVACKA BANKA D.D.",
+    "city": "KARLOVAC",
+    "branch": "",
+    "swift_code": "KALCHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/kalchr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "KENTBANK D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "KENBHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/kenbhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "DUBROVNIK",
+    "branch": "DUBROVNIK",
+    "swift_code": "OTPVHR2XDUB",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xdub/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "PULA",
+    "branch": "",
+    "swift_code": "OTPVHR2XPUL",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xpul/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "RIJEKA",
+    "branch": "RIJEKA",
+    "swift_code": "OTPVHR2XRJK",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xrjk/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SIBENIK",
+    "branch": "SIBENIK",
+    "swift_code": "OTPVHR2XSIB",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xsib/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SISAK",
+    "branch": "",
+    "swift_code": "OTPVHR2XSIS",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xsis/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "OTPVHR2XSPL",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xspl/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "OTPVHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "OTPVHR2XBRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xbro/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "OTPVHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "SPLIT",
+    "branch": "",
+    "swift_code": "OTPVHR2XTRE",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xtre/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "ZADAR",
+    "branch": "",
+    "swift_code": "OTPVHR2XZAD",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xzad/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "OTP BANKA HRVATSKA D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "OTPVHR2XZAG",
+    "row_url": "https://www.theswiftcodes.com/croatia/otpvhr2xzag/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "PARTNER BANKA D.D. ZAGREB",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "PAZGHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/pazghr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 1,
+    "bank": "PODRAVSKA BANKA D.D.",
+    "city": "KOPRIVNICA",
+    "branch": "",
+    "swift_code": "PDKCHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/pdkchr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PODRAVSKA BANKA D.D.",
+    "city": "KOPRIVNICA",
+    "branch": "BROKERS",
+    "swift_code": "PDKCHR2XBRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/pdkchr2xbro/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PODRAVSKA BANKA D.D.",
+    "city": "KOPRIVNICA",
+    "branch": "CUSTODY",
+    "swift_code": "PDKCHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/pdkchr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PODRAVSKA BANKA D.D.",
+    "city": "KOPRIVNICA",
+    "branch": "TREASURY",
+    "swift_code": "PDKCHR2XTRE",
+    "row_url": "https://www.theswiftcodes.com/croatia/pdkchr2xtre/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PRIVREDNA BANKA ZAGREB D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "PBZGHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/pbzghr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PRIVREDNA BANKA ZAGREB D.D.",
+    "city": "ZAGREB",
+    "branch": "BROKERAGE",
+    "swift_code": "PBZGHR2XBTR",
+    "row_url": "https://www.theswiftcodes.com/croatia/pbzghr2xbtr/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PRIVREDNA BANKA ZAGREB D.D.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "PBZGHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/pbzghr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "PRIVREDNA BANKA ZAGREB D.D.",
+    "city": "ZAGREB",
+    "branch": "TREASURY",
+    "swift_code": "PBZGHR2XMPT",
+    "row_url": "https://www.theswiftcodes.com/croatia/pbzghr2xmpt/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "RAIFFEISENBANK AUSTRIA D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "RZBHHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/rzbhhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "RAIFFEISENBANK AUSTRIA D.D.",
+    "city": "ZAGREB",
+    "branch": "BROKERAGE",
+    "swift_code": "RZBHHR2XBRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/rzbhhr2xbro/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "RAIFFEISENBANK AUSTRIA D.D.",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "RZBHHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/rzbhhr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SAMOBORSKA BANKA D.D.",
+    "city": "SAMOBOR",
+    "branch": "",
+    "swift_code": "SMBRHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/smbrhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SKDD-CCP SMART CLEAR D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "CCPHHR22001",
+    "row_url": "https://www.theswiftcodes.com/croatia/ccphhr22001/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SKDD-CCP SMART CLEAR D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "CCPHHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/ccphhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SKDD-CCP SMART CLEAR D.D.",
+    "city": "ZAGREB",
+    "branch": "T2S DCA BRANCH",
+    "swift_code": "CCPHHR22002",
+    "row_url": "https://www.theswiftcodes.com/croatia/ccphhr22002/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SLATINSKA BANKA DD",
+    "city": "SLATINA",
+    "branch": "",
+    "swift_code": "SBSLHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/sbslhr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "SDAHHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/sdahhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.",
+    "city": "ZAGREB",
+    "branch": "T2S DCA BRANCH",
+    "swift_code": "SDAHHR22002",
+    "row_url": "https://www.theswiftcodes.com/croatia/sdahhr22002/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "VIVA PAYMENT SERVICES S.A. PODRUZNICA ZAGREB",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "VPAYHR22",
+    "row_url": "https://www.theswiftcodes.com/croatia/vpayhr22/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "ZAGREBACKA BANKA DD",
+    "city": "ZAGREB",
+    "branch": "",
+    "swift_code": "ZABAHR2X",
+    "row_url": "https://www.theswiftcodes.com/croatia/zabahr2x/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "ZAGREBACKA BANKA DD",
+    "city": "ZAGREB",
+    "branch": "CUSTODY",
+    "swift_code": "ZABAHR2XCUS",
+    "row_url": "https://www.theswiftcodes.com/croatia/zabahr2xcus/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "ZAGREBACKA BANKA DD",
+    "city": "ZAGREB",
+    "branch": "TREASURY",
+    "swift_code": "ZABAHR2XRIZ",
+    "row_url": "https://www.theswiftcodes.com/croatia/zabahr2xriz/"
+  },
+  {
+    "country": "CROATIA",
+    "country_url": "https://www.theswiftcodes.com/croatia/",
+    "page": 2,
+    "bank": "ZAGREBACKA BANKA DD",
+    "city": "ZAGREB",
+    "branch": "ZABA BROKER",
+    "swift_code": "ZABAHR2XBRO",
+    "row_url": "https://www.theswiftcodes.com/croatia/zabahr2xbro/"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "country": "GRENADA",
+    "country_url": "https://www.theswiftcodes.com/grenada/",
+    "page": 1,
+    "bank": "ACB GRENADA BANK LTD.",
+    "city": "ST. GEORGE'S",
+    "branch": "",
+    "swift_code": "ACGDGDGD",
+    "row_url": "https://www.theswiftcodes.com/grenada/acgdgdgd/"
+  },
+  {
+    "country": "GRENADA",
+    "country_url": "https://www.theswiftcodes.com/grenada/",
+    "page": 1,
+    "bank": "GOVERNMENT OF GRENADA",
+    "city": "ST. GEORGE'S",
+    "branch": "",
+    "swift_code": "GVGDGDGD",
+    "row_url": "https://www.theswiftcodes.com/grenada/gvgdgdgd/"
+  },
+  {
+    "country": "GRENADA",
+    "country_url": "https://www.theswiftcodes.com/grenada/",
+    "page": 1,
+    "bank": "GRENADA CO-OPERATIVE BANK LIMITED",
+    "city": "ST. GEORGE'S",
+    "branch": "",
+    "swift_code": "GROAGDGD",
+    "row_url": "https://www.theswiftcodes.com/grenada/groagdgd/"
+  },
+  {
+    "country": "GRENADA",
+    "country_url": "https://www.theswiftcodes.com/grenada/",
+    "page": 1,
+    "bank": "REPUBLIC BANK GRENADA LIMITED",
+    "city": "ST. GEORGE'S",
+    "branch": "",
+    "swift_code": "NCBGGDGD",
+    "row_url": "https://www.theswiftcodes.com/grenada/ncbggdgd/"
+  },
+  {
+    "country": "GRENADA",
+    "country_url": "https://www.theswiftcodes.com/grenada/",
+    "page": 1,
+    "bank": "REPUBLIC BANK GRENADA LIMITED",
+    "city": "ST. GEORGE'S",
+    "branch": "",
+    "swift_code": "NCBGGDGD001",
+    "row_url": "https://www.theswiftcodes.com/grenada/ncbggdgd001/"
+  }
+]
