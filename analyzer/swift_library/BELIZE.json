@@ -1,0 +1,92 @@
+[
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "ATLANTIC BANK LIMITED",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "LIBABZBZ",
+    "row_url": "https://www.theswiftcodes.com/belize/libabzbz/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "ATLANTIC BANK LIMITED",
+    "city": "SAN PEDRO",
+    "branch": "",
+    "swift_code": "LIBABZBZ0BS",
+    "row_url": "https://www.theswiftcodes.com/belize/libabzbz0bs/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "BELIZE BANK INTERNATIONAL LIMITED",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "BCBTBZBZ",
+    "row_url": "https://www.theswiftcodes.com/belize/bcbtbzbz/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "BELIZE BANK LIMITED",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "BBLZBZBZ",
+    "row_url": "https://www.theswiftcodes.com/belize/bblzbzbz/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "CAYE INTERNATIONAL BANK LTD.",
+    "city": "SAN PEDRO",
+    "branch": "",
+    "swift_code": "CAYEBZBZ",
+    "row_url": "https://www.theswiftcodes.com/belize/cayebzbz/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "CENTRAL BANK OF BELIZE",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "CEBBBZBZ",
+    "row_url": "https://www.theswiftcodes.com/belize/cebbbzbz/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "HERITAGE BANK LIMITED",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "PRVTBZBD",
+    "row_url": "https://www.theswiftcodes.com/belize/prvtbzbd/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
+    "city": "BELIZE CITY",
+    "branch": "",
+    "swift_code": "PRVTBZBS",
+    "row_url": "https://www.theswiftcodes.com/belize/prvtbzbs/"
+  },
+  {
+    "country": "BELIZE",
+    "country_url": "https://www.theswiftcodes.com/belize/",
+    "page": 1,
+    "bank": "NATIONAL BANK OF BELIZE LIMITED",
+    "city": "BELMOPAN",
+    "branch": "",
+    "swift_code": "NBELBZBB",
+    "row_url": "https://www.theswiftcodes.com/belize/nbelbzbb/"
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "'BUSINESS DEVELOPMENT BANK' JSCB",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "GJSOUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/gjsouz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "'CENTRAL SECURITIES DEPOSITORY' JOINT-STOCK COMPANY",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "SNCUUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/sncuuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "'HI-TECH BANK' PRIVATE CLOSED JOINT STOCK COMMERCIAL BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "HPCJUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/hpcjuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "'UZBEK INDUSTRIAL AND CONSTRUCTION BANK' JOINT-STOCK COMMERCIAL BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "UJSIUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/ujsiuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "ANOR BANK UZ",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "ANOBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/anobuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "ASIA ALLIANCE BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "ASACUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/asacuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "CBUZUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/cbuzuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "HAYOT BANK JSC",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "HJSCUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/hjscuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "INVEST FINANCE BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "INFBUZ2X",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/infbuz2x/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "IPOTEKA-BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "UZHOUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/uzhouz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT STOCK COMMERCIAL ALOQABANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "JSCLUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jscluz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "PAKHUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/pakhuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT STOCK COMMERCIAL BANK 'TBC BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "JOCBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jocbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT STOCK COMPANY 'APEX BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "APXBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/apxbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT STOCK COMPANY AVO BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "UZGOUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/uzgouz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMMERCIAL BANK 'TENGE BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "HSBKUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/hsbkuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "TUROUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/turouz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMMERCIAL XALQ BANK OF THE REPUBLIC OF UZBEKISTAN",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "SCPEUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/scpeuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMPANY 'ASAKABANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "ASBKUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/asbkuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMPANY 'UZUM BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "UZUMUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/uzumuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JOINT-STOCK COMPANY GARANT BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "JSCSUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jscsuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JSC 'POYTAXT BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "JOCPUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jocpuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JSC MADAD INVEST BANK",
+    "city": "FERGHANA",
+    "branch": "",
+    "swift_code": "JSMIUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jsmiuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JSC ZIRAAT BANK UZBEKISTAN",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "TCZBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/tczbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JSCB HAMKORBANK",
+    "city": "ANDIJAN",
+    "branch": "",
+    "swift_code": "KHKKUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/khkkuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "JSIC BANK IPAK YULI",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "INIPUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/inipuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "KAPITALBANK, JSCB",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "KACHUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/kachuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "KDB BANK UZBEKISTAN JSC",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "KODBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/kodbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "MICROCREDITBANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "MICDUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/micduz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "MINISTRY OF FINANCE THE REPUBLIC OF UZBEKISTAN",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "MFRUUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/mfruuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "NBFAUZ2X",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/nbfauz2x/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "OCTOBANK JSC",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "RVBKUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/rvbkuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "PJSCB 'ORIENT FINANCE'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "ORFBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/orfbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "PJSCB UNIVERSAL BANK",
+    "city": "KOKAND",
+    "branch": "",
+    "swift_code": "PJUNUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/pjunuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "PRIVATE JOINT-STOCK COMMERCIAL BANK 'DAVR BANK'",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "DVRBUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/dvrbuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "TRUSTBANK, PRIVATE JOINT-STOCK BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "TRSAUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/trsauz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "UZBEK REPUBLICAN CURRENCY EXCHANGE JSC",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "ZRCEUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/zrceuz22/"
+  },
+  {
+    "country": "UZBEKISTAN",
+    "country_url": "https://www.theswiftcodes.com/uzbekistan/",
+    "page": 1,
+    "bank": "YANGI BANK",
+    "city": "TASHKENT",
+    "branch": "",
+    "swift_code": "JCYNUZ22",
+    "row_url": "https://www.theswiftcodes.com/uzbekistan/jcynuz22/"
+  }
+]

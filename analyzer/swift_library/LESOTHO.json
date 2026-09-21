@@ -1,0 +1,52 @@
+[
+  {
+    "country": "LESOTHO",
+    "country_url": "https://www.theswiftcodes.com/lesotho/",
+    "page": 1,
+    "bank": "CENTRAL BANK OF LESOTHO",
+    "city": "MASERU",
+    "branch": "",
+    "swift_code": "CBLELSMX",
+    "row_url": "https://www.theswiftcodes.com/lesotho/cblelsmx/"
+  },
+  {
+    "country": "LESOTHO",
+    "country_url": "https://www.theswiftcodes.com/lesotho/",
+    "page": 1,
+    "bank": "FIRST NATIONAL BANK OF LESOTHO",
+    "city": "MASERU",
+    "branch": "",
+    "swift_code": "FIRNLSMX",
+    "row_url": "https://www.theswiftcodes.com/lesotho/firnlsmx/"
+  },
+  {
+    "country": "LESOTHO",
+    "country_url": "https://www.theswiftcodes.com/lesotho/",
+    "page": 1,
+    "bank": "LESOTHO POSTBANK",
+    "city": "MASERU",
+    "branch": "",
+    "swift_code": "LESHLSMM",
+    "row_url": "https://www.theswiftcodes.com/lesotho/leshlsmm/"
+  },
+  {
+    "country": "LESOTHO",
+    "country_url": "https://www.theswiftcodes.com/lesotho/",
+    "page": 1,
+    "bank": "NEDBANK (LESOTHO) LIMITED",
+    "city": "MASERU",
+    "branch": "",
+    "swift_code": "NEDLLSMX",
+    "row_url": "https://www.theswiftcodes.com/lesotho/nedllsmx/"
+  },
+  {
+    "country": "LESOTHO",
+    "country_url": "https://www.theswiftcodes.com/lesotho/",
+    "page": 1,
+    "bank": "STANDARD LESOTHO BANK LTD.",
+    "city": "MASERU",
+    "branch": "",
+    "swift_code": "SBICLSMX",
+    "row_url": "https://www.theswiftcodes.com/lesotho/sbiclsmx/"
+  }
+]

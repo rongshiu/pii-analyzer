@@ -1,0 +1,32 @@
+[
+  {
+    "country": "MARSHALL ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/marshall-islands/",
+    "page": 1,
+    "bank": "BANK OF MARSHALL ISLANDS",
+    "city": "MAJURO",
+    "branch": "",
+    "swift_code": "BOMDMH22",
+    "row_url": "https://www.theswiftcodes.com/marshall-islands/bomdmh22/"
+  },
+  {
+    "country": "MARSHALL ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/marshall-islands/",
+    "page": 1,
+    "bank": "PAMEROY MANAGEMENT LTD",
+    "city": "MAJURO",
+    "branch": "",
+    "swift_code": "PAGGMH22",
+    "row_url": "https://www.theswiftcodes.com/marshall-islands/paggmh22/"
+  },
+  {
+    "country": "MARSHALL ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/marshall-islands/",
+    "page": 1,
+    "bank": "TEEKAY CORPORATION",
+    "city": "MAJURO",
+    "branch": "",
+    "swift_code": "TEECMH22",
+    "row_url": "https://www.theswiftcodes.com/marshall-islands/teecmh22/"
+  }
+]

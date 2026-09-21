@@ -1,0 +1,62 @@
+[
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "BANQUE CENTRALE DES COMOROS",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "COCBKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/cocbkmkm/"
+  },
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "BANQUE DE DEVELOPPEMENT DES COMORES",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "DEVPKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/devpkmkm/"
+  },
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "BANQUE FEDERALE DE COMMERCE",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "BFDCKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/bfdckmkm/"
+  },
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "BICCKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/bicckmkm/"
+  },
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "EXIM BANK COMORES LTD",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "EXTNKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/extnkmkm/"
+  },
+  {
+    "country": "COMOROS",
+    "country_url": "https://www.theswiftcodes.com/comoros/",
+    "page": 1,
+    "bank": "SOCIETE NATIONALE DES POSTES ET DES SERVICES FINANCIERS (SNPSF)",
+    "city": "MORONI",
+    "branch": "",
+    "swift_code": "HAHMKMKM",
+    "row_url": "https://www.theswiftcodes.com/comoros/hahmkmkm/"
+  }
+]

@@ -1,0 +1,29 @@
+# Secrets — never commit
+*_token.txt
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Model / data caches
+cache/
+.cache/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/

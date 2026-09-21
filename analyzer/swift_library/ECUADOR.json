@@ -1,0 +1,1362 @@
+[
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "MUPIECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/mupieceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO AMAZONAS S.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BASAECEG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/basaeceg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BBOLECEG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bboleceg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO BOLIVARIANO C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "MATRIZ",
+    "swift_code": "BBOLECEG100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bboleceg100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DEL ECUADOR",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BCENECEQ120",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bceneceq120/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DEL ECUADOR",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "BCENECEQ100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bceneceq100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DEL ECUADOR",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "BCENECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bceneceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "PRODECEQ100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/prodeceq100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PRODECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/prodeceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE LOJA",
+    "city": "LOJA",
+    "branch": "",
+    "swift_code": "LOJBECEL",
+    "row_url": "https://www.theswiftcodes.com/ecuador/lojbecel/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BMACECEG0EG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0eg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BMACECEG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "NARANJAL",
+    "branch": "",
+    "swift_code": "BMACECEG0E4",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e4/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "PASAJE",
+    "branch": "",
+    "swift_code": "BMACECEG0E5",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e5/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "PINAS",
+    "branch": "",
+    "swift_code": "BMACECEG0E3",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e3/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "QUEVEDO",
+    "branch": "",
+    "swift_code": "BMACECEG0E8",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e8/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "SANTA ROSA",
+    "branch": "",
+    "swift_code": "BMACECEG0E7",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e7/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DE MACHALA, C.A.",
+    "city": "ZARUMA",
+    "branch": "",
+    "swift_code": "BMACECEG0E6",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bmaceceg0e6/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL AUSTRO S.A.",
+    "city": "CUENCA",
+    "branch": "",
+    "swift_code": "AUSTECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/austeceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL LITORAL",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "LITBECEF",
+    "row_url": "https://www.theswiftcodes.com/ecuador/litbecef/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "AMBATO",
+    "branch": "",
+    "swift_code": "PACIECEG400",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg400/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "CUENCA",
+    "branch": "",
+    "swift_code": "PACIECEG300",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg300/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "PACIECEG100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "GUAYAQUIL",
+    "branch": "HEAD OFFICE",
+    "swift_code": "PACIECEG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "IBARRA",
+    "branch": "",
+    "swift_code": "PACIECEGIBA",
+    "row_url": "https://www.theswiftcodes.com/ecuador/paciecegiba/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "LA LIBERTAD",
+    "branch": "",
+    "swift_code": "PACIECEG110",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg110/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "MACHALA",
+    "branch": "",
+    "swift_code": "PACIECEG200",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg200/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "MANTA",
+    "branch": "",
+    "swift_code": "PACIECEG600",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg600/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "PORTOVIEJO",
+    "branch": "",
+    "swift_code": "PACIECEG640",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg640/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PACIECEG500",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg500/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "RIOBAMBA",
+    "branch": "",
+    "swift_code": "PACIECEG350",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg350/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "SANTA CRUZ",
+    "branch": "GALAPAGOS",
+    "swift_code": "PACIECEG871",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg871/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DEL PACIFICO",
+    "city": "SANTO DOMINGO",
+    "branch": "",
+    "swift_code": "PACIECEG510",
+    "row_url": "https://www.theswiftcodes.com/ecuador/pacieceg510/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DESARROLLO DE LOS PUEBLOS S.A. CODESARROLLO",
+    "city": "MARCABELI",
+    "branch": "MARCABELI BRANCH",
+    "swift_code": "CODSECEQ001",
+    "row_url": "https://www.theswiftcodes.com/ecuador/codseceq001/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO DESARROLLO DE LOS PUEBLOS S.A. CODESARROLLO",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "CODSECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/codseceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GENERAL RUMINAHUI S.A.",
+    "city": "GUAYAQUIL",
+    "branch": "GUAYAQUIL BRANCH",
+    "swift_code": "BGRMECEQ100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bgrmeceq100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GENERAL RUMINAHUI S.A.",
+    "city": "MACHALA",
+    "branch": "MACHALA BRANCH",
+    "swift_code": "BGRMECEQ200",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bgrmeceq200/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GENERAL RUMINAHUI S.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "BGRMECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bgrmeceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GENERAL RUMINAHUI S.A.",
+    "city": "QUITO",
+    "branch": "CASH MANAGEMENT",
+    "swift_code": "BGRMECEQ505",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bgrmeceq505/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GUAYAQUIL S.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "GUAYECEG",
+    "row_url": "https://www.theswiftcodes.com/ecuador/guayeceg/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO GUAYAQUIL S.A.",
+    "city": "GUAYAQUIL",
+    "branch": "COMERCIO EXTERIOR REGION CENTRO",
+    "swift_code": "GUAYECEG105",
+    "row_url": "https://www.theswiftcodes.com/ecuador/guayeceg105/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO INTERNACIONAL S.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "BINTECEQ100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/binteceq100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO INTERNACIONAL S.A.",
+    "city": "QUITO",
+    "branch": "HEAD OFFICE AND ALL BRANCHES",
+    "swift_code": "BINTECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/binteceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "AMBATO",
+    "branch": "",
+    "swift_code": "PICHECEQ400",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq400/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "AZOGUES",
+    "branch": "AZOGUES BRANCH",
+    "swift_code": "PICHECEQ450",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq450/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "",
+    "swift_code": "PICHECEQ300",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq300/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "BRANCH 304",
+    "swift_code": "PICHECEQ304",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq304/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "BRANCH 306",
+    "swift_code": "PICHECEQ306",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq306/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "BRANCH 307",
+    "swift_code": "PICHECEQ307",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq307/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 1,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "INTERNATIONAL OPERATIONS",
+    "swift_code": "PICHECEQ302",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq302/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "CUENCA",
+    "branch": "MONEY TRANSFER",
+    "swift_code": "PICHECEQ305",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq305/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "ESMERALDAS",
+    "branch": "",
+    "swift_code": "PICHECEQ700",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq700/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUARANDA",
+    "branch": "GUARANDA BRANCH",
+    "swift_code": "PICHECEQ370",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq370/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "",
+    "swift_code": "PICHECEQ100",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq100/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ101",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq101/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ115",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq115/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ116",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq116/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ117",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq117/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. ALBAN BORJA",
+    "swift_code": "PICHECEQ112",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq112/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. ALBORADA",
+    "swift_code": "PICHECEQ111",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq111/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. CENTENARIO",
+    "swift_code": "PICHECEQ110",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq110/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. CENTENARIO SUR",
+    "swift_code": "PICHECEQ107",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq107/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. CENTRO",
+    "swift_code": "PICHECEQ108",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq108/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. LA LIBERTAD",
+    "swift_code": "PICHECEQ106",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq106/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. MALL DEL SOL",
+    "swift_code": "PICHECEQ113",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq113/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG. URDESA",
+    "swift_code": "PICHECEQ114",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq114/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "AG.POLICENTRO",
+    "swift_code": "PICHECEQ118",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq118/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "BRANCH 119",
+    "swift_code": "PICHECEQ119",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq119/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "BRANCH 120",
+    "swift_code": "PICHECEQ120",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq120/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "BRANCH 121",
+    "swift_code": "PICHECEQ121",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq121/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "DOMESTIC OPERATIONS",
+    "swift_code": "PICHECEQ103",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq103/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "INTERNATIONAL OPERATIONS",
+    "swift_code": "PICHECEQ102",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq102/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "MONEY TRANSFER",
+    "swift_code": "PICHECEQ105",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq105/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "GUAYAQUIL",
+    "branch": "TREASURY AND SECURITIES OPERATIONS",
+    "swift_code": "PICHECEQ104",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq104/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "IBARRA",
+    "branch": "IBARRA BRANCH",
+    "swift_code": "PICHECEQ250",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq250/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "LATACUNGA",
+    "branch": "LATACUNGA BRANCH",
+    "swift_code": "PICHECEQ270",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq270/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "MACHALA",
+    "branch": "",
+    "swift_code": "PICHECEQ200",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq200/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "MANTA",
+    "branch": "",
+    "swift_code": "PICHECEQ600",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq600/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "MANTA",
+    "branch": "MONEY TRANSFER DEPT.",
+    "swift_code": "PICHECEQ605",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq605/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "OTAVALO",
+    "branch": "OTAVALO BRANCH",
+    "swift_code": "PICHECEQ253",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq253/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "PORTOVIEJO",
+    "branch": "",
+    "swift_code": "PICHECEQ610",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq610/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUEVEDO",
+    "branch": "QUEVEDO BRANCH",
+    "swift_code": "PICHECEQ804",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq804/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PICHECEQ501",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq501/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PICHECEQ506",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq506/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PICHECEQ507",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq507/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ525",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq525/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ526",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq526/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ527",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq527/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ528",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq528/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ529",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq529/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ530",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq530/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ531",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq531/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ532",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq532/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ533",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq533/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ534",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq534/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ535",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq535/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ536",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq536/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.",
+    "swift_code": "PICHECEQ552",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq552/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. AMAZONAS",
+    "swift_code": "PICHECEQ511",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq511/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 2,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. AV. PORTUGAL",
+    "swift_code": "PICHECEQ514",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq514/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. C.C.INAQUITO",
+    "swift_code": "PICHECEQ519",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq519/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. CARONDELET",
+    "swift_code": "PICHECEQ517",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq517/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. CUMBAYA",
+    "swift_code": "PICHECEQ523",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq523/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. EL BOSQUE",
+    "swift_code": "PICHECEQ516",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq516/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. EL DORADO",
+    "swift_code": "PICHECEQ109",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq109/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. EL INCA",
+    "swift_code": "PICHECEQ520",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq520/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. GONZALEZ SUAREZ",
+    "swift_code": "PICHECEQ521",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq521/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. INAQUITO",
+    "swift_code": "PICHECEQ515",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq515/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. LA REPUBLICA",
+    "swift_code": "PICHECEQ513",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq513/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. PLAZA GRANDE",
+    "swift_code": "PICHECEQ510",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq510/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. QUICENTRO",
+    "swift_code": "PICHECEQ518",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq518/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG. VILLAFLORA",
+    "swift_code": "PICHECEQ522",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq522/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "AG.ELOY ALFARO",
+    "swift_code": "PICHECEQ524",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq524/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "BRANCH 537",
+    "swift_code": "PICHECEQ537",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq537/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "BRANCH 538",
+    "swift_code": "PICHECEQ538",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq538/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "BRANCH 539",
+    "swift_code": "PICHECEQ539",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq539/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "BRANCH 540",
+    "swift_code": "PICHECEQ540",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq540/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "BRANCH 541",
+    "swift_code": "PICHECEQ541",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq541/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "DOMESTIC OPERATIONS",
+    "swift_code": "PICHECEQ503",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq503/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "HEAD INTERNATIONAL DIVISION",
+    "swift_code": "PICHECEQ502",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq502/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "HEAD OFFICE",
+    "swift_code": "PICHECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "INTERNATIONAL CORRESPONDENTS",
+    "swift_code": "PICHECEQ509",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq509/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "LOAN AND CREDITS",
+    "swift_code": "PICHECEQ500",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq500/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "MATRIZ GIROS",
+    "swift_code": "PICHECEQ800",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq800/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "MONEY TRANSFER DEPARTMENT",
+    "swift_code": "PICHECEQ505",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq505/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "RECONCILIATION",
+    "swift_code": "PICHECEQ508",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq508/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "SUC. EL VALLE",
+    "swift_code": "PICHECEQ551",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq551/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "SUC.NORTE",
+    "swift_code": "PICHECEQ512",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq512/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "QUITO",
+    "branch": "TREASURY AND SECURITIES OPERATIONS",
+    "swift_code": "PICHECEQ504",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq504/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "RIOBAMBA",
+    "branch": "RIOBAMBA BRANCH",
+    "swift_code": "PICHECEQ350",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq350/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "SANTO DOMINGO",
+    "branch": "",
+    "swift_code": "PICHECEQ550",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq550/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PICHINCHA C.A.",
+    "city": "TULCAN",
+    "branch": "TULCAN BRANCH",
+    "swift_code": "PICHECEQ900",
+    "row_url": "https://www.theswiftcodes.com/ecuador/picheceq900/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO PROCREDIT S.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "PRCBECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/prcbeceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "BANCO SOLIDARIO",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "BNSLECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/bnsleceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+    "city": "CUENCA",
+    "branch": "",
+    "swift_code": "CJEPECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/cjepeceq/"
+  },
+  {
+    "country": "ECUADOR",
+    "country_url": "https://www.theswiftcodes.com/ecuador/",
+    "page": 3,
+    "bank": "DINERS CLUB DEL ECUADOR S.A.",
+    "city": "QUITO",
+    "branch": "",
+    "swift_code": "DICDECEQ",
+    "row_url": "https://www.theswiftcodes.com/ecuador/dicdeceq/"
+  }
+]

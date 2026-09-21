@@ -1,0 +1,302 @@
+[
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "ANDBANC MONACO SAM",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BACAMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/bacamcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANK JULIUS BAER (MONACO) S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BAERMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/baermcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANK PICTET AND CIE (EUROPE) AG, SUCCURSALE DE MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "PICTMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/pictmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANK PICTET AND CIE (EUROPE) AG, SUCCURSALE DE MONACO",
+    "city": "MONACO",
+    "branch": "CORPORATE ACTION",
+    "swift_code": "PICTMCMCCOR",
+    "row_url": "https://www.theswiftcodes.com/monaco/pictmcmccor/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANQUE HAVILLAND (MONACO) S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "HAVLMCMXBDF",
+    "row_url": "https://www.theswiftcodes.com/monaco/havlmcmxbdf/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANQUE HAVILLAND (MONACO) S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "HAVLMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/havlmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANQUE J. SAFRA SARASIN (MONACO) SA",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BJSBMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/bjsbmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANQUE J. SAFRA SARASIN (MONACO) SA",
+    "city": "MONACO",
+    "branch": "ONLY BANQUE DE FRANCE",
+    "swift_code": "BJSBMCMXLCO",
+    "row_url": "https://www.theswiftcodes.com/monaco/bjsbmcmxlco/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BANQUE RICHELIEU MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "KBLXMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/kblxmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BARCLAYS BANK PLC MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BARCMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/barcmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BESINS HEALTHCARE MONACO SAM",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BEHMMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/behmmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "BNP PARIBAS WEALTH MANAGEMENT MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BPPBMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/bppbmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "CFM INDOSUEZ WEALTH",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "CFMOMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/cfmomcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "CGM-AZIMUT MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "AZFMMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/azfmmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "CMB MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "CMBMMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/cmbmmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "DIETSMANN MONTE CARLO SAM",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "DIETMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/dietmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "DOXA ADVISORS S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "DOAVMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/doavmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "EDMOND DE ROTHSCHILD-MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BERLMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/berlmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "EDMOND DE ROTHSCHILD-MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "BERLMCMCBDF",
+    "row_url": "https://www.theswiftcodes.com/monaco/berlmcmcbdf/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "EFG BANK (MONACO)",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "EFGBMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/efgbmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "PACIFIC MANAGEMENT SAM",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "PMMCMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/pmmcmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "ROTHELAND S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "RTLDMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/rtldmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "SOCIETE ANONYME DES BAINS DE MER ET DU CERCLE DES ETRANGERS A MONACO",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "SBMMMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/sbmmmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE (FORMERLY SOCIETE DE BANQUE MONACO)",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "SDBMMCM2",
+    "row_url": "https://www.theswiftcodes.com/monaco/sdbmmcm2/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE (FORMERLY SOCIETE DE BANQUE MONACO)",
+    "city": "MONACO",
+    "branch": "TIPS INSTANT PAYMENT",
+    "swift_code": "SDBMMCM2TPS",
+    "row_url": "https://www.theswiftcodes.com/monaco/sdbmmcm2tps/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE PRIVATE BANKING (MONACO)",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "SGBTMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/sgbtmcmc/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "UBS (MONACO) S.A.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "UBSWMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/ubswmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "UNION BANCAIRE PRIVEE, UBP SA",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "UBPGMCMX",
+    "row_url": "https://www.theswiftcodes.com/monaco/ubpgmcmx/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "UNION BANCAIRE PRIVEE, UBP SA",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "UBPGMCMXT2S",
+    "row_url": "https://www.theswiftcodes.com/monaco/ubpgmcmxt2s/"
+  },
+  {
+    "country": "MONACO",
+    "country_url": "https://www.theswiftcodes.com/monaco/",
+    "page": 1,
+    "bank": "VENUS MANAGEMENT COMPANY S.A.M.",
+    "city": "MONACO",
+    "branch": "",
+    "swift_code": "VENUMCMC",
+    "row_url": "https://www.theswiftcodes.com/monaco/venumcmc/"
+  }
+]

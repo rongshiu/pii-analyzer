@@ -1,0 +1,72 @@
+[
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "ANDORRA BANC AGRICOL REIG S.A.",
+    "city": "ESCALDES-ENGORDANY",
+    "branch": "",
+    "swift_code": "BACAADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/bacaadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "ANDORRA GESTIO AGRICOL REIG SAU SGOIC",
+    "city": "ESCALDES-ENGORDANY",
+    "branch": "",
+    "swift_code": "AAMAADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/aamaadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "AUTORITAT FINANCERA ANDORRANA",
+    "city": "ANDORRA LA VELLA",
+    "branch": "",
+    "swift_code": "AFADADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/afadadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "BANCA PRIVADA D'ANDORRA S.A.",
+    "city": "LES ESCALDES",
+    "branch": "",
+    "swift_code": "CASBADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/casbadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "CREDIT ANDORRA,S.A.",
+    "city": "ANDORRA LA VELLA",
+    "branch": "",
+    "swift_code": "CRDAADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/crdaadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "MORA BANC GRUP SA",
+    "city": "ANDORRA LA VELLA",
+    "branch": "",
+    "swift_code": "BINAADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/binaadad/"
+  },
+  {
+    "country": "ANDORRA",
+    "country_url": "https://www.theswiftcodes.com/andorra/",
+    "page": 1,
+    "bank": "MORA BANC GRUP, SA (FORMERLY BANC SABADELL D'ANDORRA)",
+    "city": "ANDORRA LA VELLA",
+    "branch": "",
+    "swift_code": "BSANADAD",
+    "row_url": "https://www.theswiftcodes.com/andorra/bsanadad/"
+  }
+]

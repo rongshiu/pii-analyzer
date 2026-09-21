@@ -1,0 +1,382 @@
+[
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO BISA S.A.",
+    "city": "COCHABAMBA",
+    "branch": "",
+    "swift_code": "BANIBOLXCBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/banibolxcbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO BISA S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BANIBOLX",
+    "row_url": "https://www.theswiftcodes.com/bolivia/banibolx/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO BISA S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "BANIBOLXSCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/banibolxscz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE BOLIVIA",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BCEBBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bcebbolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+    "city": "COCHABAMBA",
+    "branch": "",
+    "swift_code": "BCPLBOLXCBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bcplbolxcbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BCPLBOLX",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bcplbolx/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "BCPLBOLXSCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bcplbolxscz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "NACNBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/nacnbolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO ECONOMICO S.A.",
+    "city": "COCHABAMBA",
+    "branch": "COCHABAMBA BRANCH",
+    "swift_code": "BOEOBO22CBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/boeobo22cbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO ECONOMICO S.A.",
+    "city": "LA PAZ",
+    "branch": "LA PAZ BRANCH",
+    "swift_code": "BOEOBO22LPZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/boeobo22lpz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO ECONOMICO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "BOEOBO22BEC",
+    "row_url": "https://www.theswiftcodes.com/bolivia/boeobo22bec/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO ECONOMICO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "BOEOBO22",
+    "row_url": "https://www.theswiftcodes.com/bolivia/boeobo22/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO ECONOMICO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "SANTA CRUZ BRANCH",
+    "swift_code": "BOEOBO22SCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/boeobo22scz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO FIE S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BFIFBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bfifbolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO FORTALEZA SA",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BFORBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bforbolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO GANADERO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "GNDRBO22CMI",
+    "row_url": "https://www.theswiftcodes.com/bolivia/gndrbo22cmi/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO GANADERO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "GNDRBO22FIT",
+    "row_url": "https://www.theswiftcodes.com/bolivia/gndrbo22fit/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO GANADERO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "GNDRBO22GEB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/gndrbo22geb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO GANADERO S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "GNDRBO22",
+    "row_url": "https://www.theswiftcodes.com/bolivia/gndrbo22/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+    "city": "COCHABAMBA",
+    "branch": "",
+    "swift_code": "MERBBOLXCBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/merbbolxcbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "MERBBOLX",
+    "row_url": "https://www.theswiftcodes.com/bolivia/merbbolx/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "",
+    "swift_code": "MERBBOLXSCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/merbbolxscz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "COCHABAMBA",
+    "branch": "OFICINA CENTRAL",
+    "swift_code": "BNBOBOLXCBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxcbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BNBOBOLX",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolx/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "LA PAZ",
+    "branch": "OFICINA CENTRAL",
+    "swift_code": "BNBOBOLXLPZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxlpz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "LA PAZ",
+    "branch": "TRESORERIA",
+    "swift_code": "BNBOBOLXTES",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxtes/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "ORURO",
+    "branch": "DEPARTAMENTO INTERNACIONAL",
+    "swift_code": "BNBOBOLXORU",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxoru/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "POTOSI",
+    "branch": "DEPARTAMENTO INTERNACIONAL",
+    "swift_code": "BNBOBOLXPOI",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxpoi/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "OFICINA CENTRAL",
+    "swift_code": "BNBOBOLXSCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxscz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "SUCRE",
+    "branch": "DEPARTAMENTO INTERNACIONAL",
+    "swift_code": "BNBOBOLXSRE",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxsre/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO NACIONAL DE BOLIVIA",
+    "city": "TARIJA",
+    "branch": "DEPARTAMENTO INTERNACIONAL",
+    "swift_code": "BNBOBOLXTJA",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bnbobolxtja/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO PYME DE LA COMUNIDAD S.A.",
+    "city": "COCHABAMBA",
+    "branch": "",
+    "swift_code": "PYCOBO23",
+    "row_url": "https://www.theswiftcodes.com/bolivia/pycobo23/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO PYME ECOFUTURO S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "PYEOBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/pyeobolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO SOLIDARIO S.A.",
+    "city": "LA PAZ",
+    "branch": "",
+    "swift_code": "BSOLBOLP",
+    "row_url": "https://www.theswiftcodes.com/bolivia/bsolbolp/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO UNION S.A.",
+    "city": "COCHABAMBA",
+    "branch": "SUCURSAL COCHABAMBA",
+    "swift_code": "BAUNBO22CBB",
+    "row_url": "https://www.theswiftcodes.com/bolivia/baunbo22cbb/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO UNION S.A.",
+    "city": "LA PAZ",
+    "branch": "OFICINA NACIONAL",
+    "swift_code": "BAUNBO22",
+    "row_url": "https://www.theswiftcodes.com/bolivia/baunbo22/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO UNION S.A.",
+    "city": "LA PAZ",
+    "branch": "SUCURSAL LA PAZ",
+    "swift_code": "BAUNBO22LPZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/baunbo22lpz/"
+  },
+  {
+    "country": "BOLIVIA",
+    "country_url": "https://www.theswiftcodes.com/bolivia/",
+    "page": 1,
+    "bank": "BANCO UNION S.A.",
+    "city": "SANTA CRUZ DE LA SIERRA",
+    "branch": "SUCURSAL SANTA CRUZ",
+    "swift_code": "BAUNBO22SCZ",
+    "row_url": "https://www.theswiftcodes.com/bolivia/baunbo22scz/"
+  }
+]

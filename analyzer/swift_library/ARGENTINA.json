@@ -1,0 +1,922 @@
+[
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO BBVA ARGENTINA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BFRPARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bfrparba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO BICA  S.A.",
+    "city": "SANTA FE",
+    "branch": "",
+    "swift_code": "BICAARBS",
+    "row_url": "https://www.theswiftcodes.com/argentina/bicaarbs/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO BMA S.A.U.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "ITAUARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/itauarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO CENTRAL DE LA REPUBLICA ARGENTINA",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BCRAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bcraarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO CMF S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "CMFBARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/cmfbarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO COINAG S.A.",
+    "city": "ROSARIO",
+    "branch": "",
+    "swift_code": "CNIAARBR",
+    "row_url": "https://www.theswiftcodes.com/argentina/cniaarbr/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO COLUMBIA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "CLLUARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/clluarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO COMAFI S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "QUILARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/quilarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO CREDICOOP COOPERATIVO LIMITADO",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BCOOARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bcooarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE COMERCIO S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "MCFAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/mcfaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE CORRIENTES S.A.",
+    "city": "CORRIENTES",
+    "branch": "",
+    "swift_code": "BCORARBC",
+    "row_url": "https://www.theswiftcodes.com/argentina/bcorarbc/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE FORMOSA S.A.",
+    "city": "FORMOSA",
+    "branch": "",
+    "swift_code": "BFSAARBF",
+    "row_url": "https://www.theswiftcodes.com/argentina/bfsaarbf/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE GALICIA Y BUENOS AIRES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "GABAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/gabaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BICXARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bicxarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA CIUDAD DE BUENOS AIRES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BACIARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/baciarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "BAHIA BLANCA",
+    "branch": "BAHIA BLANCA BRANCH",
+    "swift_code": "NACNARBABAH",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbabah/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "NACNARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "BUENOS AIRES",
+    "branch": "CASA CENTRAL",
+    "swift_code": "NACNARBACCL",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbaccl/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "CONCORDIA",
+    "branch": "CONCORDIA BRANCH",
+    "swift_code": "NACNARBACON",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbacon/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "CORDOBA",
+    "branch": "CORDOBA BRANCH",
+    "swift_code": "NACNARBACOR",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbacor/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "CORRIENTES",
+    "branch": "CORRIENTES BRANCH",
+    "swift_code": "NACNARBACTS",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbacts/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "MAR DEL PLATA",
+    "branch": "MAR DEL PLATA BRANCH",
+    "swift_code": "NACNARBAMPL",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbampl/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "MENDOZA",
+    "branch": "MENDOZA BRANCH",
+    "swift_code": "NACNARBAMEN",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbamen/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "NEUQUEN",
+    "branch": "NEUQUEN BRANCH",
+    "swift_code": "NACNARBANEU",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbaneu/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "PERGAMINO",
+    "branch": "PERGAMINO BRANCH",
+    "swift_code": "NACNARBAPER",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbaper/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "POSADAS",
+    "branch": "POSADAS BRANCH",
+    "swift_code": "NACNARBAPOS",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbapos/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "RAFAELA",
+    "branch": "RAFAELA BRANCH",
+    "swift_code": "NACNARBARAF",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbaraf/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "RECONQUISTA",
+    "branch": "RECONQUISTA BRANCH",
+    "swift_code": "NACNARBAREC",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbarec/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "RIO CUARTO",
+    "branch": "RIO CUARTO BRANCH",
+    "swift_code": "NACNARBARCU",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbarcu/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "ROSARIO",
+    "branch": "ROSARIO BRANCH",
+    "swift_code": "NACNARBAROS",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbaros/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SALTA",
+    "branch": "SALTA BRANCH",
+    "swift_code": "NACNARBASAL",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbasal/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SAN JUAN",
+    "branch": "SAN JUAN BRANCH",
+    "swift_code": "NACNARBASJU",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbasju/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SAN MIGUEL DE TUCUMAN",
+    "branch": "SAN MIGUEL DE TUCUMAN BRANCH",
+    "swift_code": "NACNARBASMT",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbasmt/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SAN RAFAEL",
+    "branch": "SAN RAFAEL BRANCH",
+    "swift_code": "NACNARBASRA",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbasra/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "SANTA FE",
+    "branch": "SANTA FE BRANCH",
+    "swift_code": "NACNARBASFE",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbasfe/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA NACION ARGENTINA",
+    "city": "VILLA MARIA",
+    "branch": "VILLA MARIA BRANCH",
+    "swift_code": "NACNARBAVMA",
+    "row_url": "https://www.theswiftcodes.com/argentina/nacnarbavma/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PAMPA S.E.M.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "PAMPARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/pamparba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PAMPA S.E.M.",
+    "city": "GENERAL PICO",
+    "branch": "",
+    "swift_code": "PAMPARBA200",
+    "row_url": "https://www.theswiftcodes.com/argentina/pamparba200/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PAMPA S.E.M.",
+    "city": "SANTA ROSA",
+    "branch": "",
+    "swift_code": "PAMPARBA001",
+    "row_url": "https://www.theswiftcodes.com/argentina/pamparba001/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+    "city": "BAHIA BLANCA",
+    "branch": "BAHIA BLANCA BRANCH",
+    "swift_code": "PRBAARBABAH",
+    "row_url": "https://www.theswiftcodes.com/argentina/prbaarbabah/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "PRBAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/prbaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+    "city": "LA PLATA",
+    "branch": "LA PLATA HOUSE",
+    "swift_code": "PRBAARBALPT",
+    "row_url": "https://www.theswiftcodes.com/argentina/prbaarbalpt/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+    "city": "MAR DEL PLATA",
+    "branch": "",
+    "swift_code": "PRBAARBAMP1",
+    "row_url": "https://www.theswiftcodes.com/argentina/prbaarbamp1/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE CORDOBA",
+    "city": "CORDOBA",
+    "branch": "",
+    "swift_code": "CORDARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/cordarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DE CORDOBA",
+    "city": "CORDOBA",
+    "branch": "GERENCIA DE COMERCIO EXTERIOR",
+    "swift_code": "CORDARBACOR",
+    "row_url": "https://www.theswiftcodes.com/argentina/cordarbacor/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA PROVINCIA DEL NEUQUEN S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BPNEARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpnearba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BROUARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/brouarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE SAN JUAN SA",
+    "city": "SAN JUAN",
+    "branch": "",
+    "swift_code": "BSJUARBJ",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsjuarbj/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE SANTA CRUZ S A",
+    "city": "RIO GALLEGOS",
+    "branch": "",
+    "swift_code": "BPSCARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpscarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 1,
+    "bank": "BANCO DE SERVICIOS Y TRANSACCIONES SA",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BSTIARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bstiarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO DE VALORES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BAVAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bavaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO DEL CHUBUT S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BPCHARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpcharba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO HIPOTECARIO S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BHIPARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bhiparba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO INDUSTRIAL S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "NBIAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/nbiaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO JULIO SOCIEDAD ANONIMA",
+    "city": "CORDOBA",
+    "branch": "",
+    "swift_code": "BJULARBC",
+    "row_url": "https://www.theswiftcodes.com/argentina/bjularbc/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO MACRO S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BOSUARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bosuarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO MARIVA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "MARIARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/mariarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO MERIDIAN S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BMRDARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bmrdarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO MUNICIPAL DE ROSARIO",
+    "city": "ROSARIO",
+    "branch": "",
+    "swift_code": "MUNRARBR",
+    "row_url": "https://www.theswiftcodes.com/argentina/munrarbr/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO PATAGONIA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BSUDARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsudarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO PIANO S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BAPIARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bapiarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "TTFAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/ttfaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SAENZ S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BSAEARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsaearba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SANTANDER ARGENTINA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BSCHARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bscharba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SANTANDER ARGENTINA S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "SECURITIES SERVICES SYSTEM",
+    "swift_code": "BSCHARBASSS",
+    "row_url": "https://www.theswiftcodes.com/argentina/bscharbasss/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SUPERVIELLE",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BSUPARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsuparba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SUPERVIELLE",
+    "city": "BUENOS AIRES",
+    "branch": "DTO. COMERCIO EXTERIOR",
+    "swift_code": "BSUPARBAEXT",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsuparbaext/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SUPERVIELLE",
+    "city": "BUENOS AIRES",
+    "branch": "DTO. OPERACIONES DE MERCADO",
+    "swift_code": "BSUPARBAFIN",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsuparbafin/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SUPERVIELLE",
+    "city": "BUENOS AIRES",
+    "branch": "DTO. OPERACIONES DE TITULOS",
+    "swift_code": "BSUPARBATIT",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsuparbatit/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO SUPERVIELLE",
+    "city": "BUENOS AIRES",
+    "branch": "OPERACIONES CENTRALIZADAS",
+    "swift_code": "BSUPARBADOC",
+    "row_url": "https://www.theswiftcodes.com/argentina/bsuparbadoc/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANCO VOII S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "VOIBARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/voibarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BANK OF CHINA LIMITED SUCURSAL BUENOS AIRES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BKCHARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bkcharba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BIBANK S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BIINARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/biinarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BNPAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bnpaarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "CAJA DE VALORES S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "CAVLARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/cavlarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "CITIBANK N.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "CITIARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/citiarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "HSBC BANK ARGENTINA SA",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BACOARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bacoarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "HSBC BANK ARGENTINA SA",
+    "city": "BUENOS AIRES",
+    "branch": "CAPITAL MARKETS DEPARTMENT",
+    "swift_code": "BACOARBARCM",
+    "row_url": "https://www.theswiftcodes.com/argentina/bacoarbarcm/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "ICBKARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/icbkarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
+    "city": "BUENOS AIRES",
+    "branch": "CASH MANAGEMENT",
+    "swift_code": "ICBKARBAGCM",
+    "row_url": "https://www.theswiftcodes.com/argentina/icbkarbagcm/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
+    "city": "BUENOS AIRES",
+    "branch": "CLEARING OFFICE",
+    "swift_code": "ICBKARBACLR",
+    "row_url": "https://www.theswiftcodes.com/argentina/icbkarbaclr/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
+    "city": "BUENOS AIRES",
+    "branch": "GLOBAL CUSTODY DEPARTMENT",
+    "swift_code": "ICBKARBAGCD",
+    "row_url": "https://www.theswiftcodes.com/argentina/icbkarbagcd/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "CHASARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/chasarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "MONTEMAR COMPANIA FINANCIERA S.A.",
+    "city": "MENDOZA",
+    "branch": "",
+    "swift_code": "MCFIARBM",
+    "row_url": "https://www.theswiftcodes.com/argentina/mcfiarbm/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE ENTRE RIOS S.A.",
+    "city": "PARANA",
+    "branch": "",
+    "swift_code": "BERAARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/beraarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE SANTA FE S.A.",
+    "city": "RIO GALLEGOS",
+    "branch": "",
+    "swift_code": "BPSFARBAA86",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpsfarbaa86/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE SANTA FE S.A.",
+    "city": "ROSARIO",
+    "branch": "",
+    "swift_code": "BPSFARBA000",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpsfarba000/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE SANTA FE S.A.",
+    "city": "SAN JUAN",
+    "branch": "",
+    "swift_code": "BPSFARBAA45",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpsfarbaa45/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE SANTA FE S.A.",
+    "city": "SANTA FE",
+    "branch": "",
+    "swift_code": "BPSFARBA500",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpsfarba500/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DE SANTA FE S.A.",
+    "city": "SANTA FE",
+    "branch": "",
+    "swift_code": "BPSFARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bpsfarba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "NUEVO BANCO DEL CHACO S.A.",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "BACHARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/bacharba/"
+  },
+  {
+    "country": "ARGENTINA",
+    "country_url": "https://www.theswiftcodes.com/argentina/",
+    "page": 2,
+    "bank": "REBA COMPANIA FINANCIERA",
+    "city": "BUENOS AIRES",
+    "branch": "",
+    "swift_code": "MFCFARBA",
+    "row_url": "https://www.theswiftcodes.com/argentina/mfcfarba/"
+  }
+]

@@ -1,0 +1,1462 @@
+[
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "A1 TELECOM NETWORK ISP SRL",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "TNISROB2",
+    "row_url": "https://www.theswiftcodes.com/romania/tnisrob2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "AEDIFICIUM BANCA PENTRU LOCUINTE S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "RZBLROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/rzblrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "ALIOR BANK SA WARSAW BUCHAREST BRANCH",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "ALBPROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/albprobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "ALPHA BANK ROMANIA SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BUCUROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bucurobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA CENTRALA COOPERATISTA CREDITCOOP",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CRCOROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/crcorobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA COMERCIALA ROMANA S.A",
+    "city": "ARAD",
+    "branch": "ARAD BRANCH",
+    "swift_code": "RNCBROBUAR0",
+    "row_url": "https://www.theswiftcodes.com/romania/rncbrobuar0/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA COMERCIALA ROMANA S.A",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "RNCBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/rncbrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA COMERCIALA ROMANA S.A",
+    "city": "RESITA",
+    "branch": "CARAS SEVERIN BRANCH",
+    "swift_code": "RNCBROBUCS0",
+    "row_url": "https://www.theswiftcodes.com/romania/rncbrobucs0/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA COMERCIALA ROMANA S.A",
+    "city": "SFANTU GHEORGHE",
+    "branch": "COVASNA BRANCH",
+    "swift_code": "RNCBROBUCV0",
+    "row_url": "https://www.theswiftcodes.com/romania/rncbrobucv0/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA COMERCIALA ROMANA S.A",
+    "city": "SLOBOZIA",
+    "branch": "IALOMITA BRANCH",
+    "swift_code": "RNCBROBUIL0",
+    "row_url": "https://www.theswiftcodes.com/romania/rncbrobuil0/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "MINDROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/mindrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "AIUD",
+    "branch": "AIUD",
+    "swift_code": "BTRLRO22ABI",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22abi/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ALBA IULIA",
+    "branch": "ALBA BRANCH",
+    "swift_code": "BTRLRO22ABA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22aba/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ALESD",
+    "branch": "AG. ALESD",
+    "swift_code": "BTRLRO22BH4",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bh4/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ALEXANDRIA",
+    "branch": "ALEXANDRIA",
+    "swift_code": "BTRLRO22TRA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22tra/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ARAD",
+    "branch": "AG. ARAD",
+    "swift_code": "BTRLRO22AR1",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ar1/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ARAD",
+    "branch": "AG. ARAD",
+    "swift_code": "BTRLRO22AR2",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ar2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ARAD",
+    "branch": "ARAD BRANCH",
+    "swift_code": "BTRLRO22ARA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ara/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BACAU",
+    "branch": "BACAU BRANCH",
+    "swift_code": "BTRLRO22BCA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bca/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BAIA MARE",
+    "branch": "BAIA MARE BRANCH",
+    "swift_code": "BTRLRO22MMA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22mma/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BEIUS",
+    "branch": "BEIUS",
+    "swift_code": "BTRLRO22BHB",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bhb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BISTRITA",
+    "branch": "BISTRITA BRANCH",
+    "swift_code": "BTRLRO22BNA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bna/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BOTOSANI",
+    "branch": "BOTOSANI",
+    "swift_code": "BTRLRO22BTA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bta/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BRAILA",
+    "branch": "BRAILA BRANCH",
+    "swift_code": "BTRLRO22BRA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bra/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BRASOV",
+    "branch": "BRASOV BRANCH",
+    "swift_code": "BTRLRO22BVA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bva/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "AG. DOROBANTI",
+    "swift_code": "BTRLRO22BB4",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bb4/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "AG. MAGHERU",
+    "swift_code": "BTRLRO22BB3",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bb3/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "AG. MARRIOTT",
+    "swift_code": "BTRLRO22BB2",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bb2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "BUCURESTI CHIBRIT",
+    "swift_code": "BTRLRO22BBC",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bbc/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "BUCURESTI OTOPENI",
+    "swift_code": "BTRLRO22BOT",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bot/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "BUCURESTI VOLUNTARI",
+    "swift_code": "BTRLRO22BVO",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bvo/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "CENTRE NOUVEAU BRANCH",
+    "swift_code": "BTRLRO22BBL",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bbl/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "MILITARI BRANCH",
+    "swift_code": "BTRLRO22BB1",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bb1/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "OBOR BRANCH",
+    "swift_code": "BTRLRO22BBB",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bbb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "PANTELIMON BRANCH",
+    "swift_code": "BTRLRO22BBP",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bbp/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "PIATA ALBA-IULIA BRANCH",
+    "swift_code": "BTRLRO22BBA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bba/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "VICTORIEI BRANCH",
+    "swift_code": "BTRLRO22BBV",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bbv/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "BUZAU",
+    "branch": "BUZAU BRANCH",
+    "swift_code": "BTRLRO22BZA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bza/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CAREI",
+    "branch": "AG. CAREI",
+    "swift_code": "BTRLRO22SMC",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22smc/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CHISINAU CRIS",
+    "branch": "AG. CHISINAU CRIS",
+    "swift_code": "BTRLRO22AR4",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ar4/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "",
+    "swift_code": "BTRLRO22",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "AG. BILLA",
+    "swift_code": "BTRLRO22CJ8",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cj8/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "BT SECURITIES",
+    "swift_code": "BTRLRO22BTS",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bts/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "CLUJ-NAPOCA BRANCH",
+    "swift_code": "BTRLRO22CJA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cja/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "MARASTI",
+    "swift_code": "BTRLRO22CJM",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjm/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CLUJ-NAPOCA",
+    "branch": "ZORILOR",
+    "swift_code": "BTRLRO22CJZ",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjz/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CONSTANTA",
+    "branch": "CONSTANTA BRANCH",
+    "swift_code": "BTRLRO22CTA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cta/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "CRAIOVA",
+    "branch": "CRAIOVA BRANCH",
+    "swift_code": "BTRLRO22DJA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22dja/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "DEJ",
+    "branch": "DEJ BRANCH",
+    "swift_code": "BTRLRO22CJD",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjd/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 1,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "DEVA",
+    "branch": "DEVA BRANCH",
+    "swift_code": "BTRLRO22HDA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22hda/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "DRAGASANI",
+    "branch": "DRAGASANI",
+    "swift_code": "BTRLRO22VLD",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22vld/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "FAGARAS",
+    "branch": "FAGARAS",
+    "swift_code": "BTRLRO22BVF",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bvf/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "FALTICENI",
+    "branch": "FALTICENI",
+    "swift_code": "BTRLRO22SVF",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22svf/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "FOCSANI",
+    "branch": "FOCSANI BRANCH",
+    "swift_code": "BTRLRO22VRA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22vra/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "GALATI",
+    "branch": "GALATI BRANCH",
+    "swift_code": "BTRLRO22GLA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22gla/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "GHERLA",
+    "branch": "GHERLA",
+    "swift_code": "BTRLRO22CJG",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjg/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "GIURGIU",
+    "branch": "ZONA LIBERTA GIURGIU BRANCH",
+    "swift_code": "BTRLRO22GRA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22gra/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "HUEDIN",
+    "branch": "HUEDIN",
+    "swift_code": "BTRLRO22CJH",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjh/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "IASI",
+    "branch": "IASI BRANCH",
+    "swift_code": "BTRLRO22ISA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22isa/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "INEU",
+    "branch": "AG. INEU",
+    "swift_code": "BTRLRO22AR5",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ar5/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "LUGOJ",
+    "branch": "AG. LUGOJ",
+    "swift_code": "BTRLRO22TML",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22tml/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "MANGALIA",
+    "branch": "AG. MANGALIA",
+    "swift_code": "BTRLRO22CTM",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ctm/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "NADLAC",
+    "branch": "AG. NADLAC",
+    "swift_code": "BTRLRO22AR3",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ar3/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ODORHEIU SECUIESC",
+    "branch": "ODORHEIU SECUIESC",
+    "swift_code": "BTRLRO22HRO",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22hro/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ONESTI",
+    "branch": "ONESTI",
+    "swift_code": "BTRLRO22BCO",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bco/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ORADEA",
+    "branch": "ORADEA BRANCH",
+    "swift_code": "BTRLRO22BHA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bha/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "PETROSANI",
+    "branch": "PETROSANI",
+    "swift_code": "BTRLRO22HDP",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22hdp/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "PIATRA NEAMT",
+    "branch": "NEAMT BRANCH",
+    "swift_code": "BTRLRO22NTA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22nta/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "PITESTI",
+    "branch": "PITESTI BRANCH",
+    "swift_code": "BTRLRO22AGA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22aga/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "PLOIESTI",
+    "branch": "PLOIESTI BRANCH",
+    "swift_code": "BTRLRO22PHA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22pha/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "RADAUTI",
+    "branch": "AG. RADAUTI",
+    "swift_code": "BTRLRO22SVR",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22svr/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "RAMNICU SARAT",
+    "branch": "RAMNICU SARAT",
+    "swift_code": "BTRLRO22BZR",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22bzr/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "RAMNICU VALCEA",
+    "branch": "VALCEA BRANCH",
+    "swift_code": "BTRLRO22VLA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22vla/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "REGHIN",
+    "branch": "AG. REGHIN",
+    "swift_code": "BTRLRO22MSR",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22msr/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "RESITA",
+    "branch": "RESITA",
+    "swift_code": "BTRLRO22CSA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22csa/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ROMAN",
+    "branch": "AG. ROMAN",
+    "swift_code": "BTRLRO22NTR",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ntr/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SATU MARE",
+    "branch": "SATU MARE BRANCH",
+    "swift_code": "BTRLRO22SMA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22sma/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SFANTU GHEORGHE",
+    "branch": "SFANTU GHEORGHE BRANCH",
+    "swift_code": "BTRLRO22CVA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cva/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SIBIU",
+    "branch": "SIBIU BRANCH",
+    "swift_code": "BTRLRO22SBA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22sba/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SIGHET",
+    "branch": "AG. SIGHET",
+    "swift_code": "BTRLRO22MMS",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22mms/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SLATINA",
+    "branch": "SLATINA",
+    "swift_code": "BTRLRO22OTA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ota/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SLOBOZIA",
+    "branch": "SLOBOZIA",
+    "swift_code": "BTRLRO22ILA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ila/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "SUCEAVA",
+    "branch": "SUCEAVA BRANCH",
+    "swift_code": "BTRLRO22SVA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22sva/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TARGOVISTE",
+    "branch": "DAMBOVITA BRANCH",
+    "swift_code": "BTRLRO22DBA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22dba/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TARGU JIU",
+    "branch": "TG. JIU BRANCH",
+    "swift_code": "BTRLRO22GJA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22gja/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TARGU MURES",
+    "branch": "MURES BRANCH",
+    "swift_code": "BTRLRO22MSA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22msa/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TARGU NEAMT",
+    "branch": "TARGU NEAMT",
+    "swift_code": "BTRLRO22NTT",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22ntt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TARGU SECUIESC",
+    "branch": "AG. TG. SECUIESC",
+    "swift_code": "BTRLRO22CVT",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cvt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TECUCI",
+    "branch": "TECUCI",
+    "swift_code": "BTRLRO22GLT",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22glt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TIMISOARA",
+    "branch": "TIMISOARA BRANCH",
+    "swift_code": "BTRLRO22TMA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22tma/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TURDA",
+    "branch": "TURDA BRANCH",
+    "swift_code": "BTRLRO22CJT",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22cjt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "TURNU SEVERIN",
+    "branch": "MEHEDINTI BRANCH",
+    "swift_code": "BTRLRO22MHA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22mha/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "VATRA DORNEI",
+    "branch": "VATRA DORNEI",
+    "swift_code": "BTRLRO22SVV",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22svv/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANCA TRANSILVANIA S.A.",
+    "city": "ZALAU",
+    "branch": "ZALAU BRANCH",
+    "swift_code": "BTRLRO22SJA",
+    "row_url": "https://www.theswiftcodes.com/romania/btrlro22sja/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANK OF CHINA (CENTRAL AND EASTERN EUROPE) LIMITED BUCHAREST BRANCH",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BKCHROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bkchrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BANQUE BANORIENT FRANCE",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BLOMROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/blomrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BCR BANCA PENTRU LOCUINTE S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BCRLROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bcrlrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BNP PARIBAS PERSONAL FINANCE S.A. PARIS SUCURSALA BUCURESTI",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BNPAROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bnparobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "FTSBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/ftsbrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 2,
+    "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BRDEROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/brderobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+    "city": "BUCHAREST",
+    "branch": "CAMPINEANU BRANCH",
+    "swift_code": "BRDEROBUCAM",
+    "row_url": "https://www.theswiftcodes.com/romania/brderobucam/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "BRD - GROUPE SOCIETE GENERALE SA",
+    "city": "BUCHAREST",
+    "branch": "SECURITIES DIVISION",
+    "swift_code": "BRDEROBUTIT",
+    "row_url": "https://www.theswiftcodes.com/romania/brderobutit/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CAPITAL FINANCIAL SERVICES SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CPFSROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/cpfsrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CCP.RO BUCHAREST S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CBUHROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/cbuhrobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CEC BANK-S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CECEROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/cecerobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CEZ ROMANIA SA",
+    "city": "PITESTI",
+    "branch": "",
+    "swift_code": "CEZOROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/cezorobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CITIROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/citirobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+    "city": "BUCHAREST",
+    "branch": "TARGET 2",
+    "swift_code": "CITIROBUTGT",
+    "row_url": "https://www.theswiftcodes.com/romania/citirobutgt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
+    "city": "BUCHAREST",
+    "branch": "TRADE SERVICES DEPT.",
+    "swift_code": "CITIROBUTRD",
+    "row_url": "https://www.theswiftcodes.com/romania/citirobutrd/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "CREDIT EUROPE BANK (ROMANIA) S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "FNNBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/fnnbrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "DEPOZITARUL CENTRAL S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "DECNROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/decnrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "EXIM BANCA ROMANEASCA S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BRMAROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/brmarobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "FINANCE ONE IFN S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "FNOIROB2",
+    "row_url": "https://www.theswiftcodes.com/romania/fnoirob2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "FIRST BANK",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "PIRBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/pirbrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "GARANTI BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "UGBIROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/ugbirobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "ING BANK N.V., BUCHAREST BRANCH",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "INGBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/ingbrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "INTESA SANPAOLO ROMANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "WBANRO22",
+    "row_url": "https://www.theswiftcodes.com/romania/wbanro22/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "INVESTIMENTAL S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "IVVIROB2",
+    "row_url": "https://www.theswiftcodes.com/romania/ivvirob2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "KMG ROMPETROL SRL",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "KMGRROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/kmgrrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "LIBRA BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BRELROBUCAM",
+    "row_url": "https://www.theswiftcodes.com/romania/brelrobucam/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "LIBRA BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BRELROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/brelrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "MINISTRY OF FINANCE",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "TREZROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/trezrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "NATIONAL BANK OF ROMANIA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "NBORROBP",
+    "row_url": "https://www.theswiftcodes.com/romania/nborrobp/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "NATIONAL BANK OF ROMANIA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "NBORROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/nborrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "NATIONAL BANK OF ROMANIA - REGIS",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "NBORROBA",
+    "row_url": "https://www.theswiftcodes.com/romania/nborroba/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "NATIONAL BANK OF ROMANIA - SAFIR",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "NBORROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/nborrobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "OMV PETROM SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "OMVPROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/omvprobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "OTP BANK ROMANIA S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "OTPVROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/otpvrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "PATRIA BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "CARPRO22",
+    "row_url": "https://www.theswiftcodes.com/romania/carpro22/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "PKO BANK POLSKI S.A. VARSOVIA, SUCURSALA BUCURESTI",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BPKOROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bpkorobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "PORSCHE BANK ROMANIA SA",
+    "city": "VOLUNTARI",
+    "branch": "",
+    "swift_code": "PORLROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/porlrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "PROCREDIT BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "MIROROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/mirorobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "RAIFFEISEN BANK S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "RZBRROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/rzbrrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "REVOLUT BANK UAB VILNIUS SUCURSALA BUCURESTI",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "REVOROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/revorobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "SALT BANK SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "ROINROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/roinrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "SUPERBET",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "SUBGROBB",
+    "row_url": "https://www.theswiftcodes.com/romania/subgrobb/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TBI BANK EAD SOFIA BUCHAREST BRANCH",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "TBIBROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/tbibrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TECHVENTURES BANK SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BFERROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bferrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TRANSFER RAPID ELECTRONIC",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "TRPCROB2",
+    "row_url": "https://www.theswiftcodes.com/romania/trpcrob2/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TRANSFER RAPID ELECTRONIC",
+    "city": "BUCHAREST",
+    "branch": "RO",
+    "swift_code": "TRPCROB2TRE",
+    "row_url": "https://www.theswiftcodes.com/romania/trpcrob2tre/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TRANSFOND S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "TRFDROBS",
+    "row_url": "https://www.theswiftcodes.com/romania/trfdrobs/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "TRANSFOND S.A.",
+    "city": "BUCHAREST",
+    "branch": "BACK OFFICE APPLICATION",
+    "swift_code": "TRFDROBSSNT",
+    "row_url": "https://www.theswiftcodes.com/romania/trfdrobssnt/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "UNICREDIT BANK SA",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "BACXROBU",
+    "row_url": "https://www.theswiftcodes.com/romania/bacxrobu/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "UNIFIEDPOST PAYMENTS LA HULPE SUCURSALA TIMISOARA",
+    "city": "TIMISOARA",
+    "branch": "",
+    "swift_code": "PANXRO22",
+    "row_url": "https://www.theswiftcodes.com/romania/panxro22/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "VISTA BANK (ROMANIA) S.A.",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "EGNAROBX",
+    "row_url": "https://www.theswiftcodes.com/romania/egnarobx/"
+  },
+  {
+    "country": "ROMANIA",
+    "country_url": "https://www.theswiftcodes.com/romania/",
+    "page": 3,
+    "bank": "VIVA PAYMENT SERVICES S.A SUCURSALA BUCURESTI",
+    "city": "BUCHAREST",
+    "branch": "",
+    "swift_code": "VPAYROB2",
+    "row_url": "https://www.theswiftcodes.com/romania/vpayrob2/"
+  }
+]

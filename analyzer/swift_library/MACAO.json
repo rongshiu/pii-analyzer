@@ -1,0 +1,432 @@
+[
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "AGRICULTURAL BANK OF CHINA LIMITED MACAO BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "ABOCMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/abocmomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "ANT BANK (MACAO) LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "CIGGMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/ciggmomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "AUTORIDADE MONETARIA DE MACAU",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MFAMMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/mfammomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "AUTORIDADE MONETARIA DE MACAU",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MFAMMOMU",
+    "row_url": "https://www.theswiftcodes.com/macao/mfammomu/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "AUTORIDADE MONETARIA DE MACAU",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MFAMMOMS",
+    "row_url": "https://www.theswiftcodes.com/macao/mfammoms/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANCO COMERCIAL DE MACAU, S.A.",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "CMACMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/cmacmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANCO COMERCIAL PORTUGUES",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BCOMMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/bcommomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANCO DELTA ASIA S.A.",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "DABGMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/dabgmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANCO NACIONAL ULTRAMARINO, SA",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BNULMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/bnulmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANCO WELL LINK, S.A.",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BESCMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/bescmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF CHINA (MACAU) LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BKCHMOMA",
+    "row_url": "https://www.theswiftcodes.com/macao/bkchmoma/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF CHINA, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BKCHMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/bkchmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF CHINA, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "BANK OF CHINA LIMITED MACAU BRANCH(MO HKD CLEARING CENTRE",
+    "swift_code": "BKCHMOMXCLR",
+    "row_url": "https://www.theswiftcodes.com/macao/bkchmomxclr/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF CHINA, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "CUSTODY-MACAU",
+    "swift_code": "BKCHMOMXCUS",
+    "row_url": "https://www.theswiftcodes.com/macao/bkchmomxcus/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF CHINA, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "RENMINBI CLEARING CENTRE",
+    "swift_code": "BKCHMOMX868",
+    "row_url": "https://www.theswiftcodes.com/macao/bkchmomx868/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "COMMMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/commmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "SINOMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/sinomomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CAIXA ECONOMICA POSTAL",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "CIEPMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/ciepmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "KWHKMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/kwhkmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "CCBQMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/ccbqmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "RETAIL AND COMMERCIAL",
+    "swift_code": "CCBQMOMXRTL",
+    "row_url": "https://www.theswiftcodes.com/macao/ccbqmomxrtl/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHINA EVERBRIGHT BANK COMPANY LIMITED MACAO BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "EVERMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/evermomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHINA GUANGFA BANK CO., LTD MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "GDBKMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/gdbkmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CHONG HING BANK LIMITED MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "LCHBMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/lchbmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CITIBANK NA, MACAU",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "CITIMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/citimomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "CMB WING LUNG BANK LIMITED MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "WUBAMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/wubamomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "DBSSMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/dbssmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "FIRST COMMERCIAL BANK, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "FCBKMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/fcbkmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "HAITONG BANK, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "HMBAMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/hmbamomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "HANG SENG BANK LIMITED,MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "HASEMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/hasemomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "HNBKMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/hnbkmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "ICBKMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/icbkmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "ICBKMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/icbkmomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "LUSO INTERNATIONAL BANKING LTD.",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "LUSOMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/lusomomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "MACAO CENTRAL SECURITIES DEPOSITORY AND CLEARING LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MCESMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/mcesmomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "MACAO DEVELOPMENT BANK LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MCDEMOMM",
+    "row_url": "https://www.theswiftcodes.com/macao/mcdemomm/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "OCBC BANK (MACAU) LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "WIHBMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/wihbmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "SCBLMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/scblmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "TAI FUNG BANK LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "TFBLMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/tfblmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "BEASMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/beasmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "HSBCMOMXAAM",
+    "row_url": "https://www.theswiftcodes.com/macao/hsbcmomxaam/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "HSBCMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/hsbcmomx/"
+  },
+  {
+    "country": "MACAO",
+    "country_url": "https://www.theswiftcodes.com/macao/",
+    "page": 1,
+    "bank": "THE MACAU CHINESE BANK LIMITED",
+    "city": "MACAU",
+    "branch": "",
+    "swift_code": "MCHNMOMX",
+    "row_url": "https://www.theswiftcodes.com/macao/mchnmomx/"
+  }
+]

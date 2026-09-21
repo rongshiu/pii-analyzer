@@ -1,0 +1,4082 @@
+[
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AECON",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "AGOPCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/agopcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AGF INVESTMENTS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "AIVVCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/aivvcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AIR CANADA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "ACNACA2Q",
+    "row_url": "https://www.theswiftcodes.com/canada/acnaca2q/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AIR CANADA PENSION MASTER TRUST FUND",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "ACMTCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/acmtcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "ALBERTA INVESTMENT MANAGEMENT CORPORATION",
+    "city": "EDMONTON",
+    "branch": "",
+    "swift_code": "AIMCCA66",
+    "row_url": "https://www.theswiftcodes.com/canada/aimcca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AMERICAN IRON AND METAL COMPANY INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "AIMYCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/aimycamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "AMPR FINANCE LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "AMPFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/ampfca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "ARFEX PAY LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "ARYYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/aryyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "ASCENDANTFX CAPITAL INC",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "ASILCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/asilcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "ATB FINANCIAL",
+    "city": "EDMONTON",
+    "branch": "",
+    "swift_code": "ATBRCA6E",
+    "row_url": "https://www.theswiftcodes.com/canada/atbrca6e/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "ATLASPAY FINANCE LTD",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "ATLFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/atlfca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANCORAGE PAY CORP.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "BAYYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/bayyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BOFACATT",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BOFACATTCAD",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacattcad/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "FOREIGN CURRENCY SERVICES",
+    "swift_code": "BOFACATTFCS",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacattfcs/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "GLOBAL DERIVATIVES AND FOREIGN EXCHANGE",
+    "swift_code": "BOFACATTGRC",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacattgrc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "TREASURY",
+    "swift_code": "BOFACATTTSY",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacatttsy/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "BOFACATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/bofacattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF CANADA",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "BCANCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/bcancaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF CHINA (CANADA)",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BKCHCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/bkchcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF CHINA (CANADA)",
+    "city": "VANCOUVER",
+    "branch": "VANCOUVER BRANCH",
+    "swift_code": "BKCHCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/bkchcattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF CHINA TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BKCHCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/bkchcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "BOFMCAM3",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcam3/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "MONTREAL",
+    "branch": "INTERNATIONAL BRANCH",
+    "swift_code": "BOFMCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "BMO - BROKERS",
+    "swift_code": "BOFMCAT2BMO",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcat2bmo/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "BMO NESBITT BURNS",
+    "swift_code": "BOFMCAM2NBB",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcam2nbb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "CLS PAYMENTS ONLY",
+    "swift_code": "BOFMCAT2CLS",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcat2cls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "FOREIGN EXCHANGE AND MONEY MARKET",
+    "swift_code": "BOFMCAT2FXM",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcat2fxm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "GLOBAL CASH MANAGEMENT OPERATIONS",
+    "swift_code": "BOFMCAT2GCT",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcat2gct/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF MONTREAL, THE",
+    "city": "TORONTO",
+    "branch": "INTERNATIONAL BRANCH",
+    "swift_code": "BOFMCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/bofmcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMCMS",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmcms/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMGTB",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmgtb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMREC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmrec/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMESC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmesc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMGLS",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmgls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATMPBG",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmpbg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATM",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "SECURITIES",
+    "swift_code": "NOSCCATMSEC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmsec/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "WEALTH MGMT",
+    "swift_code": "NOSCCATMWM1",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatmwm1/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DU CANADA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "BNDCCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/bndccamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DU CANADA",
+    "city": "MONTREAL",
+    "branch": "CUSTODY",
+    "swift_code": "BNDCCAMMCUS",
+    "row_url": "https://www.theswiftcodes.com/canada/bndccammcus/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DU CANADA",
+    "city": "MONTREAL",
+    "branch": "INTERNATIONAL DEPARTMENT",
+    "swift_code": "BNDCCAMMINT",
+    "row_url": "https://www.theswiftcodes.com/canada/bndccammint/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DU CANADA",
+    "city": "MONTREAL",
+    "branch": "SECURITIES",
+    "swift_code": "BNDCCAMMVAL",
+    "row_url": "https://www.theswiftcodes.com/canada/bndccammval/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BANQUE NATIONALE DU CANADA",
+    "city": "MONTREAL",
+    "branch": "TREASURY DEPARTMENT",
+    "swift_code": "BNDCCAMMIMM",
+    "row_url": "https://www.theswiftcodes.com/canada/bndccammimm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BARRICK GOLD CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BRGCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/brgccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BAUSCH + LOMB CORPORATION",
+    "city": "Vaughan",
+    "branch": "",
+    "swift_code": "BLOCCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/blocca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BAUSCH HEALTH COMPANIES INC.",
+    "city": "LAVAL",
+    "branch": "",
+    "swift_code": "BHCNCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/bhcnca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BENDIX FOREIGN EXCHANGE CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BFXCCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/bfxccat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BEUTEL, GOODMAN AND COMPANY LTD.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BGCOCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/bgcocatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 1,
+    "bank": "BLACKBERRY LIMITED",
+    "city": "WATERLOO",
+    "branch": "",
+    "swift_code": "RIMMCA2W",
+    "row_url": "https://www.theswiftcodes.com/canada/rimmca2w/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BNP PARIBAS, CANADA BRANCH",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "BNPACAMMSUB",
+    "row_url": "https://www.theswiftcodes.com/canada/bnpacammsub/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BNP PARIBAS, CANADA BRANCH",
+    "city": "MONTREAL",
+    "branch": "MONTREAL BRANCH",
+    "swift_code": "BNPACAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/bnpacamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BNP PARIBAS, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "TORONTO BRANCH",
+    "swift_code": "BNPACAMMTTT",
+    "row_url": "https://www.theswiftcodes.com/canada/bnpacammttt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BNP PARIBAS, CANADA BRANCH",
+    "city": "VANCOUVER",
+    "branch": "VANCOUVER BRANCH",
+    "swift_code": "BNPACAMMVVV",
+    "row_url": "https://www.theswiftcodes.com/canada/bnpacammvvv/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BOMBARDIER INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "BIHOCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/bihocamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BREINROCK LIMITED",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BRIKCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/brikcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "BCVMCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/bcvmca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "BCVMCA8G",
+    "row_url": "https://www.theswiftcodes.com/canada/bcvmca8g/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BROOKFIELD ASSET MANAGEMENT",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BAMZCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/bamzcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BROOKFIELD ASSET MANAGEMENT",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BAMZCATB",
+    "row_url": "https://www.theswiftcodes.com/canada/bamzcatb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "BROOKFIELD BRP CANADA CORP.",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "BBRPCAWA",
+    "row_url": "https://www.theswiftcodes.com/canada/bbrpcawa/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CALDWELL INVESTMENT MANAGEMENT LTD.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CLVMCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/clvmcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CAMBRIDGE MERCANTILE CORP.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CMFXCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cmfxcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CAMECO CORPORATION",
+    "city": "SASKATOON",
+    "branch": "",
+    "swift_code": "CEMTCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cemtcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA DEPOSIT INSURANCE CORPORATION",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CDICCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/cdiccaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA LIFE ASSURANCE COMPANY",
+    "city": "LONDON",
+    "branch": "",
+    "swift_code": "CNLACA44CLI",
+    "row_url": "https://www.theswiftcodes.com/canada/cnlaca44cli/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA LIFE ASSURANCE COMPANY",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "CNLACA44",
+    "row_url": "https://www.theswiftcodes.com/canada/cnlaca44/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA MORTGAGE AND HOUSING CORPORATION",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CMHCCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/cmhccaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA PENSION PLAN INVESTMENT BOARD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CPPBCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cppbcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA PENSION PLAN INVESTMENT BOARD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CPPBCATA",
+    "row_url": "https://www.theswiftcodes.com/canada/cppbcata/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADA POST CORPORATION REGISTERED PENSION PLAN",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CCGSCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/ccgscat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CIBCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cibccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "city": "TORONTO",
+    "branch": "CASH MANAGEMENT / CUSTOMER STATUS",
+    "swift_code": "CIBCCATTCMI",
+    "row_url": "https://www.theswiftcodes.com/canada/cibccattcmi/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "city": "TORONTO",
+    "branch": "CIBC WORLD MARKETS SECURITIES OPERATIONS (OMGEO)",
+    "swift_code": "CIBCCATTCWM",
+    "row_url": "https://www.theswiftcodes.com/canada/cibccattcwm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+    "city": "TORONTO",
+    "branch": "CLS SERVICES",
+    "swift_code": "CIBCCATTCLS",
+    "row_url": "https://www.theswiftcodes.com/canada/cibccattcls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN NATIONAL RAILWAY COMPANY",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "CNRRCAMT",
+    "row_url": "https://www.theswiftcodes.com/canada/cnrrcamt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN NATIONAL RAILWAY COMPANY",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "CNRRCAMB",
+    "row_url": "https://www.theswiftcodes.com/canada/cnrrcamb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN PAYMENTS ASSOCIATION",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CPAACA2A",
+    "row_url": "https://www.theswiftcodes.com/canada/cpaaca2a/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN PAYMENTS ASSOCIATION",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CPAACA22",
+    "row_url": "https://www.theswiftcodes.com/canada/cpaaca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CANADIAN PAYMENTS ASSOCIATION",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "CPAACA23",
+    "row_url": "https://www.theswiftcodes.com/canada/cpaaca23/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CDSLCATTSMD",
+    "row_url": "https://www.theswiftcodes.com/canada/cdslcattsmd/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CDSLCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cdslcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "CALGARY",
+    "branch": "ALBERTA PAYMENTS SERVICES",
+    "swift_code": "CUCXCATTCAL",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattcal/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "REGINA",
+    "branch": "SASKATCHEWAN PAYMENT SERVICES",
+    "swift_code": "CUCXCATTREG",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattreg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "TORONTO",
+    "branch": "CENTRAL 1 CREDIT UNION ONTARIO PAYMENT SERVICES",
+    "swift_code": "CUCXCATTONT",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattont/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CUCXCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "VANCOUVER",
+    "branch": "CENTRAL 1 CREDIT UNION BC PAYMENT SERVICES",
+    "swift_code": "CUCXCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "VANCOUVER",
+    "branch": "INVESTMENT DEPARTMENT",
+    "swift_code": "CUCXCATTINV",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattinv/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CENTRAL 1 CREDIT UNION",
+    "city": "WINNIPEG",
+    "branch": "MANITOBA PAYMENTS SERVICES",
+    "swift_code": "CUCXCATTWPG",
+    "row_url": "https://www.theswiftcodes.com/canada/cucxcattwpg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CEPHEUS PAYMENT CORP.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CEPHCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/cephca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CHIIZU INC.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CHZICA82",
+    "row_url": "https://www.theswiftcodes.com/canada/chzica82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CHINA CONSTRUCTION BANK TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "PCBCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/pcbccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIBC ASSET MANAGEMENT INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "CGAACAMB",
+    "row_url": "https://www.theswiftcodes.com/canada/cgaacamb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIBC MELLON TRUST COMPANY",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CMTYCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cmtycatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIBC MELLON TRUST COMPANY",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CMTYCATB",
+    "row_url": "https://www.theswiftcodes.com/canada/cmtycatb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIDEL ASSET MANAGEMENT INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CTBLCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/ctblcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIDEL BANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CTBLCAT3",
+    "row_url": "https://www.theswiftcodes.com/canada/ctblcat3/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CIDEL TRUST COMPANY",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "CTBLCA66",
+    "row_url": "https://www.theswiftcodes.com/canada/ctblca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CITCO BANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CITCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/citccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 2,
+    "bank": "CITIBANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CITICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/citicatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CITIBANK CANADA",
+    "city": "TORONTO",
+    "branch": "CITIBANK NA CANADIAN BRANCH",
+    "swift_code": "CITICATTBCH",
+    "row_url": "https://www.theswiftcodes.com/canada/citicattbch/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CITIBANK CANADA",
+    "city": "TORONTO",
+    "branch": "CITN",
+    "swift_code": "CITICATT617",
+    "row_url": "https://www.theswiftcodes.com/canada/citicatt617/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CITIBANK CANADA",
+    "city": "TORONTO",
+    "branch": "CITT",
+    "swift_code": "CITICATT615",
+    "row_url": "https://www.theswiftcodes.com/canada/citicatt615/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CITIBANK CANADA",
+    "city": "TORONTO",
+    "branch": "SECURITIES SERVICES DEPARTMENT",
+    "swift_code": "CITICATT623",
+    "row_url": "https://www.theswiftcodes.com/canada/citicatt623/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CMC MARKETS CANADA INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CMCKCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/cmckcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CONNOR, CLARK AND LUNN FINANCIAL GROUP LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CCLFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/cclfca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CONNOR, CLARK AND LUNN FINANCIAL GROUP LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CCLFCA82INV",
+    "row_url": "https://www.theswiftcodes.com/canada/cclfca82inv/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CRESCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/crescatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CRESCATTVIS",
+    "row_url": "https://www.theswiftcodes.com/canada/crescattvis/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CTBC BANK CORP. (CANADA)",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CTCBCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/ctcbca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "CURRENCIES DIRECT CANADA INC",
+    "city": "SAINT JOHN",
+    "branch": "",
+    "swift_code": "CUDCCA92",
+    "row_url": "https://www.theswiftcodes.com/canada/cudcca92/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "DAXIL FINANCE LTD.",
+    "city": "NEW WESTMINSTER",
+    "branch": "",
+    "swift_code": "DAFNCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/dafnca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "DESTA FINANCE LTD",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "DENNCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/dennca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "DEUTSCHE BANK AG, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "DEUTCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/deutcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "DIGITAL COMMERCE BANK",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "DIEECA66",
+    "row_url": "https://www.theswiftcodes.com/canada/dieeca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "DIXON MITCHELL INVESTMENT COUNSEL INC",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "DMICCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/dmicca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "ENCOREFX INC.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "ENCRCA88",
+    "row_url": "https://www.theswiftcodes.com/canada/encrca88/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "EXCHANGE BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "EXBCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/exbccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "EXPORT DEVELOPMENT CANADA",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "EDCOCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/edcocaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FALCON GLOBAL CAPITAL INC.",
+    "city": "BURLINGTON",
+    "branch": "",
+    "swift_code": "FAGCCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/fagcca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FASTPAY FINANCIAL INC.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "FAFACA82",
+    "row_url": "https://www.theswiftcodes.com/canada/fafaca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FCT INSURANCE COMPANY LTD",
+    "city": "OAKVILLE",
+    "branch": "",
+    "swift_code": "FCTICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/fcticatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+    "city": "LEVIS",
+    "branch": "",
+    "swift_code": "CCDQCAMA",
+    "row_url": "https://www.theswiftcodes.com/canada/ccdqcama/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+    "city": "LEVIS",
+    "branch": "HEAD OFFICE",
+    "swift_code": "CCDQCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/ccdqcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+    "city": "LEVIS",
+    "branch": "TREASURY AND INTERNATIONAL MONEY MARKETS",
+    "swift_code": "CCDQCAMMIMM",
+    "row_url": "https://www.theswiftcodes.com/canada/ccdqcammimm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIDELITY CLEARING CANADA ULC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "FCCLCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/fcclcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIERA CAPITAL CORPORATION",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "FCAICAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/fcaicamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIERA CAPITAL CORPORATION",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "FCAICAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/fcaicam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FINNING INTERNATIONAL INC",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "FNNGCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/fnngca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FINOFO INC.",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "FNNFCA62",
+    "row_url": "https://www.theswiftcodes.com/canada/fnnfca62/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FINTECT PAY LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "FNPYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/fnpyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FINVISE PAY LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "FIYYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/fiyyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FINVOKA PAYMENTS INC.",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "FIYMCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/fiymcaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIRMA FOREIGN EXCHANGE CORPORATION",
+    "city": "EDMONTON",
+    "branch": "",
+    "swift_code": "FFFXCA66",
+    "row_url": "https://www.theswiftcodes.com/canada/fffxca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIRST COMMERCIAL BANK",
+    "city": "RICHMOND",
+    "branch": "VANCOUVER BRANCH",
+    "swift_code": "FCBKCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/fcbkca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FIRST COMMERCIAL BANK",
+    "city": "TORONTO",
+    "branch": "TORONTO BRANCH",
+    "swift_code": "FCBKCA8V909",
+    "row_url": "https://www.theswiftcodes.com/canada/fcbkca8v909/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "FORUS CAPITAL LTD",
+    "city": "NEW WESTMINSTER",
+    "branch": "",
+    "swift_code": "FOAICA82",
+    "row_url": "https://www.theswiftcodes.com/canada/foaica82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "GILDAN ACTIVEWEAR INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "GILACAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/gilacamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "GLOBAL CURRENCY SERVICES INC",
+    "city": "GUELPH",
+    "branch": "",
+    "swift_code": "GLCECAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/glcecat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "GLOBALTRADE CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "GLCRCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/glcrcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "GUARDIAN CAPITAL LP",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "GUCACATT",
+    "row_url": "https://www.theswiftcodes.com/canada/gucacatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "GUAVA PAY CANADA INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "GUAVCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/guavcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HABIB CANADIAN BANK",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "HBZUCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/hbzucatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HIFX CANADA INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "HIFXCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/hifxcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC BANK CANADA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "HKBCCATTMON",
+    "row_url": "https://www.theswiftcodes.com/canada/hkbccattmon/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC BANK CANADA",
+    "city": "TORONTO",
+    "branch": "CLS DEPARTMENT",
+    "swift_code": "HKBCCATTCLS",
+    "row_url": "https://www.theswiftcodes.com/canada/hkbccattcls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC BANK CANADA",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "HKBCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/hkbccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC BANK CANADA",
+    "city": "VANCOUVER",
+    "branch": "PAYMENT INVESTIGATIONS",
+    "swift_code": "HKBCCATTINV",
+    "row_url": "https://www.theswiftcodes.com/canada/hkbccattinv/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC BANK CANADA",
+    "city": "VANCOUVER",
+    "branch": "VANCOUVER",
+    "swift_code": "HKBCCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/hkbccattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 3,
+    "bank": "HSBC SECURITIES CANADA (INC)",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "HSCICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/hscicatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "HYDRO-QUEBEC",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "HQQCCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/hqqccamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICE NGX CANADA INC.",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "ICNACA66",
+    "row_url": "https://www.theswiftcodes.com/canada/icnaca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICICI BANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ICICCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/iciccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICICI BANK CANADA",
+    "city": "TORONTO",
+    "branch": "CENTRAL OPERATIONS - CANADA",
+    "swift_code": "ICICCATTCOP",
+    "row_url": "https://www.theswiftcodes.com/canada/iciccattcop/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICICI BANK CANADA",
+    "city": "TORONTO",
+    "branch": "GLOBAL TRADE SERVICE UNIT-CANADA",
+    "swift_code": "ICICCATTGTS",
+    "row_url": "https://www.theswiftcodes.com/canada/iciccattgts/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICICI BANK CANADA",
+    "city": "TORONTO",
+    "branch": "TREASURY",
+    "swift_code": "ICICCATTRTL",
+    "row_url": "https://www.theswiftcodes.com/canada/iciccattrtl/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ICICI BANK CANADA",
+    "city": "TORONTO",
+    "branch": "TREASURY",
+    "swift_code": "ICICCATTTSY",
+    "row_url": "https://www.theswiftcodes.com/canada/iciccatttsy/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ICBKCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/icbkcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
+    "city": "TORONTO",
+    "branch": "RMB CLEARING BANK",
+    "swift_code": "ICBKCAT2CLR",
+    "row_url": "https://www.theswiftcodes.com/canada/icbkcat2clr/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INTACT INVESTMENT MANAGEMENT INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "ITIMCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/itimcam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INTERACTIVE BROKERS CANADA INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "IBKRCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/ibkrcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INTERNATIONAL AIR TRANSPORT ASSOCIATION",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "IATACAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/iatacamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESCO CANADA LTD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "AFMICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/afmicatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTMENT MANAGEMENT CORPORATION OF ONTARIO",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "IMROCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/imrocatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTMENT MANAGEMENT CORPORATION OF ONTARIO",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "IMROCATB",
+    "row_url": "https://www.theswiftcodes.com/canada/imrocatb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTORS GROUP FINANCIAL SERVICES INC",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "IGMFCA44",
+    "row_url": "https://www.theswiftcodes.com/canada/igmfca44/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTORS GROUP FINANCIAL SERVICES INC",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "IGMFCA44004",
+    "row_url": "https://www.theswiftcodes.com/canada/igmfca44004/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTORS GROUP FINANCIAL SERVICES INC",
+    "city": "WINNIPEG",
+    "branch": "INVESTORS GROUP",
+    "swift_code": "IGMFCA44002",
+    "row_url": "https://www.theswiftcodes.com/canada/igmfca44002/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTORS GROUP FINANCIAL SERVICES INC",
+    "city": "WINNIPEG",
+    "branch": "INVESTORS GROUP",
+    "swift_code": "IGMFCA44003",
+    "row_url": "https://www.theswiftcodes.com/canada/igmfca44003/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "INVESTORS GROUP FINANCIAL SERVICES INC",
+    "city": "WINNIPEG",
+    "branch": "NVESTORS GROUP",
+    "swift_code": "IGMFCA44001",
+    "row_url": "https://www.theswiftcodes.com/canada/igmfca44001/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ISWISS PAY LIMITED",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "ISPACA82",
+    "row_url": "https://www.theswiftcodes.com/canada/ispaca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "ITALIAN CANADIAN SAVINGS AND CREDIT UNION LIMITED",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ICSOCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/icsocatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "J.P. MORGAN SECURITIES CANADA INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "JPMSCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/jpmscatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JEFFERIES SECURITIES, INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "JEFFCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/jeffcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JIM PATTISON LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "JPGCCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/jpgcca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CHASCATTCTS",
+    "row_url": "https://www.theswiftcodes.com/canada/chascattcts/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CHASCATTENQ",
+    "row_url": "https://www.theswiftcodes.com/canada/chascattenq/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CHASCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/chascatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "CANADA TREASURY",
+    "swift_code": "CHASCATTNVS",
+    "row_url": "https://www.theswiftcodes.com/canada/chascattnvs/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "JSC-JUERGEN FITSCHEN AND CO. INTERNATIONALE FINANZDIENSTLEISTUNG A.G.",
+    "city": "SURREY",
+    "branch": "",
+    "swift_code": "JFIFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/jfifca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "KEB HANA BANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "KOEXCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/koexcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "KEEP TECHNOLOGIES CORP.",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "KEECCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/keecca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "KNIT PAYMENT SERVICES (CANADA) INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "KPSACAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/kpsacat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "LALLEMAND INC",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "LALLCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/lallcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "LANGDON EQUITY PARTNERS LTD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "LEQPCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/leqpcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "LAPSA PAYMENTS LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "LAPMCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/lapmca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "LAURENTIAN BANK OF CANADA",
+    "city": "MONTREAL",
+    "branch": "ALL OFFICES IN CANADA",
+    "swift_code": "BLCMCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/blcmcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "LOOP PAYMENTS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "LOPYCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/lopycat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MAGNA INTERNATIONAL INC.",
+    "city": "AURORA",
+    "branch": "",
+    "swift_code": "MAINCA2A",
+    "row_url": "https://www.theswiftcodes.com/canada/mainca2a/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MAGNA INTERNATIONAL INC.",
+    "city": "AURORA",
+    "branch": "",
+    "swift_code": "MAINCA2B",
+    "row_url": "https://www.theswiftcodes.com/canada/mainca2b/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MANUFACTURERS LIFE INSURANCE COMPANY",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MFCTCATB",
+    "row_url": "https://www.theswiftcodes.com/canada/mfctcatb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MANULIFE FINANCIAL CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MFCTCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/mfctcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MAPLE ROCK CAPITAL PARTNERS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MRCTCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/mrctcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MARTINREA INTERNATIONAL INC.",
+    "city": "VAUGHAN",
+    "branch": "",
+    "swift_code": "MRIECA2V",
+    "row_url": "https://www.theswiftcodes.com/canada/mrieca2v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MCCAIN FOODS LIMITED",
+    "city": "FLORENCEVILLE-BRISTOL",
+    "branch": "",
+    "swift_code": "MCFOCANN",
+    "row_url": "https://www.theswiftcodes.com/canada/mcfocann/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MD FINANCIAL MANAGEMENT INC",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "FNMNCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/fnmncaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
+    "city": "RICHMOND",
+    "branch": "RICHMOND BRANCH",
+    "swift_code": "ICBCCATTRMD",
+    "row_url": "https://www.theswiftcodes.com/canada/icbccattrmd/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ICBCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/icbccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
+    "city": "VANCOUVER",
+    "branch": "VANCOUVER BRANCH",
+    "swift_code": "ICBCCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/icbccattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 4,
+    "bank": "MELON TECHNOLOGIES LIMITED",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "MTENCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/mtenca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERCANTILE EXCHANGE CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MEXOCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/mexocat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERCEDES-BENZ FINANCE CANADA INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "DCAGCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/dcagcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERCURY MERCANTILE TECHNOLOGIES INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MEMTCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/memtcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERRILL LYNCH CANADA, INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MLCICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/mlcicatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERRILL LYNCH CANADA, INC",
+    "city": "TORONTO",
+    "branch": "CANADIAN FX",
+    "swift_code": "MLCICATTTOR",
+    "row_url": "https://www.theswiftcodes.com/canada/mlcicatttor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MERRILL LYNCH CANADA, INC",
+    "city": "TORONTO",
+    "branch": "TREASURY",
+    "swift_code": "MLCICATTTSY",
+    "row_url": "https://www.theswiftcodes.com/canada/mlcicatttsy/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MIRABAUD CANADA INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "MIRICAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/miricamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MIZUHO BANK, LTD., CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MHCBCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/mhcbcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MJK GROUP INC.",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "MJKGCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/mjkgca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MOLTOPAY FINANCIAL LIMITED",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "MLFNCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/mlfnca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MONEX CANADA, INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MNCACATT",
+    "row_url": "https://www.theswiftcodes.com/canada/mncacatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MONEYWAY FINANCIAL GROUP CORP.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "MOFOCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/mofoca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MORGAN STANLEY CANADA LIMITED",
+    "city": "MONTREAL",
+    "branch": "MONTREAL BRANCH",
+    "swift_code": "MSCACATXMON",
+    "row_url": "https://www.theswiftcodes.com/canada/mscacatxmon/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MORGAN STANLEY CANADA LIMITED",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MSCACATX",
+    "row_url": "https://www.theswiftcodes.com/canada/mscacatx/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MTFX INC",
+    "city": "MARKHAM",
+    "branch": "",
+    "swift_code": "MTXXCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/mtxxca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MUFG BANK, LTD., CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "BOTKCATX",
+    "row_url": "https://www.theswiftcodes.com/canada/botkcatx/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MUFG BANK, LTD., CANADA BRANCH",
+    "city": "VANCOUVER",
+    "branch": "CANADA BRANCH, VANCOUVER",
+    "swift_code": "BOTKCATXVCR",
+    "row_url": "https://www.theswiftcodes.com/canada/botkcatxvcr/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "MUFG SECURITIES (CANADA), LTD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MSCDCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/mscdca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "NARL REFINING LIMITED PARTNERSHIP",
+    "city": "COME BY CHANCE",
+    "branch": "",
+    "swift_code": "NARTCANN",
+    "row_url": "https://www.theswiftcodes.com/canada/nartcann/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "NATIXIS CANADA BRANCH",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "NATXCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/natxcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "NINEPOINT PARTNERS LP",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NIPACA22",
+    "row_url": "https://www.theswiftcodes.com/canada/nipaca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "NORTHERN PROVIDENCE INVESTMENTS",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "NOPNCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/nopncam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "ONTARIO TEACHERS' PENSION PLAN BOARD",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "OTPBCA2T",
+    "row_url": "https://www.theswiftcodes.com/canada/otpbca2t/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "ORBIT MONEY INC.",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "ORMOCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/ormoca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "OTRY CAPITAL INC.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "OTCICA82",
+    "row_url": "https://www.theswiftcodes.com/canada/otcica82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAPEL E-MONEY SERVICES LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "FDPYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/fdpyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PARKLAND CORPORATION",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "PAKLCA66",
+    "row_url": "https://www.theswiftcodes.com/canada/paklca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYFU FINANCE LTD",
+    "city": "NEW WESTMINSTER",
+    "branch": "",
+    "swift_code": "PYFACA82",
+    "row_url": "https://www.theswiftcodes.com/canada/pyfaca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYMIQ FINANCIAL GROUP LTD",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "PAYFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/payfca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYNOMAD CAPITAL LTD",
+    "city": "NEW WESTMINSTER",
+    "branch": "",
+    "swift_code": "PYCPCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/pycpca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYPUGS CARDS SERVICES LTD.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "PPCVCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/ppcvca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYRISE FINANCE LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "PYFCCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/pyfcca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PAYSIMPLE FINANCIAL INC",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "PYFICA82",
+    "row_url": "https://www.theswiftcodes.com/canada/pyfica82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PENNYPAL FINANCE LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "PEICCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/peicca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PGM GLOBAL INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "BRCOCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/brcocamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PICTET CANADA L.P.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PICTCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/pictcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PICTET CANADA L.P.",
+    "city": "MONTREAL",
+    "branch": "CORPORATE ACTION",
+    "swift_code": "PICTCAMMCOR",
+    "row_url": "https://www.theswiftcodes.com/canada/pictcammcor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PICTET CANADA L.P.",
+    "city": "MONTREAL",
+    "branch": "GLOBAL CUSTODY",
+    "swift_code": "PICTCAMMCUS",
+    "row_url": "https://www.theswiftcodes.com/canada/pictcammcus/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PICTET OVERSEAS INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PICTCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/pictcam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PICTET OVERSEAS INC.",
+    "city": "MONTREAL",
+    "branch": "CORPORATE ACTION",
+    "swift_code": "PICTCAM2COR",
+    "row_url": "https://www.theswiftcodes.com/canada/pictcam2cor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PNC BANK CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "PNCCCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/pnccca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "POPCORNPAY LTD.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "POPPCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/poppca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "POWER PACIFIC INVESTMENT MANAGEMENT INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PPIMCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/ppimcam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "POWER SUSTAINABLE INVESTMENT MANAGEMENT INC",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PSNNCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/psnncamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PSTNET FINANCE CORP.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "PSFICA82",
+    "row_url": "https://www.theswiftcodes.com/canada/psfica82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PSPBCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/pspbcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "PSPBCAMA",
+    "row_url": "https://www.theswiftcodes.com/canada/pspbcama/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PURE TRANSFER LTD",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "PUTFCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/putfca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PUREMTEK TRADING LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "PUTDCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/putdca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 5,
+    "bank": "PURPOSE INVESTMENTS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "PPNVCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/ppnvcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "QUANT FINANCIAL LTD.",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "QUFNCA62",
+    "row_url": "https://www.theswiftcodes.com/canada/qufnca62/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RABOBANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "RABOCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/rabocatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RAS PAYMENT SYSTEMS LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "SOPYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/sopyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RB GLOBAL, INC.",
+    "city": "BURNABY",
+    "branch": "",
+    "swift_code": "RBRSCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/rbrsca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC DOMINION SECURITIES INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "RBDSCATR",
+    "row_url": "https://www.theswiftcodes.com/canada/rbdscatr/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "MONTREAL",
+    "branch": "QUEBEC",
+    "swift_code": "ROTRCATTMPC",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcattmpc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ROTRCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "TORONTO",
+    "branch": "DERIVATIVES",
+    "swift_code": "ROTRCATTDER",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcattder/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "TORONTO",
+    "branch": "GLOBAL SERVICES",
+    "swift_code": "ROTRCATTTIC",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcatttic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "TORONTO",
+    "branch": "INSURANCE SERVICES",
+    "swift_code": "ROTRCATTTSC",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcatttsc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RBC INVESTOR SERVICES TRUST",
+    "city": "TORONTO",
+    "branch": "SECURITIES LENDING DEPARTMENT",
+    "swift_code": "ROTRCATTLEN",
+    "row_url": "https://www.theswiftcodes.com/canada/rotrcattlen/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "REEPAY FINANCE LTD.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "REEPCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/reepca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "REEPAY FINANCE LTD.",
+    "city": "VICTORIA",
+    "branch": "USA",
+    "swift_code": "REEPCA82001",
+    "row_url": "https://www.theswiftcodes.com/canada/reepca82001/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RELAY FINANCIAL TECHNOLOGIES INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "RFTECAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/rftecat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "REMITWARE PAYMENTS CANADA INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "REPDCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/repdcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "RICHARDSON INTERNATIONAL CURRENCY EXCHANGE INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "RICXCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/ricxcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "ROYCCAT2CIC",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2cic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "HALIFAX",
+    "branch": "",
+    "swift_code": "ROYCCAT2HIC",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2hic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "ROYCCAT2MIC",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2mic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ROYCCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ROYCCAT2IBO",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2ibo/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ROYCCAT2ECL",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2ecl/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ROYCCAT3",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat3/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "CAPITAL MARKETS DEPT",
+    "swift_code": "ROYCCAT3IMM",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat3imm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "CLS NOSTRO SERVICES",
+    "swift_code": "ROYCCAT2CLS",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2cls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "GUARANTEES",
+    "swift_code": "ROYCCAT2GLA",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2gla/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "TORONTO",
+    "branch": "RBC GLOBAL SERVICES, ISS",
+    "swift_code": "ROYCCAT2VFS",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2vfs/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "ROYCCAT2VIC",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2vic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "ROYAL BANK OF CANADA",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "ROYCCAT2WIC",
+    "row_url": "https://www.theswiftcodes.com/canada/royccat2wic/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SAGEN MORTGAGE INSURANCE COMPANY CANADA",
+    "city": "OAKVILLE",
+    "branch": "",
+    "swift_code": "GFMICATT",
+    "row_url": "https://www.theswiftcodes.com/canada/gfmicatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SBI CANADA BANK",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "SBINCATX",
+    "row_url": "https://www.theswiftcodes.com/canada/sbincatx/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SBI CANADA BANK",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "SBINCATXVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/sbincatxvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SCOTIA CAPITAL INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SCMCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/scmccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SCOTIA CAPITAL INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SCMCCATTEG2",
+    "row_url": "https://www.theswiftcodes.com/canada/scmccatteg2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SCOTIA MCLEOD INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SCMCCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/scmccat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SHIFT CONNECT LTD.",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "SHFNCA62",
+    "row_url": "https://www.theswiftcodes.com/canada/shfnca62/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SHINHAN BANK CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SHBKCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/shbkcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SHOPIFY INC",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "SHOFCAW2",
+    "row_url": "https://www.theswiftcodes.com/canada/shofcaw2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SIERRA WIRELESS INC.",
+    "city": "RICHMOND",
+    "branch": "",
+    "swift_code": "SWIRCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/swirca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SLC MANAGEMENT PRIVATE FIXED INCOME PLUS FUND",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SLPFCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/slpfcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SLC MANAGEMENT SHORT TERM PRIVATE FIXED INCOME PLUS FUND",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SLSTCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/slstcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SNC-LAVALIN GROUP INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "SNCLCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/snclcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SOCIETE GENERALE (CANADA BRANCH)",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "SOGECAMB",
+    "row_url": "https://www.theswiftcodes.com/canada/sogecamb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SOCIETE GENERALE (CANADA BRANCH)",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SOGECAMBTOR",
+    "row_url": "https://www.theswiftcodes.com/canada/sogecambtor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SOCIETE GENERALE CAPITAL CANADA INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "NEWGCAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/newgcamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SP MARITIME (CANADA) INC.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "SMACCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/smacca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SPACEFEX TECHNOLOGIES LIMITED",
+    "city": "KELOWNA",
+    "branch": "",
+    "swift_code": "SPHGCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/sphgca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SPRUCEGROVE INVESTMENT MANAGEMENT",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SPNMCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/spnmcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATM",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 6,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMOME",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmome/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMPEM",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmpem/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMDEA",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmdea/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMIPF",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmipf/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMEIS",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmeis/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMMFC",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmmfc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMJST",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmjst/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMDOR",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmdor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "FMCCCATMIKO",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmiko/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SS AND C ETC",
+    "swift_code": "FMCCCATMFIN",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmfin/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC",
+    "swift_code": "FMCCCATMBUD",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmbud/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC",
+    "swift_code": "FMCCCATMOST",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmost/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC",
+    "swift_code": "FMCCCATMOTP",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmotp/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC",
+    "swift_code": "FMCCCATMHOP",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmhop/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC AEG",
+    "swift_code": "FMCCCATMAEG",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmaeg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC CAM",
+    "swift_code": "FMCCCATMCAM",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmcam/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC CBA",
+    "swift_code": "FMCCCATMCBA",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmcba/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC GMA",
+    "swift_code": "FMCCCATMGMA",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmgma/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC GOOD",
+    "swift_code": "FMCCCATMGOO",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmgoo/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC IAS",
+    "swift_code": "FMCCCATMIAS",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmias/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC PHN",
+    "swift_code": "FMCCCATMPHN",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmphn/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC PSP",
+    "swift_code": "FMCCCATMPSP",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmpsp/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+    "city": "MISSISSAUGA",
+    "branch": "SSCNET ETC WAR",
+    "swift_code": "FMCCCATMWAR",
+    "row_url": "https://www.theswiftcodes.com/canada/fmcccatmwar/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SBOSCATX",
+    "row_url": "https://www.theswiftcodes.com/canada/sboscatx/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "INTEGRATED FINANCIAL SYSTEMS",
+    "swift_code": "SBOSCATXIFS",
+    "row_url": "https://www.theswiftcodes.com/canada/sboscatxifs/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "STONEPINE ASSET MANAGEMENT INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "SNPNCAM2",
+    "row_url": "https://www.theswiftcodes.com/canada/snpncam2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SUMITOMO MITSUI BANKING CORPORATION, CANADA BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SMTOCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/smtocatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SUN LIFE ASSURANCE COMPANY OF CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SLOCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/sloccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SUN LIFE INSURANCE (CANADA) LIMITED",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "SLNCCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/slnccat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SUN PAY LIMITED",
+    "city": "KELOWNA",
+    "branch": "",
+    "swift_code": "SUPYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/supyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "SUNCOR ENERGY SERVICES INC.",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "SUEECA66",
+    "row_url": "https://www.theswiftcodes.com/canada/sueeca66/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "TALIS MAN PAY LTD.",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "TLMPCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/tlmpca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "TAZAPAY CANADA CORP.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "TAZCCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/tazcca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THAMOR TRADING CORPORATION",
+    "city": "MISSISSAUGA",
+    "branch": "",
+    "swift_code": "THTCCA22",
+    "row_url": "https://www.theswiftcodes.com/canada/thtcca22/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NEW YORK MELLON, TORONTO BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MELNCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/melncatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "NOSCCATTCGY",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattcgy/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "NOSCCATTTPC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "HALIFAX",
+    "branch": "",
+    "swift_code": "NOSCCATTHFX",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatthfx/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "MISSISSAUGA",
+    "branch": "BSC ROYNAT TECH BKG ONTARIO",
+    "swift_code": "NOSCCATTTB5",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttb5/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "NOSCCATTMTL",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattmtl/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "NOSCCATTTPM",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "MONTREAL",
+    "branch": "BSC ROYNAT TECH BKG QUEBEC",
+    "swift_code": "NOSCCATTMT1",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattmt1/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "OTTAWA",
+    "branch": "",
+    "swift_code": "NOSCCATTOTT",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattott/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "SASKATOON",
+    "branch": "",
+    "swift_code": "NOSCCATTSKN",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattskn/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTFXA",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattfxa/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTOR",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTPT",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTPG",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTMTB",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattmtb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTCT1",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattct1/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 7,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTCT2",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattct2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTMTT",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattmtt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTOTC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattotc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL1",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl1/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL2",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL3",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl3/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL4",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl4/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL5",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl5/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL6",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl6/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL7",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl7/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTR1",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttr1/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL8",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl8/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTL9",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttl9/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTLA",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttla/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTLB",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttlb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTLC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttlc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTTLD",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttld/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "NOSCCATTSEC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattsec/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "ALL OFFICES IN CANADA",
+    "swift_code": "NOSCCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "BALANCE SHEET MANAGEMENT",
+    "swift_code": "NOSCCATTBSM",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattbsm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "BNS 72157 - STRUCTURED FINANCE",
+    "swift_code": "NOSCCATTTLE",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttle/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "CDN SHORT TERM FUNDING",
+    "swift_code": "NOSCCATTCST",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattcst/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "COLLECTION DEPARTMENT",
+    "swift_code": "NOSCCATTCOL",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattcol/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "CONTINUOUS LINK SETTLEMENT",
+    "swift_code": "NOSCCATTCLS",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattcls/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "GLOBAL ENERGY SOLUTIONS",
+    "swift_code": "NOSCCATTGES",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattges/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "SCOTIABANK COMMODITIES",
+    "swift_code": "NOSCCATTMOC",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattmoc/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "TERM FUNDING AND SECURITIZATION",
+    "swift_code": "NOSCCATTTFS",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttfs/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "TORONTO",
+    "branch": "TOR SHORTTERMFUNDING",
+    "swift_code": "NOSCCATTSTF",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattstf/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "NOSCCATTVCR",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattvcr/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "NOSCCATTTPV",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpv/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "NOSCCATTWPG",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccattwpg/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "NOSCCATTTPW",
+    "row_url": "https://www.theswiftcodes.com/canada/nosccatttpw/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE CANADA LIFE ASSURANCE COMPANY",
+    "city": "WINNIPEG",
+    "branch": "",
+    "swift_code": "CNLACA4B",
+    "row_url": "https://www.theswiftcodes.com/canada/cnlaca4b/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE MANUFACTURERS LIFE INSURANCE COMPANY",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "MFCTCATA",
+    "row_url": "https://www.theswiftcodes.com/canada/mfctcata/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "THE NORTHERN TRUST COMPANY, CANADA",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "CNORCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/cnorcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TORONTO-DOMINION BANK, THE",
+    "city": "CALGARY",
+    "branch": "",
+    "swift_code": "TDOMCATTCAL",
+    "row_url": "https://www.theswiftcodes.com/canada/tdomcattcal/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TORONTO-DOMINION BANK, THE",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "TDOMCATTMTL",
+    "row_url": "https://www.theswiftcodes.com/canada/tdomcattmtl/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TORONTO-DOMINION BANK, THE",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "TDOMCATTTOR",
+    "row_url": "https://www.theswiftcodes.com/canada/tdomcatttor/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TORONTO-DOMINION BANK, THE",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "TDOMCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/tdomcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TORONTO-DOMINION BANK, THE",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "TDOMCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/tdomcattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TRANS-CANADA CAPITAL INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "TRLACAMM",
+    "row_url": "https://www.theswiftcodes.com/canada/trlacamm/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "TRANS-CANADA CAPITAL INC.",
+    "city": "MONTREAL",
+    "branch": "",
+    "swift_code": "TRLACAMB",
+    "row_url": "https://www.theswiftcodes.com/canada/trlacamb/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "UBS BANK (CANADA)",
+    "city": "MONTREAL",
+    "branch": "MONTREAL BRANCH",
+    "swift_code": "UBSWCATTMTL",
+    "row_url": "https://www.theswiftcodes.com/canada/ubswcattmtl/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "UBS BANK (CANADA)",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "UBSWCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/ubswcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "UBS BANK (CANADA)",
+    "city": "VANCOUVER",
+    "branch": "VANCOUVER BRANCH",
+    "swift_code": "UBSWCATTVAN",
+    "row_url": "https://www.theswiftcodes.com/canada/ubswcattvan/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "UBS SECURITIES CANADA INC",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "UBSWCATS",
+    "row_url": "https://www.theswiftcodes.com/canada/ubswcats/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "UNITED OVERSEAS BANK LIMITED VANCOUVER BRANCH",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "UOVBCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/uovbca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "VALENS PAY LIMITED",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "VAPACA82",
+    "row_url": "https://www.theswiftcodes.com/canada/vapaca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "VANCITY CREDIT UNION",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "CTZNCA8V",
+    "row_url": "https://www.theswiftcodes.com/canada/ctznca8v/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "VANCITY CREDIT UNION",
+    "city": "VANCOUVER",
+    "branch": "VANCITY",
+    "swift_code": "CTZNCA8V001",
+    "row_url": "https://www.theswiftcodes.com/canada/ctznca8v001/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 8,
+    "bank": "VANCOUVER BULLION AND CURRENCY EXCHANGE LTD.",
+    "city": "VANCOUVER",
+    "branch": "",
+    "swift_code": "VBCECA82",
+    "row_url": "https://www.theswiftcodes.com/canada/vbceca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "VAULT PAYMENTS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "VAPYCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/vapycat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "VEQTOR PAY LTD.",
+    "city": "NEW WESTMINSTER",
+    "branch": "",
+    "swift_code": "VEPYCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/vepyca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "WEALTHSIMPLE INVESTMENTS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "WEIECAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/weiecat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "WELLINGTON SQUARE CAPITAL PARTNERS INC.",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "WSCPCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/wscpcat2/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "WELLS FARGO BANK, N. A. CANADIAN BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "PNBPCATT",
+    "row_url": "https://www.theswiftcodes.com/canada/pnbpcatt/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "WELLS FARGO BANK, N. A. CANADIAN BRANCH",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "PNBPCATTLIQ",
+    "row_url": "https://www.theswiftcodes.com/canada/pnbpcattliq/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "XAMAX FINANCE LTD",
+    "city": "VICTORIA",
+    "branch": "",
+    "swift_code": "PYFNCA82",
+    "row_url": "https://www.theswiftcodes.com/canada/pyfnca82/"
+  },
+  {
+    "country": "CANADA",
+    "country_url": "https://www.theswiftcodes.com/canada/",
+    "page": 9,
+    "bank": "ZYRIO CORPORATION",
+    "city": "TORONTO",
+    "branch": "",
+    "swift_code": "ZRCPCAT2",
+    "row_url": "https://www.theswiftcodes.com/canada/zrcpcat2/"
+  }
+]

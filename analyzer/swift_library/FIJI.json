@@ -1,0 +1,72 @@
+[
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "ANZBFJFX",
+    "row_url": "https://www.theswiftcodes.com/fiji/anzbfjfx/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "BANK OF BARODA, SUVA BRANCH",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "BARBFJFJ",
+    "row_url": "https://www.theswiftcodes.com/fiji/barbfjfj/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "BRED BANK (FIJI) PTE LTD",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "BREDFJFJ",
+    "row_url": "https://www.theswiftcodes.com/fiji/bredfjfj/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "BSP FINANCIAL GROUP LIMITED",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "BOSPFJFJ",
+    "row_url": "https://www.theswiftcodes.com/fiji/bospfjfj/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "HFC BANK",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "HFCLFJFJ",
+    "row_url": "https://www.theswiftcodes.com/fiji/hfclfjfj/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "RESERVE BANK OF FIJI",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "RBFJFJFJ",
+    "row_url": "https://www.theswiftcodes.com/fiji/rbfjfjfj/"
+  },
+  {
+    "country": "FIJI",
+    "country_url": "https://www.theswiftcodes.com/fiji/",
+    "page": 1,
+    "bank": "WESTPAC BANKING CORPORATION",
+    "city": "SUVA",
+    "branch": "",
+    "swift_code": "WPACFJFX",
+    "row_url": "https://www.theswiftcodes.com/fiji/wpacfjfx/"
+  }
+]

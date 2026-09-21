@@ -1,0 +1,42 @@
+[
+  {
+    "country": "FAROE ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/faroe-islands/",
+    "page": 1,
+    "bank": "BANKNORDIK P/F (FORMERLY FOROYA BANKI P/F)",
+    "city": "TORSHAVN",
+    "branch": "",
+    "swift_code": "FIFBFOTX",
+    "row_url": "https://www.theswiftcodes.com/faroe-islands/fifbfotx/"
+  },
+  {
+    "country": "FAROE ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/faroe-islands/",
+    "page": 1,
+    "bank": "BANKNORDIK P/F (FORMERLY FOROYA BANKI P/F)",
+    "city": "TORSHAVN",
+    "branch": "KONTANTDEPOT",
+    "swift_code": "FIFBFOTXKON",
+    "row_url": "https://www.theswiftcodes.com/faroe-islands/fifbfotxkon/"
+  },
+  {
+    "country": "FAROE ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/faroe-islands/",
+    "page": 1,
+    "bank": "BETRI BANKI P/F",
+    "city": "TORSHAVN",
+    "branch": "",
+    "swift_code": "EIKBFOTF",
+    "row_url": "https://www.theswiftcodes.com/faroe-islands/eikbfotf/"
+  },
+  {
+    "country": "FAROE ISLANDS",
+    "country_url": "https://www.theswiftcodes.com/faroe-islands/",
+    "page": 1,
+    "bank": "BETRI BANKI P/F",
+    "city": "TORSHAVN",
+    "branch": "",
+    "swift_code": "EIKBFOTFKON",
+    "row_url": "https://www.theswiftcodes.com/faroe-islands/eikbfotfkon/"
+  }
+]

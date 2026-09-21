@@ -1,0 +1,2732 @@
+[
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4 AFRICA EXCHANGE PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AFEPZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afepzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4 AFRICA EXCHANGE PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "CLOSED MARKET",
+    "swift_code": "AFEPZAJ2CLO",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afepzaj2clo/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4 AFRICA EXCHANGE PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "OPEN MARKET",
+    "swift_code": "AFEPZAJ2OPE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afepzaj2ope/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4 AFRICA EXCHANGE REGISTRY PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AERPZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/aerpzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4AX NOMINEES RF PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NOPYZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nopyzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "4AX NOMINEES RF PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "4AX NOMINEE",
+    "swift_code": "NOPYZAJ24AX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nopyzaj24ax/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA ASSET MANAGEMENT (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ABVSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/abvszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "BLOEMFONTEIN",
+    "branch": "INTERNATIONAL CENTER BLOEMFONTEIN",
+    "swift_code": "ABSAZAJJCBF",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcbf/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "CAPE TOWN",
+    "branch": "CORPORATE BANKING SERVICES - WESTERN CAPE/476",
+    "swift_code": "ABSAZAJJCCT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcct/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "DURBAN",
+    "branch": "CORPORATE BANKING SERVICES - NATAL/479",
+    "swift_code": "ABSAZAJJCDB",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcdb/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ABSAZAJJTRS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjtrs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA CAPITAL BROKERS",
+    "swift_code": "ABSAZAJJACS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjacs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA CUSTODY",
+    "swift_code": "ABSAZAJJMG3",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjmg3/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA INVESTOR SERVICES",
+    "swift_code": "ABSAZAJJAIS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjais/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA INVESTOR SERVICES ENV 2",
+    "swift_code": "ABSAZAJJ2AI",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajj2ai/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA ISSUING AGENT",
+    "swift_code": "ABSAZAJJMG1",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjmg1/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA RECONCILITAION DIVISION",
+    "swift_code": "ABSAZAJJREK",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjrek/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ABSA TRADE REPORTING",
+    "swift_code": "ABSAZAJJMG2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjmg2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "ALL SOUTH AFRICAN OFFICES",
+    "swift_code": "ABSAZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "CLS BRANCH",
+    "swift_code": "ABSAZAJJCLS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcls/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "CORPORATE BANKING SERVICES - WITWATERSRAND/235",
+    "swift_code": "ABSAZAJJCWI",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcwi/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "FIXED INCOME INSTRUMENT",
+    "swift_code": "ABSAZAJJFI1",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjfi1/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "FIXED INCOME INSTRUMENT",
+    "swift_code": "ABSAZAJJFI2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjfi2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "FOR CLS",
+    "swift_code": "ABSAZAJJJAS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjjas/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "LENDING DIVISION",
+    "swift_code": "ABSAZAJJSLB",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjslb/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "MONEY MARKET BRANCH",
+    "swift_code": "ABSAZAJJMMD",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjmmd/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "MONEY MARKET BRANCH",
+    "swift_code": "ABSAZAJJTMS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjtms/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "NON RES BIC",
+    "swift_code": "ABSAZAJJNRS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjnrs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "THIRD PARTY CLS CLEARING",
+    "swift_code": "ABSAZAJJTPC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjtpc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "VOSTRO BRANCH",
+    "swift_code": "ABSAZAJJVOS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjvos/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "MBOMBELA",
+    "branch": "INTERNATIONAL BANKING CENTRE NELSPRUIT/449",
+    "swift_code": "ABSAZAJJCNE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcne/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "PORT ELIZABETH",
+    "branch": "CORPORATE BANKING SERVICES - EASTERN CAPE/480",
+    "swift_code": "ABSAZAJJCPE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcpe/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "PRETORIA",
+    "branch": "CORPORATE BANKING SERVICES - NORTHERN TRANSVAAL/478",
+    "swift_code": "ABSAZAJJCPT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcpt/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA BANK LIMITED",
+    "city": "PRETORIA",
+    "branch": "CREDIT CARD ADMIN CENTRE",
+    "swift_code": "ABSAZAJJCRD",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazajjcrd/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA CAPITAL SECURITIES PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ABSAZAJ3",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazaj3/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ABSA STOCKBROKERS AND PORTFOLIO MANAGEMENT (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ABSAZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/absazaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ACCESS BANK (SOUTH AFRICA) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BATHZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bathzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "AFRICAN BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AFRCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afrczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "AFRIFOCUS SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AFRFZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afrfzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ALBARAKA BANK",
+    "city": "DURBAN",
+    "branch": "",
+    "swift_code": "ALBRZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/albrzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ALEXANDER FORBES GROUP SERVICES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AFGSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/afgszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ALLAN GRAY LIMITED",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "GRAYZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/grayzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ALTRON FINANCE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ALTFZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/altfzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ANCHOR STOCKBROKERS (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ASTYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/astyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ANDISA CAPITAL (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ANDSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/andszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ANDISA CAPITAL (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ANDSZAJJH01",
+    "row_url": "https://www.theswiftcodes.com/south-africa/andszajjh01/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ANDISA CAPITAL (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ANDSZAJJT01",
+    "row_url": "https://www.theswiftcodes.com/south-africa/andszajjt01/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ANGLO AMERICAN SA FINANCE LIMITED",
+    "city": "ROSEBANK",
+    "branch": "",
+    "swift_code": "AACLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/aaclzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ARGON SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AONSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/aonszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 1,
+    "bank": "ATISA SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "WWSEZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/wwsezajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "AVIOR RESEARCH (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "GDPTZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gdptzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "AXON SECLEND (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "AXSPZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/axspzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "B.P. BERNSTEIN",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BERNZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bernzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANK OF CHINA JOHANNESBURG BRANCH",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BKCHZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bkchzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANK OF COMMUNICATIONS CO., LTD. JOHANNESBURG BRANCH",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "COMMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/commzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANK OF TAIWAN, SOUTH AFRICA BRANCH",
+    "city": "ROSEBANK",
+    "branch": "",
+    "swift_code": "BKTWZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bktwzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANK SERV LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BKSVZAJS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bksvzajs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANK ZERO MUTUAL BANK",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ZERMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/zermzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANKSERVAFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BKSVZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bksvzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BANKSERVAFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BKSVZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bksvzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BIDVEST BANK LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BIDBZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bidbzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "BIDVEST TREASURY SERVICES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BIVTZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bivtzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CAPITEC BANK LIMITED",
+    "city": "STELLENBOSCH",
+    "branch": "",
+    "swift_code": "CABLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/cablzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CHINA CONSTRUCTION BANK CORPORATION JOHANNESBURG BRANCH",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "PCBCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pcbczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CITIBANK SOUTH AFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CITIZAJX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/citizajx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CITIBANK SOUTH AFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "CITIBANK SOUTH AFRICA ( SUB SAHARAN AFRICA HUB)",
+    "swift_code": "CITIZAJXHUB",
+    "row_url": "https://www.theswiftcodes.com/south-africa/citizajxhub/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CITIBANK SOUTH AFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "FIXED INCOME CURRENCY AND COMMODITY",
+    "swift_code": "CITIZAJXFIC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/citizajxfic/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CITIBANK SOUTH AFRICA",
+    "city": "JOHANNESBURG",
+    "branch": "TRADE SERVICES DEPT",
+    "swift_code": "CITIZAJXTRD",
+    "row_url": "https://www.theswiftcodes.com/south-africa/citizajxtrd/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CITIGROUP GLOBAL MARKETS (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SSBSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ssbszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CSEVZAJJ100",
+    "row_url": "https://www.theswiftcodes.com/south-africa/csevzajj100/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CSEVZAJJ200",
+    "row_url": "https://www.theswiftcodes.com/south-africa/csevzajj200/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CSEVZAJJ300",
+    "row_url": "https://www.theswiftcodes.com/south-africa/csevzajj300/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
+    "city": "ROSEBANK",
+    "branch": "",
+    "swift_code": "CSEVZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/csevzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CONSILIUM CAPITAL (SA) (PTY) LTD.",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "COCPZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/cocpzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CORONATION ASSET MANAGEMENT (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "COUGZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/cougzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "CURO FUND SERVICES (PTY) LTD",
+    "city": "BELLVILLE",
+    "branch": "",
+    "swift_code": "TAFAZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/tafazajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "DEUTSCHE BANK AG",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "DEUTZAJX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/deutzajx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "DEUTSCHE BANK AG",
+    "city": "JOHANNESBURG",
+    "branch": "GLOBAL MARKETS",
+    "swift_code": "DEUTZAJXGFX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/deutzajxgfx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "DEVELOPMENT BANK OF SOUTHERN AFRICA LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "DESFZAJM",
+    "row_url": "https://www.theswiftcodes.com/south-africa/desfzajm/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "DISCOVERY BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "DISCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/disczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "ENEL GREEN POWER RSA (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ENDEZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/endezajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "ENGEN PETROLEUM LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "ENGZZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/engzzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "ESKOM TREASURY",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ESKOZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/eskozajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FFO SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "FFOSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ffoszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FINBOND MUTUAL BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "FBMBZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/fbmbzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "FIRNZAJJRSL",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjrsl/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "FIRNZAJB",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajb/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "CUSTODY SERVICES, INTERNATIONAL BANKING",
+    "swift_code": "FIRNZAJJ896",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajj896/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "DIRECT CLEARING",
+    "swift_code": "FIRNZAJJDCL",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjdcl/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "FIRSTRAND CLS",
+    "swift_code": "FIRNZAJJCLS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjcls/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "GLOBAL LIQUIDITY MANAGEMENT SYSTEM",
+    "swift_code": "FIRNZAJJGLM",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjglm/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES",
+    "swift_code": "FIRNZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "INTENGO MARKET TECHNOLOGIES (PTY) LTD",
+    "swift_code": "FIRNZAJJINT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjint/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "RMB CAPITAL MARKET BONDS (RMBE)",
+    "swift_code": "FIRNZAJJRBS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjrbs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "RMB CUSTODY KENYA",
+    "swift_code": "FIRNZAJJKYE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjkye/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FIRSTRAND BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "RMB GLOBAL CUSTODY",
+    "swift_code": "FIRNZAJJGLO",
+    "row_url": "https://www.theswiftcodes.com/south-africa/firnzajjglo/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FNB STOCKBROKING AND PORTFOLIO MANAGEMENT (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "BJMRZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/bjmrzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FOORD ASSET MANAGEMENT (PROPRIETARY) LIMITED",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "FRDGZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/frdgzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "FOUR M TRADERS (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "FORMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/formzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 2,
+    "bank": "GOLDMAN SACHS INTERNATIONAL BANK, JOHANNESBURG BRANCH",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "GOSNZAJS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gosnzajs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "GRANITE CENTRAL SECURITIES DEPOSITORY",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "GCSOZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gcsozaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "GRINDROD BANK LIMITED",
+    "city": "DURBAN",
+    "branch": "",
+    "swift_code": "GRIDZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gridzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HABIB OVERSEAS BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "HOBLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/hoblzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HBZ BANK LIMITED",
+    "city": "WESTVILLE",
+    "branch": "",
+    "swift_code": "HBZHZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/hbzhzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HSBC BANK PLC",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "HSBCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/hsbczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "SMJCZAJC022",
+    "row_url": "https://www.theswiftcodes.com/south-africa/smjczajc022/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SMJCZAJC011",
+    "row_url": "https://www.theswiftcodes.com/south-africa/smjczajc011/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "HOUGHTON",
+    "swift_code": "SMJCZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/smjczajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "WHK BRANCH",
+    "swift_code": "SMJCZAJCWHK",
+    "row_url": "https://www.theswiftcodes.com/south-africa/smjczajcwhk/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INDEPENDENT SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ISECZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iseczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INDUSTRIAL DEVELOPMENT CORPORATION OF SOUTH AFRICA LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IDCFZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/idcfzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INTEMBEKO INVESTMENT ADMINISTRATORS (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "INTAZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/intazajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INVESTEC BANK LTD.",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IVESZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iveszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INVESTEC MARKETS(PROPRIETARY)LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IVESZAJS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iveszajs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IVESZAJ2011",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iveszaj2011/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IVESZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iveszaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "IWIIZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/iwiizajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "JPMEZAJJ011",
+    "row_url": "https://www.theswiftcodes.com/south-africa/jpmezajj011/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "JPMEZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/jpmezajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
+    "city": "PIETERMARITZBURG",
+    "branch": "",
+    "swift_code": "JPMEZAJJ022",
+    "row_url": "https://www.theswiftcodes.com/south-africa/jpmezajj022/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
+    "city": "ROSEBANK",
+    "branch": "",
+    "swift_code": "JPMEZAJJ033",
+    "row_url": "https://www.theswiftcodes.com/south-africa/jpmezajj033/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "J.P. MORGAN SECURITIES SOUTH AFRICA PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "JPMSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/jpmszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JPMORGAN CHASE BANK, N.A",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "MGTCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/mgtczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE INVESTOR SERVICES PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ULTRZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ultrzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "XJSEZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "BONDEQUITYPLATFORM",
+    "swift_code": "XJSEZAJJETP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjetp/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "JSE LIMITED SAFEX",
+    "swift_code": "XJSEZAJJSFX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjsfx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "SETTLEMENT AUTHORITY",
+    "swift_code": "XJSEZAJJSAT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjsat/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "SETTLEMENT AUTHORITY - MARGINING",
+    "swift_code": "XJSEZAJJMRG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjmrg/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "SETTLEMENT AUTHORITY - MONEY MARKETS ISIN'S",
+    "swift_code": "XJSEZAJJISN",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjisn/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "JSE LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "SETTLEMENT AUTHORITY SECURITIES LENDING DESK",
+    "swift_code": "XJSEZAJJSLB",
+    "row_url": "https://www.theswiftcodes.com/south-africa/xjsezajjslb/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "KELA SECURITIES PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "KESYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/kesyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "KHUMO SECURITIES (PTY) LTD.",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "GENSZAJA",
+    "row_url": "https://www.theswiftcodes.com/south-africa/genszaja/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "LEFIKA SECURITIES (PTY)LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "LESTZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/lestzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "LIBERTY SECURITIES PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "LSPRZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/lsprzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "LONGMARK SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "ARSYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/arsyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MAITLAND GROUP SOUTH AFRICA LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "FNSOZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/fnsozajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MANDG INVESTMENT MANAGERS (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PPMTZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ppmtzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MASSMART MANAGEMENT AND FINANCE COMPANY (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "MASSMART HEAD OFFICE",
+    "swift_code": "MSMFZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/msmfzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MERRILL LYNCH SOUTH AFRICA (PROPRIETARY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBKHZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbkhzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MOMENTUM SECURITIES (PTY) LTD.",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "REMAZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/remazajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "MTN GROUP FINTECH (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "MGFYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/mgfyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NAMPAK MANAGEMENT SERVICES",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NAMVZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/namvzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NAVIGARE SECURITIES PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NAVGZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/navgzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDBANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NEDSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nedszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDBANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NEDSZAJJCLS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nedszajjcls/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDBANK LIMITED",
+    "city": "ROODEPOORT",
+    "branch": "",
+    "swift_code": "NEDSZAJJTSP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nedszajjtsp/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "BLOEMFONTEIN",
+    "branch": "",
+    "swift_code": "NBOEZAJ2022",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2022/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "NBOEZAJ2033",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2033/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 3,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NBOEZAJ2044",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2044/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NBOEZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "INSTITUTIONS DEPARTMENT",
+    "swift_code": "NBOEZAJ2INT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2int/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "PRIVATE CLIENTS DEPARTMENT",
+    "swift_code": "NBOEZAJ2PVT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2pvt/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NEDGROUP SECURITIES (PTY) LTD",
+    "city": "PIETERMARITZBURG",
+    "branch": "",
+    "swift_code": "NBOEZAJ2011",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nboezaj2011/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NITENSO",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "NITNZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nitnzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NOAH FINANCIAL INNOVATION (PROPRIETARY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "METLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/metlzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "NVEST SECURITIES (PTY) LTD",
+    "city": "EAST LONDON",
+    "branch": "",
+    "swift_code": "NVSEZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/nvsezajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "OLD MUTUAL INVESTMENT GROUP(SA) PTY LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "OMAMZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/omamzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE1",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe1/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE3",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe3/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE4",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe4/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE5",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe5/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE6",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe6/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE7",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe7/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE8",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe8/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPE9",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpe9/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PEPKZAJCPEP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcpep/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "JD CONSUMER",
+    "swift_code": "PEPKZAJCJDC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcjdc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PEPKOR TRADING (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "PEP CLOTHING",
+    "swift_code": "PEPKZAJCP10",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pepkzajcp10/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PERESEC PRIME BROKERS (PTY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "PRSMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/prsmzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PHILIPPUS DE WITT (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "WIMOZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/wimozajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PHILIPPUS DE WITT (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "PRETORIA BRANCH",
+    "swift_code": "WIMOZAJJPRE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/wimozajjpre/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PPC LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "PPCPZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ppcpzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PRESCIENT FUND SERVICES",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PRVGZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/prvgzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PRESCIENT SECURITIES PTY LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "PCNTZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pcntzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "PSG SECURITIES LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "PSSYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/pssyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "RAND REFINERY LIMITED",
+    "city": "GERMISTON",
+    "branch": "",
+    "swift_code": "RRPLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/rrplzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "RENCAP SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBJMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbjmzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "RMB SECURITIES (PTY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "RMBSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/rmbszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "RMB SECURITIES (PTY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "JSE SETTLEMENT OFFICE",
+    "swift_code": "RMBSZAJJJSE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/rmbszajjjse/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "RMB STOCKBROKING (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "FNEQZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/fneqzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SA STOCK BROKERS (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBPTZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbptzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SANLAM INVESTMENT MANAGEMENT",
+    "city": "BELLVILLE",
+    "branch": "",
+    "swift_code": "SANLZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sanlzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SANLAM PRIVATE WEALTH (PTY) LTD",
+    "city": "BELLVILLE",
+    "branch": "",
+    "swift_code": "GBSEZAJ3",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gbsezaj3/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SANLAM PRIVATE WEALTH (PTY) LTD",
+    "city": "BELLVILLE",
+    "branch": "GENSEC PRIVATE CLIENTS",
+    "swift_code": "GBSEZAJ3GPC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gbsezaj3gpc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SANLAM SPECIALISED FINANCE PROPRIETARY LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "GBSEZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/gbsezaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SASFZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sasfzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN BANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "SASFIN TREASURY",
+    "swift_code": "SASFZAJJTSY",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sasfzajjtsy/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "BENONI",
+    "branch": "",
+    "swift_code": "SFPSZAJJ044",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj044/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "SFPSZAJJ055",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj055/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "DURBAN",
+    "branch": "",
+    "swift_code": "SFPSZAJJ066",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj066/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SFPSZAJJ022",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj022/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SFPSZAJJ033",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj033/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SASFIN SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SFPSZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SBG SECURITIES (PTY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBEQZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbeqzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SCM DMA (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SCDPZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/scdpzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SERITI POWER (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SCHYZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/schyzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 4,
+    "bank": "SG FRANKEL POLLAK SECURITIES",
+    "city": "EAST LONDON",
+    "branch": "EAST LONDON",
+    "swift_code": "SFPSZAJJ011",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sfpszajj011/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SILICA ADMINISTRATION SERVICES PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SILCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/silczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SISHEN IRON ORE COMPANY (PTY) LTD",
+    "city": "CENTURION",
+    "branch": "",
+    "swift_code": "SIOCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sioczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ6",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj6/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJH",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzajh/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzajs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ4",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj4/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzajp/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ8",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj8/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ7",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj7/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJT",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzajt/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ9",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj9/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTH AFRICAN RESERVE BANK",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "SARBZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sarbzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SOUTHCHESTER INVESTMENT MANAGERS",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "SIVMZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sivmzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBZAZAJJATG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjatg/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBZAZAJJSAL",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjsal/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBZAZAJJCNR",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjcnr/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "AFRICA CUSTODY NETWORK",
+    "swift_code": "SBZAZAJJAFR",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjafr/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "CASH REPORTING",
+    "swift_code": "SBZAZAJJBOL",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjbol/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "CONTINUOUS LINK SETTLEMENT",
+    "swift_code": "SBZAZAJJCLS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjcls/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "DIS BONDS",
+    "swift_code": "SBZAZAJJSCM",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjscm/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES",
+    "swift_code": "SBZAZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "PAN AFRICAN LIQUIDITY MANAGEMENT",
+    "swift_code": "SBZAZAJJPLM",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjplm/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
+    "city": "JOHANNESBURG",
+    "branch": "SECURITIES LENDING",
+    "swift_code": "SBZAZAJJFSL",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbzazajjfsl/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD CHARTERED BANK",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SCBLZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/scblzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD CHARTERED BANK",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SCBLZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/scblzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANDARD CHARTERED BANK",
+    "city": "JOHANNESBURG",
+    "branch": "SECURITIES SERVICES",
+    "swift_code": "SCBLZAJJSSU",
+    "row_url": "https://www.theswiftcodes.com/south-africa/scblzajjssu/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STANLIB ASSET MANAGEMENT",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "LBAMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/lbamzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STATE BANK OF INDIA",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SBINZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sbinzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "STRAZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "STRAZAJ2MTE",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazaj2mte/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "STRAZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "CENTRAL DEPOSITORY",
+    "swift_code": "STRAZAJJCDX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazajjcdx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "STRATE REGISTRAR",
+    "swift_code": "STRAZAJJREG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazajjreg/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "TFS",
+    "swift_code": "STRAZAJJTFS",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazajjtfs/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "STRATE (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "UNEXCOR",
+    "swift_code": "STRAZAJJUNX",
+    "row_url": "https://www.theswiftcodes.com/south-africa/strazajjunx/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SWISS RE AFRICA LTD",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "SWREZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/swrezajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "SYGNIA SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "SYSYZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/sysyzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TELKOM SA LIMITED",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "TELKZAJP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/telkzajp/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TERRA PAYMENT SERVICES SOUTH AFRICA (RF) (PTY) LTD",
+    "city": "GAUTENG",
+    "branch": "",
+    "swift_code": "TPSVZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/tpsvzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "THARISA MINERALS",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "THMNZAJ2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/thmnzaj2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "THE FOSCHINI GROUP LIMITED",
+    "city": "CAPE TOWN",
+    "branch": "",
+    "swift_code": "FOHGZAJC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/fohgzajc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "TALMZAJP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/talmzajp/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
+    "city": "PRETORIA",
+    "branch": "GEHS",
+    "swift_code": "TALMZAJPGEH",
+    "row_url": "https://www.theswiftcodes.com/south-africa/talmzajpgeh/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
+    "city": "PRETORIA",
+    "branch": "OFFICE OF THE ACCOUNTANT GENERAL",
+    "swift_code": "TALMZAJPOAG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/talmzajpoag/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRANSNET SOC LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "TNETZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/tnetzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJENG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjeng/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJTFG",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjtfg/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJFRV",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjfrv/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 5,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPEP",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpep/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPRC",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjprc/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJDRA",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjdra/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJUNO",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjuno/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE1",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe1/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE2",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe2/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE3",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe3/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE4",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe4/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE5",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe5/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE6",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe6/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE7",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe7/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE8",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe8/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJPE9",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjpe9/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TRUSTLINK (PTY) LTD",
+    "city": "PRETORIA",
+    "branch": "",
+    "swift_code": "LINKZAJJP10",
+    "row_url": "https://www.theswiftcodes.com/south-africa/linkzajjp10/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TSB SECURITIES (PTY) LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "PLRPZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/plrpzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "TYMEBANK",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CBZAZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/cbzazajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "UBANK LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "YOUBZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/youbzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "UBS SOUTH AFRICA (PROPRIETARY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "UBSWZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ubswzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VBS MUTUAL BANK",
+    "city": "RIVONIA",
+    "branch": "",
+    "swift_code": "VBSMZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/vbsmzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VISIO FUND MANAGEMENT PTY LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "VMGCZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/vmgczajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VODACOM GROUP LTD",
+    "city": "MIDRAND",
+    "branch": "",
+    "swift_code": "VGRPZAJM",
+    "row_url": "https://www.theswiftcodes.com/south-africa/vgrpzajm/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VOLKSWAGEN OF SOUTH AFRICA (PTY) LTD",
+    "city": "KARIEGA",
+    "branch": "",
+    "swift_code": "VWAGZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/vwagzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VUNANI CAPITAL MARKETS(PTY)LTD",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "VCMTZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/vcmtzajj/"
+  },
+  {
+    "country": "SOUTH AFRICA",
+    "country_url": "https://www.theswiftcodes.com/south-africa/",
+    "page": 6,
+    "bank": "VUNANI SECURITIES (PROPRIETARY) LIMITED",
+    "city": "JOHANNESBURG",
+    "branch": "",
+    "swift_code": "CEQPZAJJ",
+    "row_url": "https://www.theswiftcodes.com/south-africa/ceqpzajj/"
+  }
+]

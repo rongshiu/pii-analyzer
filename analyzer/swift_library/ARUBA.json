@@ -1,0 +1,52 @@
+[
+  {
+    "country": "ARUBA",
+    "country_url": "https://www.theswiftcodes.com/aruba/",
+    "page": 1,
+    "bank": "ARUBA BANK, LTD",
+    "city": "ORANJESTAD",
+    "branch": "",
+    "swift_code": "ARUBAWAX",
+    "row_url": "https://www.theswiftcodes.com/aruba/arubawax/"
+  },
+  {
+    "country": "ARUBA",
+    "country_url": "https://www.theswiftcodes.com/aruba/",
+    "page": 1,
+    "bank": "BANCO DI CARIBE (ARUBA) N.V",
+    "city": "ORANJESTAD",
+    "branch": "",
+    "swift_code": "BDCCAWAW",
+    "row_url": "https://www.theswiftcodes.com/aruba/bdccawaw/"
+  },
+  {
+    "country": "ARUBA",
+    "country_url": "https://www.theswiftcodes.com/aruba/",
+    "page": 1,
+    "bank": "CARIBBEAN MERCANTILE BANK N.V.",
+    "city": "ORANJESTAD",
+    "branch": "",
+    "swift_code": "CMBAAWAX",
+    "row_url": "https://www.theswiftcodes.com/aruba/cmbaawax/"
+  },
+  {
+    "country": "ARUBA",
+    "country_url": "https://www.theswiftcodes.com/aruba/",
+    "page": 1,
+    "bank": "CENTRALE BANK VAN ARUBA",
+    "city": "ORANJESTAD",
+    "branch": "",
+    "swift_code": "CBARAWAW",
+    "row_url": "https://www.theswiftcodes.com/aruba/cbarawaw/"
+  },
+  {
+    "country": "ARUBA",
+    "country_url": "https://www.theswiftcodes.com/aruba/",
+    "page": 1,
+    "bank": "RBC ROYAL BANK (ARUBA) N.V. (FORMERLY RBTT BANK ARUBA N.V.)",
+    "city": "ORANJESTAD",
+    "branch": "",
+    "swift_code": "RBTTAWAW",
+    "row_url": "https://www.theswiftcodes.com/aruba/rbttawaw/"
+  }
+]

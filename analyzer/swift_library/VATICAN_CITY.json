@@ -1,0 +1,22 @@
+[
+  {
+    "country": "VATICAN CITY",
+    "country_url": "https://www.theswiftcodes.com/vatican-city/",
+    "page": 1,
+    "bank": "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA",
+    "city": "CITTA DEL VATICANO",
+    "branch": "",
+    "swift_code": "APDEVAVA",
+    "row_url": "https://www.theswiftcodes.com/vatican-city/apdevava/"
+  },
+  {
+    "country": "VATICAN CITY",
+    "country_url": "https://www.theswiftcodes.com/vatican-city/",
+    "page": 1,
+    "bank": "ISTITUTO PER LE OPERE DI RELIGIONE",
+    "city": "CITTA DEL VATICANO",
+    "branch": "",
+    "swift_code": "IOPRVAVX",
+    "row_url": "https://www.theswiftcodes.com/vatican-city/ioprvavx/"
+  }
+]

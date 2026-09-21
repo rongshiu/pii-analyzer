@@ -1,0 +1,42 @@
+[
+  {
+    "country": "REUNION",
+    "country_url": "https://www.theswiftcodes.com/reunion/",
+    "page": 1,
+    "bank": "BANQUE FRANCAISE COMMERCIALE OCEAN INDIEN",
+    "city": "SAINT DENIS",
+    "branch": "",
+    "swift_code": "BFCORERX",
+    "row_url": "https://www.theswiftcodes.com/reunion/bfcorerx/"
+  },
+  {
+    "country": "REUNION",
+    "country_url": "https://www.theswiftcodes.com/reunion/",
+    "page": 1,
+    "bank": "BNP PARIBAS LA REUNION",
+    "city": "LE PORT",
+    "branch": "",
+    "swift_code": "BNPARERXPOR",
+    "row_url": "https://www.theswiftcodes.com/reunion/bnparerxpor/"
+  },
+  {
+    "country": "REUNION",
+    "country_url": "https://www.theswiftcodes.com/reunion/",
+    "page": 1,
+    "bank": "BNP PARIBAS LA REUNION",
+    "city": "SAINT DENIS",
+    "branch": "",
+    "swift_code": "BNPARERX",
+    "row_url": "https://www.theswiftcodes.com/reunion/bnparerx/"
+  },
+  {
+    "country": "REUNION",
+    "country_url": "https://www.theswiftcodes.com/reunion/",
+    "page": 1,
+    "bank": "CREDIT AGRICOLE",
+    "city": "SAINT DENIS",
+    "branch": "",
+    "swift_code": "AGRIRERX",
+    "row_url": "https://www.theswiftcodes.com/reunion/agrirerx/"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "CENTRAL BANK OF ESWATINI",
+    "city": "MBABANE",
+    "branch": "",
+    "swift_code": "SWAZSZMB",
+    "row_url": "https://www.theswiftcodes.com/swaziland/swazszmb/"
+  },
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "FARMERS BANK (PTY) LTD",
+    "city": "MANZINI",
+    "branch": "",
+    "swift_code": "FARPSZMA",
+    "row_url": "https://www.theswiftcodes.com/swaziland/farpszma/"
+  },
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "FIRST NATIONAL BANK OF ESWATINI LIMITED",
+    "city": "MBABANE",
+    "branch": "",
+    "swift_code": "FIRNSZMX",
+    "row_url": "https://www.theswiftcodes.com/swaziland/firnszmx/"
+  },
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "NEDBANK ESWATINI LIMITED",
+    "city": "MBABANE",
+    "branch": "",
+    "swift_code": "NESWSZMX",
+    "row_url": "https://www.theswiftcodes.com/swaziland/neswszmx/"
+  },
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "STANDARD BANK ESWATINI LIMITED",
+    "city": "MBABANE",
+    "branch": "",
+    "swift_code": "SBICSZMX",
+    "row_url": "https://www.theswiftcodes.com/swaziland/sbicszmx/"
+  },
+  {
+    "country": "SWAZILAND",
+    "country_url": "https://www.theswiftcodes.com/swaziland/",
+    "page": 1,
+    "bank": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+    "city": "MBABANE",
+    "branch": "",
+    "swift_code": "SDSBSZMB",
+    "row_url": "https://www.theswiftcodes.com/swaziland/sdsbszmb/"
+  }
+]

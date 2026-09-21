@@ -1,0 +1,592 @@
+[
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ABSA BANK OF GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "ABSA GHANA CUSTODY SECURITIES SERVICES",
+    "swift_code": "BARCGHACCSS",
+    "row_url": "https://www.theswiftcodes.com/ghana/barcghaccss/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ABSA BANK OF GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "ALL BRANCHES IN GHANA",
+    "swift_code": "BARCGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/barcghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ABSA BANK OF GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "OFFSHORE BANKING UNIT",
+    "swift_code": "BARCGHACOBU",
+    "row_url": "https://www.theswiftcodes.com/ghana/barcghacobu/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ACCESS BANK (GHANA) PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ABNGGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/abngghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "AGRICULTURAL DEVELOPMENT BANK",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ADNTGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/adntghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ARB APEX BANK LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "AREXGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/arexghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF AFRICA - GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "AMMAGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ammaghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHA4",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghgha4/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHA5",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghgha5/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHAB",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghghab/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHA2",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghgha2/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "BANK OF GHANA",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "BAGHGHA3",
+    "row_url": "https://www.theswiftcodes.com/ghana/baghgha3/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "CALBANK PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ACCCGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/acccghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "CALBANK PLC",
+    "city": "ACCRA",
+    "branch": "CAL BANK CUSTODY SERVICES",
+    "swift_code": "ACCCGHACCBS",
+    "row_url": "https://www.theswiftcodes.com/ghana/acccghaccbs/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "CENTRAL SECURITIES DEPOSITORY (GH) LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "CSDRGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/csdrghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "CONSOLIDATED BANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "CBGHGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/cbghghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "CONTROLLER AND ACCOUNTANT-GENERAL'S DEPARTMENT",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "CODGGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/codgghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ECOBANK GHANA PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ECOCGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ecocghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ECOBANK GHANA PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ECOCGHACCUS",
+    "row_url": "https://www.theswiftcodes.com/ghana/ecocghaccus/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ECOBANK GHANA PLC",
+    "city": "KUMASI",
+    "branch": "KUMASI BRANCH",
+    "swift_code": "ECOCGHACKSI",
+    "row_url": "https://www.theswiftcodes.com/ghana/ecocghacksi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ECOBANK GHANA PLC",
+    "city": "TAKORADI",
+    "branch": "TAKORADI BRANCH",
+    "swift_code": "ECOCGHACTDI",
+    "row_url": "https://www.theswiftcodes.com/ghana/ecocghactdi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "ECOBANK GHANA PLC",
+    "city": "TEMA",
+    "branch": "TEMA BRANCH",
+    "swift_code": "ECOCGHACTMA",
+    "row_url": "https://www.theswiftcodes.com/ghana/ecocghactma/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "FBNBANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "INCEGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/inceghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "FIDELITY BANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "FBLIGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/fblighac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "FIRST ATLANTIC BANK LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "FAMCGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/famcghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "FIRST NATIONAL BANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "FIRNGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/firnghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "FIRST NATIONAL BANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "FNB GHANA SECURITIES SERVICES UNIT",
+    "swift_code": "FIRNGHACCUS",
+    "row_url": "https://www.theswiftcodes.com/ghana/firnghaccus/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GCB BANK PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "GHCBGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ghcbghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GCB BANK PLC",
+    "city": "KUMASI",
+    "branch": "",
+    "swift_code": "GHCBGHACKSI",
+    "row_url": "https://www.theswiftcodes.com/ghana/ghcbghacksi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GCB BANK PLC",
+    "city": "TAKORADI",
+    "branch": "",
+    "swift_code": "GHCBGHACTDI",
+    "row_url": "https://www.theswiftcodes.com/ghana/ghcbghactdi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GCB BANK PLC",
+    "city": "TEMA",
+    "branch": "",
+    "swift_code": "GHCBGHACTMA",
+    "row_url": "https://www.theswiftcodes.com/ghana/ghcbghactma/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GHANA EXPORT-IMPORT BANK",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "GHEIGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/gheighac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GHANA REVENUE AUTHORITY",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "GHRAGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ghraghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "GUARANTY TRUST BANK (GHANA) LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "GTBIGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/gtbighac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "NATIONAL INVESTMENT BANK",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "NIBGGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/nibgghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "OMNIBSIC BANK GHANA LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "OMBLGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/omblghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "PRUDENTIAL BANK LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "PUBKGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/pubkghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "REPUBLIC BANK (GHANA) PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "HFCAGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/hfcaghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "REPUBLIC BANK (GHANA) PLC",
+    "city": "ACCRA",
+    "branch": "CUSTODY SERVICES",
+    "swift_code": "HFCAGHACCSD",
+    "row_url": "https://www.theswiftcodes.com/ghana/hfcaghaccsd/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SARPONG CAPITAL MARKETS LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "SRCMGHA2",
+    "row_url": "https://www.theswiftcodes.com/ghana/srcmgha2/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SECONDSTAX LIMITED",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "SECXGHA2",
+    "row_url": "https://www.theswiftcodes.com/ghana/secxgha2/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SOCIAL SECURITY AND NATIONAL INSURANCE TRUST",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "SSNTGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ssntghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE GHANA PLC",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "SSEBGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/ssebghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE GHANA PLC",
+    "city": "KUMASI",
+    "branch": "",
+    "swift_code": "SSEBGHACKSI",
+    "row_url": "https://www.theswiftcodes.com/ghana/ssebghacksi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "SOCIETE GENERALE GHANA PLC",
+    "city": "TAMALE",
+    "branch": "",
+    "swift_code": "SSEBGHACTAM",
+    "row_url": "https://www.theswiftcodes.com/ghana/ssebghactam/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "STANBIC BANK GHANA LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "SBICGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/sbicghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK GHANA PLC",
+    "city": "ACCRA",
+    "branch": "HEAD OFFICE",
+    "swift_code": "SCBLGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/scblghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK GHANA PLC",
+    "city": "ACCRA",
+    "branch": "SECURITIES SERVICES UNIT",
+    "swift_code": "SCBLGHACSSU",
+    "row_url": "https://www.theswiftcodes.com/ghana/scblghacssu/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 1,
+    "bank": "STANDARD CHARTERED BANK GHANA PLC",
+    "city": "KUMASI",
+    "branch": "",
+    "swift_code": "SCBLGHACKSI",
+    "row_url": "https://www.theswiftcodes.com/ghana/scblghacksi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "STANDARD CHARTERED BANK GHANA PLC",
+    "city": "TAKORADI",
+    "branch": "",
+    "swift_code": "SCBLGHACTDI",
+    "row_url": "https://www.theswiftcodes.com/ghana/scblghactdi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "STANDARD CHARTERED BANK GHANA PLC",
+    "city": "TEMA",
+    "branch": "",
+    "swift_code": "SCBLGHACTMA",
+    "row_url": "https://www.theswiftcodes.com/ghana/scblghactma/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "TAKORADI INTERNATIONAL COMPANY",
+    "city": "TAKORADI",
+    "branch": "",
+    "swift_code": "TAKOGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/takoghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "UNITED BANK FOR AFRICA (GHANA) LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "STBGGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/stbgghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "UNIVERSAL MERCHANT BANK LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "MBGHGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/mbghghac/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "UNIVERSAL MERCHANT BANK LTD",
+    "city": "KUMASI",
+    "branch": "",
+    "swift_code": "MBGHGHACKSI",
+    "row_url": "https://www.theswiftcodes.com/ghana/mbghghacksi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "UNIVERSAL MERCHANT BANK LTD",
+    "city": "TAKORADI",
+    "branch": "",
+    "swift_code": "MBGHGHACTDI",
+    "row_url": "https://www.theswiftcodes.com/ghana/mbghghactdi/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "UNIVERSAL MERCHANT BANK LTD",
+    "city": "TEMA",
+    "branch": "",
+    "swift_code": "MBGHGHACTMA",
+    "row_url": "https://www.theswiftcodes.com/ghana/mbghghactma/"
+  },
+  {
+    "country": "GHANA",
+    "country_url": "https://www.theswiftcodes.com/ghana/",
+    "page": 2,
+    "bank": "ZENITH BANK (GHANA) LTD",
+    "city": "ACCRA",
+    "branch": "",
+    "swift_code": "ZEBLGHAC",
+    "row_url": "https://www.theswiftcodes.com/ghana/zeblghac/"
+  }
+]

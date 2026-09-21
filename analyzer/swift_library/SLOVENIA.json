@@ -1,0 +1,442 @@
+[
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "ADDIKO BANK D.D.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "HAABSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/haabsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BSLJSI2XIND",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xind/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BSLJSI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "(PORAVNAVA BANKOMATOV)",
+    "swift_code": "BSLJSI2XATM",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xatm/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "(PORAVNAVA KARTIC)",
+    "swift_code": "BSLJSI2XPOS",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xpos/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "(SIMP-PS - STORITEV IDD-CORE)",
+    "swift_code": "BSLJSI2XIDD",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xidd/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "CCBM",
+    "swift_code": "BSLJSI2XCCB",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xccb/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "COLLATERAL MANAGEMENT",
+    "swift_code": "BSLJSI2XECM",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xecm/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "MONEY MARKET AND FOREIGN EXCHANGE ONLY",
+    "swift_code": "BSLJSI2XFNB",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xfnb/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "PARTY ID BANKA SLOVENIJE",
+    "swift_code": "BSLJSI2XPAR",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xpar/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "PLACILNA BANKA BANKE SLOVENIJE",
+    "swift_code": "BSLJSI2XPBO",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xpbo/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "PORAVNAVA SEPA CT",
+    "swift_code": "BSLJSI2XSCT",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xsct/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "PORAVNAVA STEP2 MPEDD - STORITEV B2B",
+    "swift_code": "BSLJSI2XB2B",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xb2b/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "PORAVNAVA STEP2 MPEDD - STORITEV CORE",
+    "swift_code": "BSLJSI2XCOR",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xcor/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANK OF SLOVENIA",
+    "city": "LJUBLJANA",
+    "branch": "TARGET",
+    "swift_code": "BSLJSI2XEUX",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bsljsi2xeux/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "city": "KOPER",
+    "branch": "",
+    "swift_code": "BAKOSI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bakosi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKA INTESA SANPAOLO D.D.",
+    "city": "KOPER",
+    "branch": "IBOS CODE",
+    "swift_code": "BAKOSI2XIBO",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bakosi2xibo/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKA SPARKASSE D.D.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "KSPKSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/kspksi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22AGF",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22agf/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22ATM",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22atm/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22IDD",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22idd/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22IGF",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22igf/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22PGF",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22pgf/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22POS",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22pos/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22ATR",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22atr/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22IDR",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22idr/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BANKART D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BKDOSI22POR",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bkdosi22por/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "BKS BANK AG, BANCNA PODRUZNICA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BFKKSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bfkksi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "KDDSSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/kddssi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "KDDSSI22T2P",
+    "row_url": "https://www.theswiftcodes.com/slovenia/kddssi22t2p/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "KDDSSI22PB3",
+    "row_url": "https://www.theswiftcodes.com/slovenia/kddssi22pb3/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "HDELSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/hdelsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "SZKBSI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/szkbsi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "GEOPLIN D.O.O. LJUBLJANA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "GEOLSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/geolsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "GORENJSKA BANKA D.D., KRANJ",
+    "city": "KRANJ",
+    "branch": "",
+    "swift_code": "GORESI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/goresi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "HRANILNICA LON D.D.",
+    "city": "KRANJ",
+    "branch": "",
+    "swift_code": "HLONSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/hlonsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+    "city": "MARIBOR",
+    "branch": "",
+    "swift_code": "KBMASI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/kbmasi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "LJBASI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/ljbasi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "PAYWISER D.O.O.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "PWSRSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/pwsrsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "PRIMORSKA HRANILNICA VIPAVA D.D.",
+    "city": "VIPAVA",
+    "branch": "",
+    "swift_code": "HKVISI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/hkvisi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "SIDRSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/sidrsi22/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "SKB D.D",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "SKBASI2X",
+    "row_url": "https://www.theswiftcodes.com/slovenia/skbasi2x/"
+  },
+  {
+    "country": "SLOVENIA",
+    "country_url": "https://www.theswiftcodes.com/slovenia/",
+    "page": 1,
+    "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+    "city": "LJUBLJANA",
+    "branch": "",
+    "swift_code": "BACXSI22",
+    "row_url": "https://www.theswiftcodes.com/slovenia/bacxsi22/"
+  }
+]

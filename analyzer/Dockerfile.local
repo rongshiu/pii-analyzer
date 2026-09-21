@@ -1,0 +1,54 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    curl \
+    poppler-utils \
+    tesseract-ocr \
+    libtesseract-dev \
+    libpq-dev \
+    gcc \
+    g++ \
+    file \
+ && rm -rf /var/lib/apt/lists/*
+
+# Install pip packages
+COPY requirements.txt /app/requirements.txt
+RUN pip install --upgrade pip \
+    && pip install -r /app/requirements.txt 
+
+# Internal shared package from a private repo (not publicly available)
+RUN --mount=type=secret,id=github_token \
+pip install \
+"git+https://$(cat /run/secrets/github_token)@github.com/ORG/INTERNAL-SHARED-PACKAGE.git@main#subdirectory=pkg/python"
+
+# Hugging Face model preload
+RUN --mount=type=secret,id=hugging_face_hub_token \
+export HUGGING_FACE_HUB_TOKEN=$(cat /run/secrets/hugging_face_hub_token) && python3 <<EOF
+import os
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+
+models = ["org/address-detector"]
+token = os.environ.get("HUGGING_FACE_HUB_TOKEN")
+
+print(f"Using HF token: {bool(token)}")
+for m in models:
+    print(f"Preloading {m}...")
+    AutoTokenizer.from_pretrained(m, token=token, cache_dir="/app/cache")
+    AutoModelForTokenClassification.from_pretrained(m, token=token, cache_dir="/app/cache")
+EOF
+
+# Copy your app code
+COPY app/ ./app/
+COPY swift_library/ ./swift_library/
+COPY main.py ./main.py
+
+ENV PYTHONPATH=/app \
+    HF_HOME=/app/cache \
+    IS_LOCAL=True
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "3000"]

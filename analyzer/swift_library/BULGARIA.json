@@ -1,0 +1,572 @@
+[
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "ALLIANZ BANK BULGARIA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BUINBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/buinbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BIGBANK AS - BRANCH BULGARIA",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BIGKBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bigkbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BNP PARIBAS S.A.-SOFIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNPABGSX",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnpabgsx/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BORICA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BSBGBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bsbgbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BORICA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BSBGBGSFST2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bsbgbgsfst2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BORICA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BSBGBGSFTPS",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bsbgbgsftps/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BORICA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BSBGBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bsbgbgs2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BORICA AD",
+    "city": "SOFIA",
+    "branch": "T2 INTEROPERABILITY",
+    "swift_code": "BSBGBGSFIOP",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bsbgbgsfiop/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN DEVELOPMENT BANK EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "NASBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/nasbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN NATIONAL BANK",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNBGBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnbgbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN NATIONAL BANK",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNBGBGSE",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnbgbgse/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN NATIONAL BANK",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNBGBGSA",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnbgbgsa/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN NATIONAL BANK",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNBGBGSB",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnbgbgsb/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN NATIONAL BANK - BGN",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BNBGBGSD",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bnbgbgsd/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "BULGARIAN-AMERICAN CREDIT BANK",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BGUSBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bgusbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "CENTRAL COOPERATIVE BANK PLC",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "CECBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/cecbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "CENTRAL DEPOSITORY AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "CEDPBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/cedpbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "CENTRAL DEPOSITORY AD",
+    "city": "SOFIA",
+    "branch": "CREARING HOUSE",
+    "swift_code": "CEDPBGSFCLX",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/cedpbgsfclx/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "CITIBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/citibgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
+    "city": "SOFIA",
+    "branch": "TRADE SERVICES DEPARTMENT",
+    "swift_code": "CITIBGSFTRD",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/citibgsftrd/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "D COMMERCE BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "DEMIBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/demibgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "DATECS PAYMENT TECHNOLOGY EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "DPCDBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/dpcdbgs2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "DSK BANK (FORMERLY STATE SAVINGS BANK)",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "STSABGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/stsabgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "EASY PAYMENT SERVICES LTD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "EAPSBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/eapsbgs2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "ECONT FINANCIAL SERVICES LTD",
+    "city": "RUSE",
+    "branch": "",
+    "swift_code": "ECFEBG22",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/ecfebg22/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "EUROBANK BULGARIA AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "BPBIBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bpbibgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "EUROBANK BULGARIA AD",
+    "city": "SOFIA",
+    "branch": "CUSTODY DEPARTMENT",
+    "swift_code": "BPBIBGSFSEC",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bpbibgsfsec/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "EUROBANK BULGARIA AD",
+    "city": "SOFIA",
+    "branch": "INTERNATIONAL SECURITIES DEPOSITORY",
+    "swift_code": "BPBIBGSFISD",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/bpbibgsfisd/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "EXPAT ASSET MANAGEMENT EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "XPATBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/xpatbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "FIRST INVESTMENT BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "FINVBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/finvbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "ICARD AD",
+    "city": "VARNA",
+    "branch": "",
+    "swift_code": "INTFBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/intfbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "ING BANK N.V. SOFIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "INGBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/ingbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "INTERNATIONAL ASSET BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "IABGBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/iabgbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "INVESTBANK JSC",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "IORTBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/iortbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "IP INTERCAPITAL MARKETS AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "INMKBGSS",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/inmkbgss/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "LTZ INVESTMENTS LTD",
+    "city": "PLOVDIV",
+    "branch": "",
+    "swift_code": "LTZIBG22",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/ltzibg22/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "MUNICIPAL BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "SOMBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/sombbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "MYFIN EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "MYFNBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/myfnbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "PAYMAN GROUP OOD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "PYMNBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/pymnbgs2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "PAYNETICS AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "PATCBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/patcbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "PROCREDIT BANK (BULGARIA) EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "PRCBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/prcbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "T.C. ZIRAAT BANKASI - SOFIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "TCZBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/tczbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "TBI BANK EAD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "TBIBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/tbibbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "TENEN PAYMENTS JSC",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "TEPJBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/tepjbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "TEXIM BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "TEXIBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/texibgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "THRACIAN INVEST INC.",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "THRIBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/thribgs2/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "TOKUDA BANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "CREXBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/crexbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "PLOVDIV",
+    "branch": "PLOVDIV BRANCH",
+    "swift_code": "UNCRBGSF720",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf720/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "UNCRBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 1,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "SOFIA",
+    "branch": "SERDIKA BRANCH",
+    "swift_code": "UNCRBGSF031",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf031/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "SOFIA",
+    "branch": "VITOSHA BRANCH",
+    "swift_code": "UNCRBGSF426",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf426/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "VARNA",
+    "branch": "",
+    "swift_code": "UNCRBGSF733",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf733/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "UNICREDIT BULBANK AD",
+    "city": "VELIKO TARNOVO",
+    "branch": "V. TARNOVO BRANCH",
+    "swift_code": "UNCRBGSF081",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/uncrbgsf081/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "UNITED BULGARIAN BANK AD",
+    "city": "SOFIA",
+    "branch": "HEADQUARTER",
+    "swift_code": "UBBSBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/ubbsbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "UNITED BULGARIAN BANK AD (FORMER KBC BANK BULGARIAEAD)",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "RZBBBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/rzbbbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "VARENGOLD BANK AG, SOFIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "VGAGBGSF",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/vgagbgsf/"
+  },
+  {
+    "country": "BULGARIA",
+    "country_url": "https://www.theswiftcodes.com/bulgaria/",
+    "page": 2,
+    "bank": "VIVA PAYMENT SERVICES S.A. BULGARIA BRANCH",
+    "city": "SOFIA",
+    "branch": "",
+    "swift_code": "VPAYBGS2",
+    "row_url": "https://www.theswiftcodes.com/bulgaria/vpaybgs2/"
+  }
+]
